@@ -1,11 +1,13 @@
 # Site wide configuration
 
-title: "Skinny Bones"
-description: "A lightweight site starter for Jekyll"
+title: "কৃত্রিম বুদ্ধিমত্তা | বাংলা"
+description: "বাংলাদেশে মেশিন লার্নিং কাজ"
 logo: 120x120.gif
 teaser: 400x250.gif
-locale: en_US
-url: "https://mmistakes.github.io/jekyll-theme-skinny-bones"
+locale: bn_BD
+
+# locale: en_US
+url: "https://r-hassan.github.io"
 feed:
   path: atom.xml
 
@@ -26,9 +28,9 @@ plugins:
 
 # Site owner
 owner:
-  name: "Michael Rose"
+  name: "Rakibul Hassan"
   web: "https://mademistakes.com"
-  twitter: "mmistakes"
+  twitter: "raqueeb"
   bio: "Just another boring, tattooed, time traveling designer."
   avatar: "bio-photo.jpg" # 160x160 px image for author byline
   google:
