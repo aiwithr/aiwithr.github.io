@@ -1,0 +1,16 @@
+# Footer navigation links
+
+- title: কৃত্রিম বুদ্ধিমত্তা
+  url: /
+
+- title: কেন?
+  url: /why/
+
+- title: কিভাবে শুরু?
+  url: /getting-started/
+
+- title: রিসোর্স
+  url: /resources/
+  
+- title: আর্টিকেল
+  url: /articles/
