@@ -52,7 +52,14 @@ share: false
 এটা একদম শুরুর কোর্স। এটাকে "গেটওয়ে কোর্স" বলা যেতে পারে। এর আসল কোর্স আসলে চার সপ্তাহের। 
 {: .notice-info}
 
-প্রিরিকুইজিট: যেকোন ১টা বই থাকতে হবে সাথে।
+## সহায়ক বই/ডকুমেন্টেশন (অনলাইন/প্রিন্ট)
+
+<figure>
+	<a href="../images/mlbook1.jpg"><img src="../images/mlbook1.jpg"></a>
+	<figcaption>ব্যবহৃত যেকোন একটা বই</figcaption>
+</figure>
+
+**প্রিরিকুইজিট:** যেকোন ১টা বই থাকতে হবে সাথে।
 
 | বইয়ের নাম | অনলাইন লিংক | প্রিন্ট বই |
 | :--- | :--- | :--- | :--- |
@@ -65,16 +72,11 @@ share: false
 
 ২. [আর-ষ্টুডিও ক্লাউড](https://rstudio.cloud/) এর একটি অ্যাকাউন্ট খুলে ফেলুন ক্লাসের আগেই।
 
-## সহায়ক বই/ডকুমেন্টেশন (অনলাইন/প্রিন্ট)
-
-<figure>
-	<a href="../images/mlbook1.jpg"><img src="../images/mlbook1.jpg"></a>
-	<figcaption>ব্যবহৃত যেকোন একটা বই</figcaption>
-</figure>
-
-### রেজিস্ট্রেশন লিংক
+### রেজিস্ট্রেশন লিংক (মেশিন লার্নিং)
 
 রেজিস্ট্রেশন করতে এখানে ক্লিক করুন। [আবেদন করুন এখানে](https://docs.google.com/forms/d/e/1FAIpQLSevjHblL-g0FabuvdNvVDEB1CYtQYeOwVKYMaEwctnUKM8B2w/viewform?usp=sf_link)।
+
+## 
 
 ## ২. হাতেকলমে ডাটা অ্যানালাইটিক্স কোর্স
 
@@ -102,5 +104,15 @@ share: false
 | মাইক্রোসফট এক্সেল | কেস তৈরি |
 | ট্যাবলিউ | কেস তৈরি |
 | পাওয়ার বিআই | কেস তৈরি |
+
+## সহায়ক বই/ডকুমেন্টেশন (অনলাইন/প্রিন্ট)
+
+## বই, অনলাইন এক্সেস এবং গিটহাব
+
+| বইয়ের নাম | অনলাইন | গিটহাব |
+| :--- | :--- | :--- | :--- |
+| মর্তের মানুষের ডেটা অ্যানালাইটিক্স | [অনলাইন](https://aiwithr.github.io/analyst/) | [গিটহাব](https://github.com/raqueeb/data_analyst) |
+
+### রেজিস্ট্রেশন লিংক (অ্যানালাইটিক্স)
 
 [আবেদন করুন এখানে](https://docs.google.com/forms/d/e/1FAIpQLSevjHblL-g0FabuvdNvVDEB1CYtQYeOwVKYMaEwctnUKM8B2w/viewform?usp=sf_link)
