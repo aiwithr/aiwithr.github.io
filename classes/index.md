@@ -35,7 +35,8 @@ share: false
 নন কম্পিউটিং ব্যাকগ্রাউন্ড থেকে সব ধরনের পেশাজীবীদের কথা মনে রেখে লেখা হয়েছিল হাতে কলমে মেশিন লার্নিং বইটা। ২০১৬-২০১৭ সালে। এটা এখন স্বতঃসিদ্ধ যে একজন বিজনেস প্রফেশনাল (নন প্রোগ্রামার) একদম শুরু থেকে মেশিন লার্নিং বুঝতে চাইলে আর প্রোগ্রামিং এনভারমেন্ট অনেকটাই গডসেন্ড। এই পুরো বইটাকে একনাগাড়ে, সলভ করা হয়েছে তিন ঘন্টার অনলাইন ক্লাসে।
 
 <div class="badges">
-	<span class="badge">প্ল্যাটফর্ম:</span><span class="badge info">আর প্রোগ্রামিং এনভায়রনমেন্ট</span>
+	<span class="badge">প্ল্যাটফর্ম:</span> 
+	<span class="badge info">আর প্রোগ্রামিং এনভায়রনমেন্ট</span>
 </div>
 
 (সময়ের স্বল্পতার কারণে বইটির গুরুত্বপূর্ণ অংশ সলভ করা হবে এই তিন ঘন্টার ক্লাসে)
@@ -76,7 +77,7 @@ share: false
 
 রেজিস্ট্রেশন করতে এখানে ক্লিক করুন। [আবেদন করুন এখানে](https://docs.google.com/forms/d/e/1FAIpQLSevjHblL-g0FabuvdNvVDEB1CYtQYeOwVKYMaEwctnUKM8B2w/viewform?usp=sf_link)।
 
-## 
+## -
 
 ## ২. হাতেকলমে ডাটা অ্যানালাইটিক্স কোর্স
 
@@ -113,6 +114,6 @@ share: false
 | :--- | :--- | :--- | :--- |
 | মর্তের মানুষের ডেটা অ্যানালাইটিক্স | [অনলাইন](https://aiwithr.github.io/analyst/) | [গিটহাব](https://github.com/raqueeb/data_analyst) |
 
-### রেজিস্ট্রেশন লিংক (অ্যানালাইটিক্স)
+## রেজিস্ট্রেশন লিংক (অ্যানালাইটিক্স)
 
 [আবেদন করুন এখানে](https://docs.google.com/forms/d/e/1FAIpQLSevjHblL-g0FabuvdNvVDEB1CYtQYeOwVKYMaEwctnUKM8B2w/viewform?usp=sf_link)
