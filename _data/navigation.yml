@@ -1,0 +1,36 @@
+# Site navigation links
+
+- title: কেন?
+  url: /why/
+  excerpt: "কেন দরকার ইন্টেলিজেন্ট সিস্টেম?"
+  image: 400x250.gif
+
+- title: শুরু কোথায়?
+  url: /getting-started/
+  excerpt: "কিভাবে আমরা শুরু করবো, কি শিখতে চাইবো?"
+  image: 400x250.gif
+
+- title: রিসোর্স
+  url: /resources/
+  excerpt: "বাংলায় ইন্টেলিজেন্ট সিস্টেম নিয়ে আমার তৈরি করা রিসোর্স"
+  image: 400x250.gif
+
+- title: আর্টিকেল
+  url: /articles/
+  excerpt: "বাংলায় ইন্টেলিজেন্ট সিস্টেম নিয়ে কিছু আর্টিকেল"
+  image: 400x250.gif
+
+  title: মিনি ক্লাস
+  url: /classes/
+  excerpt: "বাংলায় ইন্টেলিজেন্ট সিস্টেম নিয়ে মিনি ক্লাস"
+  image: 400x250.gif
+
+- title: মেন্টরশীপ
+  url: /mentorship/
+  excerpt: "ডেটা-সাইন্স নিয়ে নন-প্রোগ্রামারদের জন্য 'এক্সক্লুসিভ' মেন্টরশীপ"
+  image: 400x250.gif
+
+- title: আমি কে?
+  url: /about/
+  excerpt: "আমি কে, কেন এলাম ইন্টেলিজেন্ট সিস্টেম নিয়ে?"
+  image: 400x250.gif

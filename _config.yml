@@ -1,0 +1,66 @@
+# Site wide configuration
+
+title: "কৃত্রিম বুদ্ধিমত্তা | বাংলায়"
+description: "বাংলাদেশে মেশিন লার্নিং কাজ, রকিবের সাথে মেশিন লার্নিং, মেশিন লার্নিং, machine learning, রকিবুল হাসান, machine learning with rakib, কৃত্রিম বুদ্ধিমত্তা, রকিবের সাথে কৃত্রিম বুদ্ধিমত্তা"
+logo: 120x120.gif
+teaser: 400x250.gif
+locale: bn_BD
+
+# locale: en_US
+url: "https://aiwithr.github.io"
+feed:
+  path: atom.xml
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+
+# Site owner
+owner:
+  name: "রকিবুল হাসান"
+  web: "https://aiwithr.github.io"
+  twitter: "raqueeb"
+  bio: "টাইম ট্রাভেলার, মেকার, উৎকর্ষের সন্ধানে ব্যস্ত"
+  avatar: "bio-photo.jpg" # 160x160 px image for author byline
+  google:
+    plus: 
+    ad-client: 
+    ad-slot: 
+    disqus-shortname:
+
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp

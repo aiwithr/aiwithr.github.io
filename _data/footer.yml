@@ -1,0 +1,19 @@
+# Footer navigation links
+
+- title: কৃত্রিম বুদ্ধিমত্তা
+  url: /
+
+- title: কেন?
+  url: /why/
+
+- title: আর্টিকেল
+  url: /articles/
+
+- title: মিনি ক্লাস
+  url: /classes/
+
+- title: রিসোর্স
+  url: /resources/
+  
+- title: প্রাইভেসী
+  url: /media/
