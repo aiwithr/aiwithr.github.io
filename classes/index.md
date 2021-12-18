@@ -160,7 +160,7 @@ share: false
 
 রেজিস্ট্রেশন চালু জানুয়ারীতে। 
 
-[//]: # "Comment [আবেদন করুন এখানে](https://docs.google.com/forms/d/e/1FAIpQLSevjHblL-g0FabuvdNvVDEB1CYtQYeOwVKYMaEwctnUKM8B2w/viewform?usp=sf_link)। "
+## *
 
 ## ৪. ট্যাবলিউ দিয়ে ডাটা অ্যানালাইসিস
 
