@@ -78,13 +78,13 @@ share: false
 
 | এমএফএস: | ৯৩ টাকা |
 
-| তারিখ: | ২৫ ডিসেম্বর ২০২১ |
+| তারিখ: | ০২/০৬ জানু ২০২১ |
 
 | সময়: | সন্ধা ০৭:০০ - ০৭৫৫ |
 
 ## - রেজিস্ট্রেশন লিংক (ডাটা লিটারেসি)
 
-রেজিস্ট্রেশন শুরু হয়েছে [এখানে](https://forms.gle/9Y9KeToHfnpzDkr87)।
+রেজিস্ট্রেশন শুরু হয়েছে [এখানে](https://forms.gle/7k2JMH37pU3CNUdPA)।
 
 [//]: # "রেজিস্ট্রেশন করতে এখানে ক্লিক করুন। [আবেদন করুন এখানে](https://docs.google.com/forms/d/e/1FAIpQLSevjHblL-g0FabuvdNvVDEB1CYtQYeOwVKYMaEwctnUKM8B2w/viewform?usp=sf_link)।"
 
