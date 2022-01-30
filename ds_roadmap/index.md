@@ -23,7 +23,7 @@ share: true
 	<span class="badge success">মেশিন লার্নিং ইঞ্জিনিয়ার</span>
 </div>
 
-ডাটা সাইন্স দিয়ে একটা রোডম্যাপ - একদম শুরু থেকে। ফর অ্যাবসলিউট বিগিনার্স!
+ডাটা সাইন্স দিয়ে একটা রোডম্যাপ - একদম শুরু থেকে। ফর অ্যাবসলিউট বিগিনার্স! পিএইচডি দরকার নেই এই ডাটা সাইন্স করতে! 
 {: .notice-info}
 
 > Recipes tell you nothing. Learning techniques is the key.
