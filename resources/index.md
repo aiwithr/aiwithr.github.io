@@ -65,7 +65,7 @@ share: true
 | কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র (অনলাইন) | [অনলাইন](https://aiwithr.github.io/aibook/) | [ইন্টারফেস](https://raqueeb.github.io/excel/) |
 | উৎকর্ষের সন্ধানে: বাংলাদেশ; কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র | [অনলাইন-বই](https://aiwithr.github.io/aibook/) | [রকমারি](https://www.rokomari.com/book/215389/) |
 | নন-প্রোগ্রামারদের জন্য ডেটা অ্যানালাইটিক্স | [ভিডিও](https://youtube.com/playlist?list=PL5NPSn95n_L4Z5bpCOqHW_QU8nxgywGM2) | [অনলাইন বই](https://aiwithr.github.io/analyst/) |
-| পাঁচটা বই একসাথে কেনার লিঙ্ক | আসবে | [রকমারি](https://www.rokomari.com/book/187570/) |
+| পাঁচটা বই একসাথে কেনার লিঙ্ক | [এখানে](https://www.rokomari.com/book/218840/) | [রকমারি](https://www.rokomari.com/book/218840/) |
 | নীলক্ষেত থেকে কেনার ব্যবস্থা | [প্রিন্ট বই, নীলক্ষেত, হক, মানিক লাইব্রেরি সহ অনেকে](https://www.facebook.com/%E0%A6%B9%E0%A6%95-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-996072720590097/)| [ফোন: ০১৭৩৫৭৪২৯০৮, ০১৮২০১৫৭১৮১](https://www.facebook.com/ManikLibraryOnline) |
 
 ## বাংলায় ডিপ লার্নিংয়ের বই
