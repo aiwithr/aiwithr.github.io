@@ -77,7 +77,7 @@ share: true
 | হাতেকলমে বাংলা ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং | [অনলাইন-বই](https://aiwithr.github.io/nlpbook/) | [রকমারি](https://www.rokomari.com/book/209335/) |
 | কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র (অনলাইন) | [অনলাইন](https://aiwithr.github.io/aibook/) | [ইন্টারফেস](https://raqueeb.github.io/excel/) |
 | উৎকর্ষের সন্ধানে: বাংলাদেশ; কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র | [অনলাইন-বই](https://aiwithr.github.io/aibook/) | [রকমারি](https://www.rokomari.com/book/215389/) |
-| নন-প্রোগ্রামারদের জন্য ডেটা অ্যানালাইটিক্স | [ভিডিও](https://youtube.com/playlist?list=PL5NPSn95n_L4Z5bpCOqHW_QU8nxgywGM2) | [অনলাইন বই](https://aiwithr.github.io/analyst/) |
+| হাতেকলমে ডেটা অ্যানালাইটিক্স এবং ডেটা ভিজ্যুয়ালাইজেশন | [রকমারি](https://www.rokomari.com/book/288032/hatekolome-data-analytics-o-visualisation) | [অনলাইন বই](https://aiwithr.github.io/analyst/) |
 | পাঁচটা বই একসাথে কেনার লিঙ্ক | [এখানে](https://www.rokomari.com/book/218840/) | [রকমারি](https://www.rokomari.com/book/218840/) |
 | নীলক্ষেত থেকে কেনার ব্যবস্থা | [প্রিন্ট বই, নীলক্ষেত, হক, মানিক লাইব্রেরি সহ অনেকে](https://www.facebook.com/%E0%A6%B9%E0%A6%95-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-996072720590097/)| [ফোন: ০১৭৩৫৭৪২৯০৮, ০১৮২০১৫৭১৮১](https://www.facebook.com/ManikLibraryOnline) |
 
@@ -99,6 +99,7 @@ share: true
 | হাতেকলমে পাইথন ডিপ লার্নিং | [লিংক](https://www.daraz.com.bd/products/-i128958054-s1048760362.html) |
 | হাতেকলমে বাংলা ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং | [লিংক](https://www.daraz.com.bd/products/by-i177138727-s1117054703.html) |
 | কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র | [আসবে](https://aiwithr.github.io/aibook/) |
+| হাতেকলমে ডেটা অ্যানালাইটিক্স ও ভিজ্যুয়ালাইজেশন | [বাতিঘর](https://baatighar.com/shop/product/9789849760580-84117)
 
 ## নতুন (নীতিনির্ধারণী বই) এর লিংক
 
@@ -152,6 +153,7 @@ share: true
 ৪.         ├── সবুজ-হলুদ = হাতেকলমে পাইথন ডিপ লার্নিং       # অ্যাডভান্সড ব্যবহারকারীদের জন্য   
 ৫.            └── নীল-সাদা = হাতেকলমে বাংলা ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং   # যারা ল্যাঙ্গুয়েজ নিয়ে কাজ করতে চান
 (ডেটা অ্যানালাইটিক্স বই)
+[হাতেকলমে ডেটা অ্যানালাইটিক্স ও ভিজ্যুয়ালাইজেশন]
 ৭. অনলাইনে আছে, প্রিন্ট আসছে সামনে
 (নন-টেকনিক্যাল বই, সবার জন্য)
 ৮. ├── উৎকর্ষের সন্ধানে: বাংলাদেশ; কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র
@@ -199,7 +201,7 @@ share: true
 | শুন্য থেকে পাইথন মেশিন লার্নিং | [লিংক](https://github.com/raqueeb/ml-python) |
 | হাতেকলমে পাইথন ডিপ লার্নিং | [লিংক](https://github.com/raqueeb/TensorFlow2) |
 | হাতেকলমে বাংলা ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং | [লিংক](https://github.com/raqueeb/nlp_bangla) |
-| নন-প্রোগ্রামারদের জন্য ডেটা অ্যানালাইটিক্স | [লিংক](https://github.com//raqueeb/analyst/) |
+| হাতেকলমে ডেটা অ্যানালাইটিক্স ও ভিজ্যুয়ালাইজেশন | [লিংক](https://github.com//raqueeb/analyst/) |
 
 ## কিছু অনলাইন ট্রেনিং ম্যাটেরিয়াল
 
