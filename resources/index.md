@@ -101,11 +101,12 @@ share: true
 | কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র | [আসবে](https://aiwithr.github.io/aibook/) |
 | হাতেকলমে ডেটা অ্যানালাইটিক্স ও ভিজ্যুয়ালাইজেশন | [বাতিঘর](https://baatighar.com/shop/product/9789849760580-84117)
 
-## নতুন (নীতিনির্ধারণী বই) এর লিংক
+## 'কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র' বই এর লিংক
 
-* [কৃত্রিম বুদ্ধিমত্তা, আমাদের ভবিষ্যৎ: নীতিনির্ধারণী আলাপ - বাংলাদেশ](https://aiwithr.github.io/aibook/)
+* [অনলাইন বইয়ের লিংক](https://aiwithr.github.io/aibook/)
+* [অনলাইন বইয়ের পিডিএফ লিংক](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/krittrim_buddhimottay_manobik_rashtro.pdf)
 * [ওয়েব ইন্টারফেস](https://raqueeb.github.io/excel/)
-* [উৎকর্ষের সন্ধানে: বাংলাদেশ; কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র](https://www.rokomari.com/book/215389/)
+* [রকমারি লিংক; কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র](https://www.rokomari.com/book/215389/)
 
 ![কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র](../images/aibook1.jpg)
 <div class="badges">
