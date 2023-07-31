@@ -104,7 +104,7 @@ share: true
 ## 'কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র' বই এর লিংক
 
 * [অনলাইন বইয়ের লিংক](https://aiwithr.github.io/aibook/)
-* [অনলাইন বইয়ের পিডিএফ লিংক](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/krittrim_buddhimottay_manobik_rashtro.pdf)
+* [ডাউনলোড করার জন্য পিডিএফ লিংক](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/krittrim_buddhimottay_manobik_rashtro.pdf)
 * [ওয়েব ইন্টারফেস](https://raqueeb.github.io/excel/)
 * [রকমারি লিংক; কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র](https://www.rokomari.com/book/215389/)
 
