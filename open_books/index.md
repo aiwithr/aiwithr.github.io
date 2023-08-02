@@ -14,4 +14,4 @@
 
 'ইফ ইউ বিল্ড ইট, দে উইল কাম'। সত্যি! হাজারো জিনিস করার আছে আমাদের বাংলাদেশে!
 
-'ডাউনলোডেবল' পিডিএফ বইয়ের লিংক: https://lnkd.in/gytwaaHi
+* [ডাউনলোডেবল' পিডিএফ বইয়ের লিংক](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/krittrim_buddhimottay_manobik_rashtro.pdf)
