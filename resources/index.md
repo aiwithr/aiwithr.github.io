@@ -134,7 +134,7 @@ share: true
 আমার খসড়া বইগুলো **সবসময়ই** ফ্রি থাকবে অনলাইনে \(গিটবুকে\)। অন্য ফরম্যাটের বইগুলো কিনতে হবে না এমুহুর্তে। পরে কিনতে পারেন। সব বইগুলো অনলাইনে আছে। 'আন-এডিটেড'। আসল বইগুলো বাজারে আসার আগেই পাবলিশিং হাউস প্রফেশনালি এডিট করে দিয়েছেন। বইগুলোর 'টেবিল অফ কনটেন্ট' অর্থাৎ সূচিপত্র ডাউনলোড হবে 'পিডিএফ' হিসেবে।
 {: .notice-info}
 
-| বইয়ের নাম | টেবিল অফ কনটেন্ট |
+| বইয়ের নাম | টেবিল অফ কনটেন্ট/মূল বই |
 | :--- | :--- |
 | [প্রথম গিটবুক, হাতেকলমে মেশিন লার্নিং](https://raqueeb.gitbooks.io/mlbook-titanic/content/) | [সূচী](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/ai-where-are-we.pdf) |
 | [দ্বিতীয় গিটবুক, টাইটানিক -পাইথন অংশ](https://rakibul-hassan.gitbook.io/mlbook-titanic/j_notebook/titanic-project-test) | [সূচী](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/ai-where-are-we.pdf) |
@@ -142,6 +142,7 @@ share: true
 | [চতুর্থ গিটবুক, পাইথন ডিপ লার্নিং](https://www.rokomari.com/book/198757/) | [সূচী](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/concept-ai.pdf) |
 | [পঞ্চম অনলাইন বুক, ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং](https://aiwithr.github.io/nlpbook/) | [সূচী](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/nlp-bangla.pdf) |
 | [ষষ্ঠ অনলাইন বই, কৃত্রিম বুদ্ধিমত্তা, নীতিনির্ধারণী আলাপ - বাংলাদেশ](https://aiwithr.github.io/aibook/) | [সূচী](https://aiwithr.github.io/aibook/) |
+| [কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র](https://aiwithr.github.io/aibook/) | [মূল বই](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/krittrim_buddhimottay_manobik_rashtro.pdf) |
 
 ## কোন বইয়ের পর কোন বইটা ব্যবহার করবো?
 
