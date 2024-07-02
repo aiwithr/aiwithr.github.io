@@ -79,6 +79,7 @@ share: true
 | উৎকর্ষের সন্ধানে: বাংলাদেশ; কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র | [অনলাইন-বই](https://aiwithr.github.io/aibook/) | [রকমারি](https://www.rokomari.com/book/215389/) |
 | হাতেকলমে ডেটা অ্যানালাইটিক্স এবং ডেটা ভিজ্যুয়ালাইজেশন | [রকমারি](https://www.rokomari.com/book/288032/hatekolome-data-analytics-o-visualisation) | [অনলাইন বই](https://aiwithr.github.io/analyst/) |
 | কৃত্রিম বুদ্ধিমত্তায় শিক্ষাব্যবস্থা | [রকমারি](https://www.rokomari.com/book/380494/) | [অনলাইন বই ৫০%](https://aiwithr.github.io/aibook/edu/personalized-ed/) |
+| রোড টু হাইটেক ইন্ডাস্ট্রি: নেটওয়ার্ক/আইএসপি অটোমেশন | আসবে () | [অনলাইন বই ৫০%](https://aiwithr.github.io/automation/) |
 | সাতটা বই একসাথে কেনার লিঙ্ক | [এখানে](https://www.rokomari.com/book/218840/) | [রকমারি](https://www.rokomari.com/book/218840/) |
 | নীলক্ষেত থেকে কেনার ব্যবস্থা | [প্রিন্ট বই, নীলক্ষেত, হক, মানিক লাইব্রেরি সহ অনেকে](https://www.facebook.com/%E0%A6%B9%E0%A6%95-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-996072720590097/)| [ফোন: ০১৭৩৫৭৪২৯০৮, ০১৮২০১৫৭১৮১](https://www.facebook.com/ManikLibraryOnline) |
 
@@ -224,10 +225,6 @@ share: true
 ১. [হাজারো প্রশ্নের উত্তর](https://aiwithr.github.io/getting-started/)
 
 ২. আমাদের একটা অসাধারণ [ফেসবুক গ্রুপ](https://www.facebook.com/groups/173027520158292) আছে, যেখানে পোস্ট দিলেই অনেকে উত্তর দিয়ে থাকেন। এছাড়া ‘মেশিন লার্নিং’ ব্যাপারটা নিয়ে আমি ‘প্যাশনেট’ হলেও সেটা আমাকে করতে হয় অবসর সময়ে, কর্মক্ষেত্র এবং সংসারের বাইরে। তাই, আগে [প্রশ্নগুলোর উত্তর](https://aiwithr.github.io/getting-started/) দেখুন, তারপর কল করতে পারেন মেসেঞ্জার [Rakibul Hassan](http://m.me/raqueeb) এবং ০১৭১৩০৯৫৭৬৭ (বিকাল ৫- ৬টা) নম্বরে।
-
-## অ্যামাজন অন ডিমান্ড প্রিন্ট
-
-আসছে সামনে।
 
 ## ক্রিয়েটিভ কমন্স লাইসেন্সের আওতায় ওপেনসোর্স বই
 
