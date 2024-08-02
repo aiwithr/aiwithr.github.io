@@ -2,7 +2,7 @@
 layout: article
 title: "বাংলায় ইন্টেলিজেন্ট সিস্টেম তৈরি নিয়ে কিছু রিসোর্স"
 date: 2019-08-25T13:57:25-04:00
-modified: 2021-1-01T16:21:57-04:00
+modified: 2022-1-01T16:21:57-04:00
 excerpt:
 tags: []
 image:
@@ -79,7 +79,7 @@ share: true
 | উৎকর্ষের সন্ধানে: বাংলাদেশ; কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র | [অনলাইন-বই](https://aiwithr.github.io/aibook/) | [রকমারি](https://www.rokomari.com/book/215389/) |
 | হাতেকলমে ডেটা অ্যানালাইটিক্স এবং ডেটা ভিজ্যুয়ালাইজেশন | [রকমারি](https://www.rokomari.com/book/288032/hatekolome-data-analytics-o-visualisation) | [অনলাইন বই](https://aiwithr.github.io/analyst/) |
 | কৃত্রিম বুদ্ধিমত্তায় শিক্ষাব্যবস্থা | [রকমারি](https://www.rokomari.com/book/380494/) | [অনলাইন বই ৫০%](https://aiwithr.github.io/aibook/edu/personalized-ed/) |
-| রোড টু হাইটেক ইন্ডাস্ট্রি: নেটওয়ার্ক/আইএসপি অটোমেশন | আসবে () | [অনলাইন বই ৫০%](https://aiwithr.github.io/automation/) |
+| রোড টু হাইটেক ইন্ডাস্ট্রি: নেটওয়ার্ক/আইএসপি অটোমেশন | [আসবে](https://aiwithr.github.io/automation/) | [অনলাইন বই ৫০%](https://aiwithr.github.io/automation/) |
 | সাতটা বই একসাথে কেনার লিঙ্ক | [এখানে](https://www.rokomari.com/book/218840/) | [রকমারি](https://www.rokomari.com/book/218840/) |
 | নীলক্ষেত থেকে কেনার ব্যবস্থা | [প্রিন্ট বই, নীলক্ষেত, হক, মানিক লাইব্রেরি সহ অনেকে](https://www.facebook.com/%E0%A6%B9%E0%A6%95-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-996072720590097/)| [ফোন: ০১৭৩৫৭৪২৯০৮, ০১৮২০১৫৭১৮১](https://www.facebook.com/ManikLibraryOnline) |
 
@@ -194,7 +194,7 @@ share: true
 
 ## ফেসবুক, প্লেলিস্ট আছে ভেতরে
 
-২০০+ ভিডিও, [এখানে](https://www.facebook.com/mltraining/videos)।
+৩০০+ ভিডিও, [এখানে](https://www.facebook.com/mltraining/videos)।
 
 ## মেশিন লার্নিং বইগুলোর প্র্যাকটিস গিটহাব লিংক
 
