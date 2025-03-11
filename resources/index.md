@@ -239,3 +239,4 @@ share: true
 ## ক্রিয়েটিভ কমন্স লাইসেন্সের আওতায় ওপেনসোর্স বই
 
 * [ওপেনসোর্স বই: কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র](https://aiwithr.github.io/open_books/)
+* [পিডিএফ ডাউনলোড লিংক: কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/krittrim_buddhimottay_manobik_rashtro.pdf)
