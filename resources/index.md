@@ -104,7 +104,7 @@ share: true
 
 ## কৃত্রিম বুদ্ধিমত্তা দিয়ে কী দেশ চালানো যায়?
 
-![আইএসপি এবং নেটওয়ার্ক অটোমেশন বই](../images/kolyani.jpg)
+![কল্যানী ২.০](../images/kolyani.jpg)
 <div class="badges">
 	<span class="badge info">উপন্যাস</span>
 	<span class="badge danger">কৃত্রিম বুদ্ধিমত্তা</span>
