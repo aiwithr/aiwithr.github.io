@@ -254,3 +254,4 @@ share: true
 
 * [ওপেনসোর্স বই: কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র](https://aiwithr.github.io/open_books/)
 * [পিডিএফ ডাউনলোড লিংক: কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/krittrim_buddhimottay_manobik_rashtro.pdf)
+* [পিডিএফ ডাউনলোড লিংক: হাতেকলমে ডেটা অ্যানালাইটিক্স ও ভিজ্যুয়ালাইজেশন](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/Hands_On_Data_analytics_Visualization_e-book.pdf)
