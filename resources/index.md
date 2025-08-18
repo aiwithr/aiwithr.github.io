@@ -252,6 +252,6 @@ share: true
 
 ## ক্রিয়েটিভ কমন্স লাইসেন্সের আওতায় ওপেনসোর্স বই
 
-* [ওপেনসোর্স বই: কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র](https://aiwithr.github.io/open_books/)
+আমার সবগুলো বই (উপন্যাস, জীবনী বাদ দিয়ে) এমআইটি লাইসেন্সের আওতায় ওপেনসোর্স হিসেবে রাখা আছে। প্রিন্ট পিডিএফ পাবলিশার্স ডোমেইনের জিনিস। উনাদের অনুমতিক্রমে নিচের বইগুলো রিলিজ করা হলো। 
 * [পিডিএফ ডাউনলোড লিংক: কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/krittrim_buddhimottay_manobik_rashtro.pdf)
 * [পিডিএফ ডাউনলোড লিংক: হাতেকলমে ডেটা অ্যানালাইটিক্স ও ভিজ্যুয়ালাইজেশন](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/Hands_On_Data_analytics_Visualization_e-book.pdf)
