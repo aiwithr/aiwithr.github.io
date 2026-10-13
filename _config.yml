@@ -52,6 +52,7 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
+  - GitHubsite.md
   - Gruntfile.js
   - LICENSE
   - README
