@@ -1,13 +1,35 @@
 {% if page.categories and page.categories != empty %}
+  {% assign bc_cat = page.categories | first %}
+  {% assign bc_cat_name = bc_cat | replace: '-',' ' | capitalize %}
   <nav class="breadcrumbs">
-    <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-      <a href="{{ site.url }}" itemprop="url">
-        <span itemprop="title">Home</span>
-      </a> › 
-    <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-      <a href="{{ site.url }}/{{ page.categories | first }}/" itemprop="url">
-        <span itemprop="title">{{ page.categories | first | replace: '-',' ' | capitalize }}</span>
-      </a>
-    </span>
+    <a href="{{ site.url }}/">Home</a> ›
+    <a href="{{ site.url }}/{{ bc_cat }}/">{{ bc_cat_name }}</a> ›
+    <a href="{{ page.url | replace:'index.html','' | prepend: site.url }}">{{ page.title }}</a>
   </nav><!-- /.breadcrumbs -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ site.url }}/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ bc_cat_name }}",
+        "item": "{{ site.url }}/{{ bc_cat }}/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": {{ page.title | jsonify }},
+        "item": "{{ page.url | replace:'index.html','' | prepend: site.url }}"
+      }
+    ]
+  }
+  </script>
 {% endif %}

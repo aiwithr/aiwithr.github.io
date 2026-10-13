@@ -59,3 +59,13 @@
 		}
 	}
 	</script>
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "WebSite",
+		"name": {{ site.title | jsonify }},
+		"url": "{{ site.url }}/",
+		"inLanguage": "bn",
+		"description": {{ site.description | jsonify }}
+	}
+	</script>
