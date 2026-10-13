@@ -18,7 +18,7 @@ ads: false
 
 নিচে তাঁর কাজের বিভিন্ন দিক ও প্ল্যাটফর্মগুলো তুলে ধরা হলো:
 
-- **বই:** 'হাতেকলমে মেশিন লার্নিং' সিরিজসহ [১১টির অধিক বই (প্রকাশক: আদর্শ, তাম্রলিপি - রকমারি বেস্টসেলার)](https://www.rokomari.com/book/author/61248/rakibul-hassan)।
+- **বই:** 'হাতেকলমে মেশিন লার্নিং' সিরিজসহ [১১টির অধিক বই (প্রকাশক: আদর্শ, তাম্রলিপি - রকমারি বেস্টসেলার)](https://www.rokomari.com/book/author/61248/rakibul-hassan), এবং [বাংলায় কৃত্রিম বুদ্ধিমত্তা প্যাকেজ](https://www.boipokabd.com/books/bangla-kritrimo-buddhimotta-pjakejo)।
 - **ভিডিও কন্টেন্ট:** ইউটিউব চ্যানেল [YouTube @aiwithr](https://www.youtube.com/@aiwithr)-এ "Building Intelligent Systems with Rakib" শিরোনামে ৬০০টিরও বেশি ভিডিও। এছাড়াও উনি নিজের [https://www.youtube.com/@RaqueebHassan](https://www.youtube.com/@RaqueebHassan) হ্যান্ডেল দিয়ে অন্যান্য ভিডিও বানান।
 - **ওয়ার্কশপ:** ['যন্ত্রকে কামলা খাটানোর ওয়ার্কশপ'](https://raqueeb.github.io/kamla_wksp/)—কৃত্রিম বুদ্ধিমত্তা (AI) ও মেশিন লার্নিং নিয়ে তাঁর অত্যন্ত জনপ্রিয় একটি হ্যান্ডস-অন (হাতে-কলমে) ওয়ার্কশপ।
 - **টেডএক্স:** [TEDxRUET স্পিকার পেজ](https://www.tedxruet.org/speakers/rakibul-hasan)।
