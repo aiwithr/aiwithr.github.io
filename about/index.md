@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "কেন এতো বই লিখছি আমি?"
+title: "রকিবুল হাসান (Rakibul Hassan)"
 date: 2019-06-02T09:44:20-04:00
 modified: 2019-08-27T14:56:44-04:00
-excerpt: "কে এই রকিবুল হাসান?"
+excerpt: "রকিবুল হাসান (Rakibul Hassan) — AI/ML লেখক ও কলামিস্ট, TEDxRUET বক্তা, সাবেক ডিরেক্টর বিটিআরসি, CTO Link3 Technologies। ৭টির বেশি মেশিন লার্নিং বইয়ের লেখক।"
 image:
   feature:
   teaser:
@@ -11,6 +11,21 @@ image:
 share: false
 ads: false
 ---
+
+<img src="{{ site.url }}/images/rakibul-hassan.jpg" alt="রকিবুল হাসান (Rakibul Hassan)" width="240">
+
+**রকিবুল হাসান (Rakibul Hassan)** — কৃত্রিম বুদ্ধিমত্তা ও মেশিন লার্নিং বিশেষজ্ঞ, লেখক ও কলামিস্ট। বাংলা ভাষায় প্রথম মেশিন লার্নিং বইয়ের লেখক ('হাতেকলমে মেশিন লার্নিং' সহ ৭টির বেশি বই), TEDxRUET বক্তা ("Proactive Public Services: Government Automation"), সাবেক ডিরেক্টর — বাংলাদেশ টেলিকমিউনিকেশন রেগুলেটরি কমিশন (বিটিআরসি), প্রাক্তন প্রজেক্ট ডিরেক্টর — ইন্টিগ্রেটেড লইফুল ইন্টারসেপশন সিস্টেম (ILIS), এবং বর্তমানে Chief Technology Officer, Link3 Technologies Limited.
+
+- **বই:** 'হাতেকলমে মেশিন লার্নিং' সিরিজসহ ৭টির বেশি বই (প্রকাশক: আদর্শ, রোকোমারি বেস্ট সেলার)
+- **ভিডিও:** [Building Intelligent Systems with Rakib — YouTube @aiwithr](https://www.youtube.com/@aiwithr) (৫০০+ ভিডিও)
+- **কর্মশালা:** [যন্ত্রকে কামলা খাটানোর ওয়ার্কশপ](https://raqueeb.github.io/kamla_wksp/) — 'যন্ত্রকে কামলা খাটানোর ওয়ার্কশপ' হলো কৃত্রিম বুদ্ধিমত্তা (AI) এবং মেশিন লার্নিং বিশেষজ্ঞ রকিবুল হাসান-এর পরিচালনা করা একটি জনপ্রিয় হ্যান্ডস-অন (হাতে-কলমে) কর্মশালা।
+- **টেডএক্স:** [TEDxRUET — স্পিকার পেজ](https://www.tedxruet.org/speakers/rakibul-hasan)
+- **সংবাদ:** [Roar Media প্রোফাইল (২০২০): মেশিন লার্নিং ও একজন রকিবুল হাসান](https://archive.roar.media/bangla/main/science/machine-learning-and-rakibul-hassan)
+- **সংযোগ:** [LinkedIn](https://www.linkedin.com/in/raqueeb/) · [GitHub](https://github.com/raqueeb) · [Twitter/X](https://twitter.com/raqueeb) · [Facebook](https://www.facebook.com/raqueeb) · [WordPress](https://raqueeb.wordpress.com/) · [The Thinking School](https://www.facebook.com/profile.php?id=61576673663332)
+
+**In English:** Rakibul Hassan is a Bangladeshi AI/ML author, columnist, and technologist — the first author of Bengali machine learning books (7+ titles), TEDxRUET speaker on government automation, former Director at BTRC, and Chief Technology Officer of Link3 Technologies, Dhaka.
+
+## কেন এতো বই লিখছি আমি?
 
 আমার জীবনের বিশাল একটা সময় গিয়েছে 'ডেটা'কে প্লট করতে। 'ডেটা' থেকে প্রজ্ঞা বের করতে। প্রচুর ডেটা যুক্ত করেছি এবং করছি সরকারি নীতিনির্ধারণী প্রসেসগুলোতে। আর তখনি হয়েছে অসাধারণ সব অভিজ্ঞতা, এই ডেটা নিয়ে। ডেটাকে কিভাবে নীতিমালাগুলোতে মানুষের মঙ্গলে ব্যবহার করা যায় তা দেখেছি নিজের চোখে।
 

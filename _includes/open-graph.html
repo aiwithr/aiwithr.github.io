@@ -1,6 +1,7 @@
 	<!-- Twitter Cards -->
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-	{% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">{% endif %}
+	{% if page.excerpt %}{% assign og_desc = page.excerpt | strip_html | strip_newlines | truncate: 160 %}{% else %}{% assign og_desc = site.description | truncate: 160 %}{% endif %}
+	<meta name="twitter:description" content="{{ og_desc }}">
 	{% if site.owner.twitter %}<meta name="twitter:site" content="@{{ site.owner.twitter }}">{% endif %}
 	{% if author.twitter %}<meta name="twitter:creator" content="@{{ author.twitter }}">{% endif %}
 	{% if page.image.feature %}
@@ -14,6 +15,47 @@
 	<meta property="og:locale" content="{{ site.locale }}">
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-	{% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html }}">{% endif %}
+	<meta property="og:description" content="{{ og_desc }}">
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 	<meta property="og:site_name" content="{{ site.title }}">
+	<meta property="og:image" content="{% if page.image.feature %}{{ site.url }}/images/{{ page.image.feature }}{% elsif page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.logo }}{% endif %}">
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "Person",
+		"name": "Rakibul Hassan",
+		"alternateName": ["রকিবুল হাসান", "Rakibul Hasan", "raqueeb"],
+		"jobTitle": "Chief Technology Officer",
+		"worksFor": {
+			"@type": "Organization",
+			"name": "Link3 Technologies Limited",
+			"url": "https://www.link3.net/"
+		},
+		"description": "First author of Bengali machine learning books (7+ titles including the হাতেকলমে মেশিন লার্নিং series), TEDxRUET speaker on government automation, former Director of BTRC, CTO of Link3 Technologies, and YouTube educator (@aiwithr).",
+		"image": "{{ site.url }}/images/rakibul-hassan.jpg",
+		"url": "{{ site.url }}/",
+		"sameAs": [
+			"https://www.linkedin.com/in/raqueeb/",
+			"https://github.com/raqueeb",
+			"https://twitter.com/raqueeb",
+			"https://www.facebook.com/raqueeb",
+			"https://raqueeb.wordpress.com/",
+			"https://www.youtube.com/@aiwithr",
+			"https://www.tedxruet.org/speakers/rakibul-hasan",
+			"https://www.facebook.com/profile.php?id=61576673663332",
+			"https://raqueeb.github.io/kamla_wksp/"
+		],
+		"knowsAbout": ["Machine Learning", "Artificial Intelligence", "Government Automation", "Telecommunications Policy", "Data Science"],
+		"subjectOf": {
+			"@type": "Article",
+			"headline": "মেশিন লার্নিং ও একজন রকিবুল হাসান",
+			"url": "https://archive.roar.media/bangla/main/science/machine-learning-and-rakibul-hassan",
+			"datePublished": "2020-01-02",
+			"inLanguage": "bn",
+			"publisher": {
+				"@type": "Organization",
+				"name": "Roar Media"
+			}
+		}
+	}
+	</script>
