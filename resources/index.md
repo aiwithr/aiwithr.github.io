@@ -194,6 +194,10 @@ share: true
 
 ![বই](../images/1-2-3.jpg)
 
+## প্রিন্ট মিডিয়া
+
+প্রিন্ট মিডিয়াতে কিছু লেখা, [এখানে](https://aiwithr.github.io/print/)।
+
 ## বইগুলোর ইউটিউব ভিডিও সিরিজ, প্লেলিস্ট
 
 ২০০+ ভিডিও, [এখানে](https://www.youtube.com/channel/UC4RrCd2anEWtZJr9_wX76kA)! একটা উদাহরণ দেখতে পারেন নিচে।
