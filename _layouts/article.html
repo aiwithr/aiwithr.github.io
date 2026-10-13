@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div id="main" role="main">
-	<article class="wrap" itemscope itemtype="http://schema.org/Article">
+	<article class="wrap" itemscope itemtype="https://schema.org/Article">
 		{% if page.image.feature %}
 		<div class="page-feature">
 			<div class="page-image">
@@ -11,17 +11,22 @@ layout: default
 				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
 			</div><!-- /.page-image -->
 		</div><!-- /.page-feature -->
+		{% else %}
+		<link itemprop="image" href="{{ site.url }}/images/{{ site.logo }}">
 		{% endif %}
 		{% include breadcrumbs.html %}
 		<div class="page-title">
-			<h1>{{ page.title }}</h1>
+			<h1 itemprop="headline">{{ page.title }}</h1>
 		</div>
+		{% if page.excerpt %}{% assign art_desc = page.excerpt | strip_html | strip_newlines | truncate: 160 | escape %}{% else %}{% assign art_desc = site.description | truncate: 160 | escape %}{% endif %}
+		<meta itemprop="description" content="{{ art_desc }}">
+		<link itemprop="mainEntityOfPage" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 		<div class="inner-wrap">
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
 				<hr />
 				<footer class="page-footer">
-					{% if page.categories %}{% include page-author.html %}{% endif %}
+					{% if page.categories %}{% include page-author.html %}{% else %}<meta itemprop="author" content="{{ site.owner.name }}">{% endif %}
 					{% if page.share != false %}{% include share-this.html %}{% endif %}
 					{% include page-meta.html %}
 				</footer><!-- /.footer -->
