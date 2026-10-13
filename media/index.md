@@ -3,7 +3,7 @@ layout: article
 title: "Privacy Policy"
 date: 2019-06-02T09:44:20-04:00
 modified: 2019-08-27T14:56:44-04:00
-excerpt: ""Privacy Policy""
+excerpt: "গোপনীয়তা নীতি — এই ওয়েবসাইটে কুকি, গুগল অ্যানালিটিক্স ও অ্যাফিলিয়েট লিংকের মাধ্যমে কী কী তথ্য সংগ্রহ হয় এবং পরিদর্শক হিসেবে আপনার অধিকার কী।"
 image:
   feature: &image aibook2.jpg
   path: *image
