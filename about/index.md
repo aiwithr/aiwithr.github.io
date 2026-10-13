@@ -3,7 +3,7 @@ layout: article
 title: "রকিবুল হাসান (Rakibul Hassan)"
 date: 2019-06-02T09:44:20-04:00
 modified: 2019-08-27T14:56:44-04:00
-excerpt: "রকিবুল হাসান (Rakibul Hassan) — AI/ML লেখক ও কলামিস্ট, TEDxRUET বক্তা, সাবেক ডিরেক্টর বিটিআরসি, CTO Link3 Technologies। ৭টির বেশি মেশিন লার্নিং বইয়ের লেখক।"
+excerpt: "রকিবুল হাসান (Rakibul Hassan) — AI/ML স্পেশালিস্ট, লেখক ও কলামিস্ট। ১১টির বেশি বইয়ের লেখক, TEDxRUET বক্তা, সাবেক ডিরেক্টর বিটিআরসি, Director AI Business and Transformation, Link3 Technologies।"
 image:
   feature:
   teaser:
@@ -14,16 +14,19 @@ ads: false
 
 <img src="{{ site.url }}/images/rakibul-hassan.jpg" alt="রকিবুল হাসান (Rakibul Hassan)" width="240">
 
-**রকিবুল হাসান (Rakibul Hassan)** — কৃত্রিম বুদ্ধিমত্তা ও মেশিন লার্নিং বিশেষজ্ঞ, লেখক ও কলামিস্ট। বাংলা ভাষায় প্রথম মেশিন লার্নিং বইয়ের লেখক ('হাতেকলমে মেশিন লার্নিং' সহ ৭টির বেশি বই), TEDxRUET বক্তা ("Proactive Public Services: Government Automation"), সাবেক ডিরেক্টর — বাংলাদেশ টেলিকমিউনিকেশন রেগুলেটরি কমিশন (বিটিআরসি), প্রাক্তন প্রজেক্ট ডিরেক্টর — ইন্টিগ্রেটেড লইফুল ইন্টারসেপশন সিস্টেম (ILIS), এবং বর্তমানে Chief Technology Officer, Link3 Technologies Limited.
+**রকিবুল হাসান (Rakibul Hassan)** - কৃত্রিম বুদ্ধিমত্তা ও মেশিন লার্নিং স্পেশালিস্ট, লেখক এবং কলামিস্ট। তিনি বাংলা ভাষায় প্রথম মেশিন লার্নিং বইয়ের লেখক (রকমারি বেস্টসেলার 'হাতেকলমে মেশিন লার্নিং'সহ মোট ১১টির বেশি বইয়ের লেখক, যা প্রকাশ করেছে 'আদর্শ' এবং 'তাম্রলিপি')। এছাড়া তিনি TEDx -এর বক্তা হিসেবে "Proactive Public Services: Government Automation" বিষয়ের ওপর বক্তব্য দিয়েছেন। কর্মজীবনে তিনি বাংলাদেশ টেলিকমিউনিকেশন রেগুলেটরি কমিশন (বিটিআরসি)-এর সাবেক ডিরেক্টর এবং ইন্টিগ্রেটেড লইফুল ইন্টারসেপশন সিস্টেম (ILIS)-এর প্রাক্তন প্রজেক্ট ডিরেক্টর হিসেবে দায়িত্ব পালন করেছেন। বর্তমানে তিনি Link3 Technologies Limited-এর Chief Technology Officer (CTO) থেকে Director AI Business and Transformation হিসেবে কর্মরত আছেন।
 
-- **বই:** 'হাতেকলমে মেশিন লার্নিং' সিরিজসহ ৭টির বেশি বই (প্রকাশক: আদর্শ, রোকোমারি বেস্ট সেলার)
-- **ভিডিও:** [Building Intelligent Systems with Rakib — YouTube @aiwithr](https://www.youtube.com/@aiwithr) (৫০০+ ভিডিও)
-- **কর্মশালা:** [যন্ত্রকে কামলা খাটানোর ওয়ার্কশপ](https://raqueeb.github.io/kamla_wksp/) — 'যন্ত্রকে কামলা খাটানোর ওয়ার্কশপ' হলো কৃত্রিম বুদ্ধিমত্তা (AI) এবং মেশিন লার্নিং বিশেষজ্ঞ রকিবুল হাসান-এর পরিচালনা করা একটি জনপ্রিয় হ্যান্ডস-অন (হাতে-কলমে) কর্মশালা।
-- **টেডএক্স:** [TEDxRUET — স্পিকার পেজ](https://www.tedxruet.org/speakers/rakibul-hasan)
-- **সংবাদ:** [Roar Media প্রোফাইল (২০২০): মেশিন লার্নিং ও একজন রকিবুল হাসান](https://archive.roar.media/bangla/main/science/machine-learning-and-rakibul-hassan)
-- **সংযোগ:** [LinkedIn](https://www.linkedin.com/in/raqueeb/) · [GitHub](https://github.com/raqueeb) · [Twitter/X](https://twitter.com/raqueeb) · [Facebook](https://www.facebook.com/raqueeb) · [WordPress](https://raqueeb.wordpress.com/) · [The Thinking School](https://www.facebook.com/profile.php?id=61576673663332)
+নিচে তাঁর কাজের বিভিন্ন দিক ও প্ল্যাটফর্মগুলো তুলে ধরা হলো:
 
-**In English:** Rakibul Hassan is a Bangladeshi AI/ML author, columnist, and technologist — the first author of Bengali machine learning books (7+ titles), TEDxRUET speaker on government automation, former Director at BTRC, and Chief Technology Officer of Link3 Technologies, Dhaka.
+- **বই:** 'হাতেকলমে মেশিন লার্নিং' সিরিজসহ ১১টির অধিক বই (প্রকাশক: আদর্শ, তাম্রলিপি - রকমারি বেস্টসেলার)।
+- **ভিডিও কন্টেন্ট:** ইউটিউব চ্যানেল [YouTube @aiwithr](https://www.youtube.com/@aiwithr)-এ "Building Intelligent Systems with Rakib" শিরোনামে ৬০০টিরও বেশি ভিডিও।
+- **ওয়ার্কশপ:** ['যন্ত্রকে কামলা খাটানোর ওয়ার্কশপ'](https://raqueeb.github.io/kamla_wksp/)—কৃত্রিম বুদ্ধিমত্তা (AI) ও মেশিন লার্নিং নিয়ে তাঁর অত্যন্ত জনপ্রিয় একটি হ্যান্ডস-অন (হাতে-কলমে) ওয়ার্কশপ।
+- **টেডএক্স:** [TEDxRUET স্পিকার পেজ](https://www.tedxruet.org/speakers/rakibul-hasan)।
+- **সংবাদ ও ফিচার:** [Roar Media প্রোফাইল (২০২০)—"মেশিন লার্নিং ও একজন রকিবুল হাসান"](https://archive.roar.media/bangla/main/science/machine-learning-and-rakibul-hassan)।
+- **সোশ্যাল ও প্রফেশনাল লিংক:** [LinkedIn](https://www.linkedin.com/in/raqueeb/), [GitHub](https://github.com/raqueeb), [Twitter/X](https://twitter.com/raqueeb), [Facebook](https://www.facebook.com/raqueeb), [WordPress](https://raqueeb.wordpress.com/) এবং [The Thinking School](https://www.facebook.com/profile.php?id=61576673663332)।
+- **প্রিন্ট মিডিয়া:** [প্রিন্ট মিডিয়াতে কিছু লেখা](https://aiwithr.github.io/print/)।
+
+**In English:** Rakibul Hassan is a Bangladeshi AI/ML specialist, author, and columnist — the first author of Bengali machine learning books (11+ titles, publishers Adarsha and Tamralipi, including the Rokomari bestseller "Hatekolome Machine Learning"), TEDxRUET speaker on government automation, former Director at BTRC, former Project Director of ILIS, and currently Director of AI Business and Transformation at Link3 Technologies, Dhaka.
 
 ## কেন এতো বই লিখছি আমি?
 
