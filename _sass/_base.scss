@@ -201,14 +201,6 @@ svg:not(:root) {
   overflow: hidden;
 }
 
-/* Iframes: responsive embeds (max-width caps raw width; height:auto + attr ratio
-   or aspect-ratio keeps 16:9 even before/without FitVids.js running) */
-iframe {
-  max-width: 100%;
-  height: auto;
-  aspect-ratio: 16 / 9;
-}
-
 /*
    Tables
    ========================================================================== */
