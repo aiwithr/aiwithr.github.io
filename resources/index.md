@@ -3,7 +3,7 @@ layout: article
 title: "বাংলায় ইন্টেলিজেন্ট সিস্টেম তৈরি নিয়ে কিছু রিসোর্স"
 date: 2019-08-25T13:57:25-04:00
 modified: 2022-1-01T16:21:57-04:00
-excerpt: "বাংলায় ইন্টেলিজেন্ট সিস্টেম তৈরির রিসোর্স — হাতেকলমে মেশিন লার্নিং সিরিজের বই, গিটহাব রিপোজিটরি, ভিডিও প্লেলিস্ট ও ট্রেনিং ম্যাটেরিয়াল।"
+excerpt: "বাংলায় ইন্টেলিজেন্ট সিস্টেম তৈরির রিসোর্স — বাংলা এআই বই, হাতেকলমে মেশিন লার্নিং সিরিজ, গিটহাব রিপো, ভিডিও প্লেলিস্ট ও ট্রেনিং ম্যাটেরিয়াল।"
 tags: []
 image:
   feature:
@@ -260,3 +260,20 @@ share: true
 আমার সবগুলো বই (উপন্যাস, জীবনী বাদ দিয়ে) এমআইটি/ক্রিয়েটিভ কমন্স লাইসেন্সের আওতায় ওপেনসোর্স হিসেবে রাখা আছে। প্রিন্ট পিডিএফ পাবলিশার্স ডোমেইনের জিনিস। উনাদের অনুমতিক্রমে নিচের বইগুলো রিলিজ করা হলো। 
 * [পিডিএফ ডাউনলোড লিংক: কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/krittrim_buddhimottay_manobik_rashtro.pdf)
 * [পিডিএফ ডাউনলোড লিংক: হাতেকলমে ডেটা অ্যানালাইটিক্স ও ভিজ্যুয়ালাইজেশন](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/Hands_On_Data_analytics_Visualization_e-book.pdf)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "বাংলায় মেশিন লার্নিং ও কৃত্রিম বুদ্ধিমত্তা বই",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "item": {"@type": "Book", "name": "হাতেকলমে মেশিন লার্নিং (১ম সংস্করণ)", "inLanguage": "bn", "author": {"@type": "Person", "name": "রকিবুল হাসান", "url": "https://www.rokomari.com/book/author/61248/rakibul-hassan"}}},
+    {"@type": "ListItem", "position": 2, "item": {"@type": "Book", "name": "হাতেকলমে মেশিন লার্নিং (২য় সংস্করণ)", "inLanguage": "bn", "author": {"@type": "Person", "name": "রকিবুল হাসান", "url": "https://www.rokomari.com/book/author/61248/rakibul-hassan"}}},
+    {"@type": "ListItem", "position": 3, "item": {"@type": "Book", "name": "হাতেকলমে মেশিন লার্নিং (২য় সংস্করণ, শুধুমাত্র পাইথন)", "inLanguage": "bn", "author": {"@type": "Person", "name": "রকিবুল হাসান", "url": "https://www.rokomari.com/book/author/61248/rakibul-hassan"}}},
+    {"@type": "ListItem", "position": 4, "item": {"@type": "Book", "name": "শুন্য থেকে পাইথন মেশিন লার্নিং", "inLanguage": "bn", "author": {"@type": "Person", "name": "রকিবুল হাসান", "url": "https://www.rokomari.com/book/author/61248/rakibul-hassan"}}},
+    {"@type": "ListItem", "position": 5, "item": {"@type": "Book", "name": "হাতেকলমে পাইথন ডিপ লার্নিং", "inLanguage": "bn", "author": {"@type": "Person", "name": "রকিবুল হাসান", "url": "https://www.rokomari.com/book/author/61248/rakibul-hassan"}}},
+    {"@type": "ListItem", "position": 6, "item": {"@type": "Book", "name": "হাতেকলমে বাংলা ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং", "inLanguage": "bn", "author": {"@type": "Person", "name": "রকিবুল হাসান", "url": "https://www.rokomari.com/book/author/61248/rakibul-hassan"}}},
+    {"@type": "ListItem", "position": 7, "item": {"@type": "Book", "name": "হাতেকলমে ডেটা অ্যানালিটিক্স ও ভিজ্যুয়ালাইজেশন", "inLanguage": "bn", "author": {"@type": "Person", "name": "রকিবুল হাসান", "url": "https://www.rokomari.com/book/author/61248/rakibul-hassan"}}}
+  ]
+}
+</script>

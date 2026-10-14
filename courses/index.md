@@ -183,6 +183,26 @@ ads: false
 
 - [x] ৬. আপনাদের সুবিধার জন্য এই তিনটে প্রশ্নের উত্তর আছে ইউটিউব প্লে-লিস্টে। প্রথম কয়েকটা বাদ  দিয়ে দেখতে পারেন। [প্লে-লিস্ট:](https://youtube.com/playlist?list=PL5NPSn95n_L4Z5bpCOqHW_QU8nxgywGM2)
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "কৃত্রিম বুদ্ধিমত্তা সিরিজ ১: বেসিক মেশিন লার্নিং",
+  "description": "বাংলায় বেসিক মেশিন লার্নিং ট্রেনিং প্রোগ্রাম — প্রজেক্ট টাইটানিক দিয়ে হাতে-কলমে শেখা, ৪ সপ্তাহের কারিকুলাম: ডেটা ভিজ্যুয়ালাইজেশন, ডিসিশন ট্রি ও প্রেডিকশন।",
+  "url": "https://aiwithr.github.io/courses/",
+  "inLanguage": "bn",
+  "provider": {
+    "@type": "Person",
+    "name": "রকিবুল হাসান (Rakibul Hassan)",
+    "sameAs": ["https://aiwithr.github.io/", "https://www.youtube.com/@aiwithr"]
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "courseMode": "Online"
+  }
+}
+</script>
+
 (এই আবেদনের সময়সীমা ০৮ জুলাই ২০২১ পর্যন্ত, আপনার উত্তর এডিট করতে পারবেন এর মধ্যে)
 {: .notice}
 
