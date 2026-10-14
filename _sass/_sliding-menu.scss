@@ -82,7 +82,7 @@
     visibility: visible;
     transform: translateX(0);
   }
-  h5 {
+  .menu-heading {
     margin: 0 20% 0 10%;
     @include media($large) {
       margin-right: 20%;
