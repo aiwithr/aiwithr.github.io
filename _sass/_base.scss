@@ -206,6 +206,9 @@ svg:not(:root) {
    ========================================================================== */
 
 table {
+	display: block;
+	overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
 	border-collapse: collapse;
 	margin: ((0px + $doc-line-height) / 2) 0;
 	margin: ((0rem + ($doc-line-height / $doc-font-size)) / 2) 0;
