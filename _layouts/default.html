@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html lang="bn">
+<html lang="{{ page.lang | default: 'bn' }}">
   <head>
     <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }} • {% endif %}{{ site.title }}</title>
+    {% if page.lang == 'en' %}{% assign brand = site.title_en %}{% else %}{% assign brand = site.title %}{% endif %}
+    <title>{% if page.title %}{{ page.title }} • {% endif %}{{ brand }}</title>
     {% if page.excerpt %}{% assign meta_desc = page.excerpt | strip_html | strip_newlines | truncate: 160 %}{% else %}{% assign meta_desc = site.description | truncate: 160 %}{% endif %}
     <meta name="description" content="{{ meta_desc }}">
     {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
@@ -14,6 +15,7 @@
     {% include open-graph.html %}
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    {% include hreflang.html %}
 
     <link href="{{ site.url }}/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
     <link href="{{ site.url }}/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">

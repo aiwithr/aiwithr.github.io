@@ -11,5 +11,11 @@
 		{% endfor %}
 		</ul>
 	</nav><!-- /.bottom-menu -->
-	<p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.title }}</a> powered by <a href="http://jekyllrb.com">Jekyll.</a></p>
+	{% if page.lang == 'en' %}{% assign brand = site.title_en %}{% else %}{% assign brand = site.title %}{% endif %}
+	{% if page.lang == 'en' %}
+	<p class="lang-switch"><a href="{{ page.alternate_bn | default: '/' }}">বাংলা</a></p>
+	{% elsif page.alternate_en %}
+	<p class="lang-switch"><a href="{{ page.alternate_en }}">English</a></p>
+	{% endif %}
+	<p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{% if page.lang == 'en' %}{{ site.url }}/en/{% else %}{{ site.url }}{% endif %}">{{ brand }}</a> powered by <a href="http://jekyllrb.com">Jekyll.</a></p>
 </footer>

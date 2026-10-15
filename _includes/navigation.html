@@ -1,11 +1,13 @@
 <ul class="menu-item">
-	<li class="home"><a href="/">{{ site.title }}</a></li>
+	{% if page.lang == 'en' %}{% assign brand = site.title_en %}{% else %}{% assign brand = site.title %}{% endif %}
+	<li class="home"><a href="{% if page.lang == 'en' %}/en/{% else %}/{% endif %}">{{ brand }}</a></li>
 	{% for link in site.data.navigation %}
     {% if link.url contains 'http' %}
         {% assign domain = '' %}
         {% else %}
         {% assign domain = site.url %}
     {% endif %}
-    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+    {% assign nav_title = link.title %}{% if page.lang == 'en' and link.title_en %}{% assign nav_title = link.title_en %}{% endif %}
+    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ nav_title }}</a></li>
   {% endfor %}
 </ul>

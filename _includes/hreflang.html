@@ -1,0 +1,10 @@
+{% if page.lang == 'en' %}
+	{% assign bn_url = page.alternate_bn | default: '/' %}
+	<link rel="alternate" hreflang="bn" href="{{ site.url }}{{ bn_url }}">
+	<link rel="alternate" hreflang="en" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+	<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ bn_url }}">
+{% elsif page.alternate_en %}
+	<link rel="alternate" hreflang="bn" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+	<link rel="alternate" hreflang="en" href="{{ site.url }}{{ page.alternate_en }}">
+	<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+{% endif %}

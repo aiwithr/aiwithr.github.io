@@ -1,6 +1,7 @@
 <header id="masthead">
   <div class="inner-wrap">
-    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
+    {% if page.lang == 'en' %}{% assign brand = site.title_en %}{% else %}{% assign brand = site.title %}{% endif %}
+    <a href="{% if page.lang == 'en' %}{{ site.url }}/en/{% else %}{{ site.url }}/{% endif %}" class="site-title">{{ brand }}</a>
     <nav role="navigation" class="menu top-menu">
         {% include navigation.html %}
     </nav>

@@ -103,6 +103,16 @@
       font-weight: 400;
     }
   }
+  .lang-switch {
+    display: block;
+    margin: 0 20% 10px 10%;
+    @include media($large) {
+      margin-right: 20%;
+    }
+    color: $white;
+    @include font-size(14);
+    text-decoration: underline;
+  }
   ul {
     margin: 0 10%;
     @include media($large) {

@@ -1,11 +1,20 @@
 <nav role="navigation" id="js-menu" class="sliding-menu-content">
-  <div class="menu-heading">{{ site.title }} <span>{{ site.data.messages.locales[site.locale].toc }}</span></div>
+  {% assign loc = page.locale | default: site.locale %}{% if page.lang == 'en' %}{% assign brand = site.title_en %}{% else %}{% assign brand = site.title %}{% endif %}
+  <div class="menu-heading">{{ brand }} <span>{{ site.data.messages.locales[loc].toc }}</span></div>
+  {% if page.lang == 'en' %}
+  <a class="lang-switch" href="{{ page.alternate_bn | default: '/' }}">বাংলা</a>
+  {% elsif page.alternate_en %}
+  <a class="lang-switch" href="{{ page.alternate_en }}">English</a>
+  {% endif %}
   <ul class="menu-item">
-    {% for link in site.data.navigation %}<li>
+    {% for link in site.data.navigation %}
+    {% assign nav_title = link.title %}{% assign nav_excerpt = link.excerpt %}
+    {% if page.lang == 'en' %}{% if link.title_en %}{% assign nav_title = link.title_en %}{% endif %}{% if link.excerpt_en %}{% assign nav_excerpt = link.excerpt_en %}{% endif %}{% endif %}
+    <li>
       <a href="{{ site.url }}{{ link.url }}">
-        {% if link.image %}<img src="{{ site.url }}/images/{{ link.image }}" alt="{{ link.title }}" class="teaser">{% endif %}
-        <div class="title">{{ link.title }}</div>
-        {% if link.excerpt %}<p class="excerpt">{{ link.excerpt }}</p>{% endif %}
+        {% if link.image %}<img src="{{ site.url }}/images/{{ link.image }}" alt="{{ nav_title }}" class="teaser">{% endif %}
+        <div class="title">{{ nav_title }}</div>
+        {% if nav_excerpt %}<p class="excerpt">{{ nav_excerpt }}</p>{% endif %}
       </a>
     </li>{% endfor %}
   </ul>

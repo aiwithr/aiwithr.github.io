@@ -1,5 +1,6 @@
+	{% assign og_locale = page.locale | default: site.locale %}{% if page.lang == 'en' %}{% assign brand = site.title_en %}{% else %}{% assign brand = site.title %}{% endif %}
 	<!-- Twitter Cards -->
-	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ brand }}{% endif %}">
 	{% if page.excerpt %}{% assign og_desc = page.excerpt | strip_html | strip_newlines | truncate: 160 %}{% else %}{% assign og_desc = site.description | truncate: 160 %}{% endif %}
 	<meta name="twitter:description" content="{{ og_desc }}">
 	{% if site.owner.twitter %}<meta name="twitter:site" content="@{{ site.owner.twitter }}">{% endif %}
@@ -12,12 +13,12 @@
 	<meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.logo }}{% endif %}">
 	{% endif %}
 	<!-- Open Graph -->
-	<meta property="og:locale" content="{{ site.locale }}">
+	<meta property="og:locale" content="{{ og_locale }}">
 	<meta property="og:type" content="article">
-	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ brand }}{% endif %}">
 	<meta property="og:description" content="{{ og_desc }}">
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-	<meta property="og:site_name" content="{{ site.title }}">
+	<meta property="og:site_name" content="{{ brand }}">
 	<meta property="og:image" content="{% if page.image.feature %}{{ site.url }}/images/{{ page.image.feature }}{% elsif page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.logo }}{% endif %}">
 	<script type="application/ld+json">
 	{
@@ -69,9 +70,9 @@
 	{
 		"@context": "https://schema.org",
 		"@type": "WebSite",
-		"name": {{ site.title | jsonify }},
+		"name": {{ brand | jsonify }},
 		"url": "{{ site.url }}/",
-		"inLanguage": "bn",
+		"inLanguage": "{{ page.lang | default: 'bn' }}",
 		"description": {{ site.description | jsonify }}
 	}
 	</script>
