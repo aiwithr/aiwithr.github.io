@@ -3,6 +3,7 @@ layout: article
 title: "রকিবুল হাসান (Rakibul Hassan)"
 date: 2019-06-02T09:44:20-04:00
 modified: 2019-08-27T14:56:44-04:00
+alternate_en: /en/about/
 excerpt: "রকিবুল হাসান (Rakibul Hassan) — AI/ML স্পেশালিস্ট, লেখক ও কলামিস্ট। ১১টির বেশি বইয়ের লেখক, TEDxRUET বক্তা, সাবেক ডিরেক্টর বিটিআরসি, Director AI Business and Transformation, Link3 Technologies।"
 image:
   feature:
