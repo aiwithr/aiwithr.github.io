@@ -3,6 +3,7 @@ layout: article
 title: "কৃত্রিম বুদ্ধিমত্তা সিরিজ ১: বেসিক মেশিন লার্নিং"
 date: 2020-06-02T09:44:20-04:00
 modified: 2020-06-27T14:56:44-04:00
+alternate_en: /en/courses/
 excerpt: "নতুন কোর্স, বেসিক মেশিন লার্নিং"
 image:
   feature:
