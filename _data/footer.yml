@@ -2,18 +2,26 @@
 
 - title: কৃত্রিম বুদ্ধিমত্তা
   url: /
+  url_en: /en/
+  title_en: "AI & Machine Learning"
 
 - title: কেন?
   url: /why/
+  url_en: /en/why/
+  title_en: "Why?"
 
 - title: আর্টিকেল
   url: /articles/
+  url_en: /en/articles/
+  title_en: "Articles"
 
 - title: মিনি ক্লাস
   url: /classes/
-
+  
 - title: রিসোর্স
   url: /resources/
+  url_en: /en/resources/
+  title_en: "Resources"
   
 - title: প্রিন্ট মিডিয়া
   url: /print/

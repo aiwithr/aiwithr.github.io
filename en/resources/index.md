@@ -240,7 +240,7 @@ Some writing in the print media, [here](https://aiwithr.github.io/print/).
 
 ## Some online training material
 
-1. [Artificial Intelligence Series 1: Basic Machine Learning](https://aiwithr.github.io/courses/)
+1. [Artificial Intelligence Series 1: Basic Machine Learning](https://aiwithr.github.io/en/courses/)
 
 2. [Artificial Intelligence Series 2: Policy-making Framework](https://aiwithr.github.io/ai-policy-makers/)
 
@@ -254,9 +254,9 @@ Bangladesh and our future — the interface [is here](https://raqueeb.github.io/
 
 ## If you run into trouble (for the books)
 
-1. [Answers to thousands of questions](https://aiwithr.github.io/getting-started/)
+1. [Answers to thousands of questions](https://aiwithr.github.io/en/getting-started/)
 
-2. We have an extraordinary [Facebook group](https://www.facebook.com/groups/173027520158292) where many people answer as soon as you post. Besides, even though I am 'passionate' about machine learning, I can only do it in my spare time — outside work and family. So first check the [answers to the questions](https://aiwithr.github.io/getting-started/), then you can call via Messenger [Rakibul Hassan](http://m.me/raqueeb) or 01713095767 (5–6 pm).
+2. We have an extraordinary [Facebook group](https://www.facebook.com/groups/173027520158292) where many people answer as soon as you post. Besides, even though I am 'passionate' about machine learning, I can only do it in my spare time — outside work and family. So first check the [answers to the questions](https://aiwithr.github.io/en/getting-started/), then you can call via Messenger [Rakibul Hassan](http://m.me/raqueeb) or 01713095767 (5–6 pm).
 
 ## Open-source books under the Creative Commons license
 

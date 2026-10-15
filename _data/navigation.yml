@@ -2,6 +2,7 @@
 
 - title: কেন?
   url: /why/
+  url_en: /en/why/
   title_en: "Why?"
   excerpt_en: "Why do we need intelligent systems?"
   excerpt: "কেন দরকার ইন্টেলিজেন্ট সিস্টেম?"
@@ -9,6 +10,7 @@
 
 - title: শুরু কোথায়?
   url: /getting-started/
+  url_en: /en/getting-started/
   title_en: "Getting Started"
   excerpt_en: "How do we begin, and what should we learn?"
   excerpt: "কিভাবে আমরা শুরু করবো, কি শিখতে চাইবো?"
@@ -16,6 +18,7 @@
 
 - title: রিসোর্স
   url: /resources/
+  url_en: /en/resources/
   title_en: "Resources"
   excerpt_en: "My intelligent-systems resources in Bangla"
   excerpt: "বাংলায় ইন্টেলিজেন্ট সিস্টেম নিয়ে আমার তৈরি করা রিসোর্স"
@@ -23,6 +26,7 @@
 
 - title: আর্টিকেল
   url: /articles/
+  url_en: /en/articles/
   title_en: "Articles"
   excerpt_en: "Articles on intelligent systems in Bangla"
   excerpt: "বাংলায় ইন্টেলিজেন্ট সিস্টেম নিয়ে কিছু আর্টিকেল"
@@ -30,6 +34,7 @@
 
 - title: রোডম্যাপ
   url: /ds_roadmap/
+  url_en: /en/ds_roadmap/
   title_en: "Roadmap"
   excerpt_en: "Data science and analytics roadmap in Bangla"
   excerpt: "বাংলায় ডাটা সাইন্স/অ্যানালিটিক্স রোডম্যাপ"
@@ -37,6 +42,7 @@
 
 - title: মেন্টরশীপ
   url: /mentorship/
+  url_en: /en/mentorship/
   title_en: "Mentorship"
   excerpt_en: "Exclusive data-science mentorship for non-programmers"
   excerpt: "ডেটা-সাইন্স নিয়ে নন-প্রোগ্রামারদের জন্য 'এক্সক্লুসিভ' মেন্টরশীপ"
@@ -44,6 +50,7 @@
 
 - title: আমি কে?
   url: /about/
+  url_en: /en/about/
   title_en: "About"
   excerpt_en: "Who am I, and why did I get into intelligent systems?"
   excerpt: "আমি কে, কেন এলাম ইন্টেলিজেন্ট সিস্টেম নিয়ে?"

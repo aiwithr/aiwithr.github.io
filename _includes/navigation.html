@@ -7,7 +7,8 @@
         {% else %}
         {% assign domain = site.url %}
     {% endif %}
-    {% assign nav_title = link.title %}{% if page.lang == 'en' and link.title_en %}{% assign nav_title = link.title_en %}{% endif %}
-    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ nav_title }}</a></li>
+    {% assign nav_title = link.title %}{% assign nav_url = link.url %}
+    {% if page.lang == 'en' %}{% if link.title_en %}{% assign nav_title = link.title_en %}{% endif %}{% if link.url_en %}{% assign nav_url = link.url_en %}{% endif %}{% endif %}
+    <li><a href="{{ domain }}{{ nav_url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ nav_title }}</a></li>
   {% endfor %}
 </ul>
