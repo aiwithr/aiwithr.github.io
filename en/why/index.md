@@ -3,7 +3,7 @@ layout: article
 title: "Why Do We Need Intelligent Systems?"
 date: 2019-08-25T13:57:25-04:00
 modified: 2019-8-01T16:21:57-04:00
-excerpt: "Why intelligent systems matter — how data and artificial intelligence solve real problems, from fraud detection to policy dashboards, and why learning AI in Bangla matters."
+excerpt: "Why do we need intelligent systems — why data and artificial intelligence matter, which problems they solve, and the necessity of learning AI."
 lang: en
 locale: en_US
 alternate_bn: /why/
@@ -22,73 +22,73 @@ Bowman: Open the pod bay doors, HAL.
 HAL 9000: I am sorry, Dave. I am afraid I can not do that. 
 -- 2001: A Space Odyssey
 ```
-<a href="#" class="btn">Systems</a>
+<a href="#" class="btn">System</a>
 <a href="#" class="btn-info">Data</a>
 <a href="#" class="btn-warning">Wisdom</a>
 <a href="#" class="btn-danger">Process</a>
 <a href="#" class="btn-success">Optimization</a>
 
-## One movie changed everything
+## One Movie Changed Everything
 
-A childhood movie left a deep mark. I am still following its thread. Its protagonist was 'HAL', a sentient computer. Yes — the movie was *2001: A Space Odyssey*. In it we saw the tug-of-war between humans and machines that can think.
+A movie from my childhood left an indelible mark on my mind. I am still carrying its resonance with me today. The protagonist of that film was 'HAL', a sentient computer. You guessed it right — the film was *2001: A Space Odyssey*. In that movie, we witnessed the intricate tension between humanity and machines that can 'think'.
 {: .notice}
 
-## Why do people want intelligent machines?
+## Why Do People Want Intelligent Machines?
 
-For a century, our fascination with Jarvis from Iron Man, the Terminator, or KITT from Knight Rider has been a powerful expression of the desire for intelligent machines. Whether machines can truly think like humans matters less than the fact that humanity refuses to give up on the idea.
+For a century, our fascination with intelligent machines has manifested in many ways. Our yearning and excitement for personalities like Iron Man's JARVIS, the Terminator, or Knight Rider's KITT represent a profoundly powerful idea. Whether machines can truly think like humans right now, or whether such thinking machines are being built today or not — what matters most is that humanity refuses to let go of this vision.
 
-## Machines excel at specialized work
+## Machines Excel at Specialized Tasks
 
-To solve the big problems ahead — curing disease, DNA sequencing, natural disasters, exploring galaxies — we need intelligent systems by our side. Humans need machines for their own sake too. Think about it: most global business transactions run on credit cards. Last year's AliExpress 11:11 festival sold $1 billion in the first 68 seconds. Records follow. That volume of credit-card data cannot be fraud-checked by thousands of people alone. Intelligent systems have to help.
+To solve the monumental challenges ahead — curing diseases, DNA sequencing, mitigating natural disasters, exploring distant galaxies — we need intelligent systems standing by our side. Humans need them for their own survival and progress. Consider this: the vast majority of global business transactions now run through credit cards. During last year's AliExpress 11:11 festival, \$1 billion in sales took place in just the first 68 seconds. The rest is history. This means that processing such colossal volumes of credit card data for real-time fraud detection is simply impossible for thousands of human beings alone. We must enlist the support of intelligent systems.
 
-## We depend on machines
+## Our Dependence on Machines
 
-I am no exception. My extra dependence on machines for everyday household routine is one expression of this. Assuming "our" work is different, we must delegate routine tasks to machines so we can keep our bigger picture. Of course we want machines that can think a bit like us. When the task is rule-like (somewhat like IFTTT), that works. But when the unknown appears, machines must decide like humans. We already see this in disease diagnosis, self-driving cars, long-haul flights, and on-demand service allocation in data centers — most of the time rule-based machines keep the system running. In short: we want machines as partners at our side.
+I am certainly no exception. My own heavy reliance on machines for everyday household chores is a clear reflection of this. I operate on the premise that our purpose — human purpose — lies elsewhere. We must delegate routine tasks to machines so they can absorb our operational burden. Naturally, we want machines capable of thinking as we do. For routine conditions, an 'if-this-then-that' approach (somewhat like IFTTT) works well. But when confronted with the unknown, machines must make reasoned decisions just like humans. We already observe this in medical diagnostics, autonomous vehicles, long-haul flights, and on-demand cloud resource allocation in data centers, where rule-based systems maintain smooth operations most of the time. In essence, we want machines to stand beside us as collaborative partners.
 
-## Huge populations need process optimization
+## Massive Population, Process Optimization
 
-How long it takes today to get a government service — when "thinking" machines work hand-in-hand with humans, processing time for permits, licenses, trade licenses, passports and more will certainly shrink. We marvel that credit cards verify online; those tasks are simpler and largely process-driven. To rise above human bias — who gets service and who does not — we need systems like these.
+Consider the time it currently takes to receive a government service. If 'thinking' machines join hands with human workers, the processing turnaround for permits, trade licenses, driving licenses, passports, and utility connections will dramatically drop without question. We marvel at how credit card verification happens online in seconds; governmental workflows are often far simpler and largely process-driven. To eliminate human bias — deciding whom to serve and whom to deny — we urgently need intelligent systems of this caliber.
 
-## Government and private systems must work at scale
+## Scaling Public and Private Systems
 
-Our work has to happen at scale. To serve 160 million people, processes must be automated. Traditional software works today but will fall behind. My point is only this: alongside conventional methods, intelligent systems should step in to remove social inconsistency. They will help government service delivery. Cut time. Help doctors with correct diagnostics. Help people.
+Our work must happen at scale — on an immense level. To deliver services to 160 million people, processes must be automated. While conventional legacy software functions today, it will inevitably fall behind in the near future. My central point is straightforward: alongside traditional methods, intelligent systems must step in to eliminate societal bottlenecks and inconsistencies. Intelligent systems will streamline public service delivery, dramatically cut processing times, assist doctors with precise diagnostics, and ultimately serve humanity.
 
-## National policy dashboards
+## National Policy Dashboards
 
 > Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.
 >
-> -- Margaret Mead
+> — Margaret Mead
 
-How does a capable company run? You said it — profit-and-loss spreadsheets. They track every taka of investment. Where profit and loss happen comes from that sheet. Small companies are easy to track; big ones get harder. Hundreds of divisions. Separate books. Knowing that one unit has 2% profit while another has 80% loss on one sheet is genuinely hard. That is why CEOs of multi-million and multi-billion dollar companies keep a 'dashboard' — for the high-level view, for informed decisions. A broad perspective sits there; one click reveals the detail.
+Can you tell how a truly efficient company operates? You guessed it right: through profit-and-loss spreadsheets. They account for every single taka of investment. Where profits are generated and where losses occur can be tracked directly from those spreadsheets. For a small company, keeping track is straightforward. As an organization expands, the challenge compounds: hundreds of divisions, each maintaining its own ledgers. Distinguishing which unit yielded a 2% profit while another suffered an 80% loss within the same row becomes arduous. That is precisely why Chief Executives of multi-million and multi-billion dollar enterprises rely on executive 'dashboards' — providing high-level situational awareness for making informed decisions. A broad perspective appears right there on the screen, while granular details remain accessible with a single click.
 {: .notice-info}
 
-Take a successful telecom operator. The CEO has a high-level dashboard: company profit and loss, each department's KPIs, how close or far the company is from the next target — everything lands there. Every tool needed for an informed decision is there. The dashboard also carries the parent company's goals (for example Telenor's philosophy). Every company runs on a philosophy; policies that catch that philosophy cascade inside. Everything inside is inter-related. One SIM sale in Bangladesh can show impact on the global dashboard. The pieces may be small, but they are strung on one thread. When government policy changes — say SIM tax rises or falls — the outcome shows there too. Mid-level managers have their own dashboards at their level, where they take informed decisions.
+How does a successful enterprise function? Consider Grameenphone. The Chief Executive Officer has a high-level executive dashboard. Company profitability, departmental KPI progression, distance from forward targets — everything converges onto this single dashboard. Every analytical tool needed to make an informed decision is placed at their fingertips. Alongside this, the dashboard reflects the strategic benchmarks of Telenor — the governing philosophy of the parent company. Every enterprise operates on an underlying philosophy; to capture that philosophy, essential policies cascade throughout the organization in a structured flow. Furthermore, every component inside is interconnected. A single SIM card sale in Bangladesh can register its impact on the global dashboard. The data points may seem tiny, yet everything is linked by a unified thread. When government policy shifts — such as a rise or drop in SIM taxation — the outcome immediately reflects there. Mid-level managers also operate with dashboards tailored to their scope, enabling informed decision-making at every operational tier.
 
-Would a government dashboard work here? Data has great power. It can reveal the inside of many things. Every event on earth connects to another; working with data teaches you that. From a teenage girl's suicide driven by poverty to road-accident deaths, impact can surface on one dashboard. Even where VGF cards got stuck in field distribution shows up. We may not see the full inside story — village-level data points are already enough. A head of government could learn much of the inside story before events happen. Singapore's "Smart Nation" or the UAE's "Smart Gov" dashboards have reached another level; nearly their whole government service-delivery platform is online. We are getting there too. It can start with such a dashboard.
+What would happen if a government operated with such a dashboard? Data holds enormous power; it can penetrate deep beneath the surface. Every event in the world is connected to another — working with data makes this vividly clear. From a teenage girl's suicide driven by extreme poverty to fatalities from road traffic accidents, every ripple can surface on that national dashboard. Where the distribution of Vulnerable Group Feeding (VGF) cards encountered field-level blockages would also appear clearly. We might not even require exhaustive micro-details right now; village-level data points are already sufficient. The head of government could uncover crucial underlying realities — before crises escalate. Singapore's "Smart Nation" and the United Arab Emirates' "Smart Gov" dashboards have already reached unprecedented heights, where nearly their entire public service delivery platform operates seamlessly online. We too are moving forward step by step. That transformation can begin with this very dashboard.
 {: .notice-info}
 
-Can a government run this way, like a company? Yes. Many companies now run quasi-government-style Corporate Social Responsibility — duty to people; profit is not always first. As I said, from Singapore onward many countries feel data's power in their hands. After a regulatory training in Singapore, my head opened: in those countries, data in policy-making saves money — from waste, from wrong decisions. Data helps timely decisions; one timely decision can save a lot of money. Otherwise project costs climb day by day.
+Can a government be run this way, like an enterprise? Absolutely. Many corporations today manage their Corporate Social Responsibility (CSR) initiatives with a civic responsibility akin to governments — driven by accountability to people, where immediate profit is not the sole objective. As noted earlier, nations from Singapore outward are experiencing firsthand the transformative power of data. Frankly speaking, after attending a regulatory training program in Singapore, my entire perspective expanded. In those nations, integrating data into policy formulation saves enormous sums of public money — curbing waste and preventing costly missteps. Data empowers leaders to make timely decisions, and a single timely intervention can save fortunes; otherwise, project expenditures escalate uncontrollably day after day.
 
-What would such a policy data dashboard look like — for the Prime Minister, MPs and officials where applicable? Over 200 data points including ministries, fed from those places. Machine learning over correlated data can reveal people's demands, where the real problems are, and each MP-area's gaps or progress. Where work is stuck — what the problem is, the inside inconsistency — all of it lands on the dashboard. Decisions become informed: decided with knowledge. My data says India has launched data-driven governance dashboards in Andhra Pradesh, Odisha, Jharkhand and Maharashtra with help from a private organization.
+What would such a dashboard look like? A data-driven national policy dashboard for the Prime Minister, Members of Parliament, and senior civil servants — customized for each domain. Over 200 distinct data streams, encompassing ministries and field agencies, would feed continuous real-time data into the system. Correlating these data streams through machine learning would reveal genuine public needs, spotlight core underlying issues, and track the progress or implementation gaps in each MP's constituency. Where initiatives are stalled, what operational roadblocks exist, and what internal irregularities persist — everything would surface on our dashboard. Consequently, decisions would become genuinely informed — grounded in evidence rather than conjecture. Our observations show that data-driven governance dashboards have already been implemented in Indian states such as Andhra Pradesh, Odisha, Jharkhand, and Maharashtra with the collaboration of private technical organizations.
 {: .notice-info}
 
-I have spent nearly 30 years in government. Data use is growing in government, applied in pockets; an Open Data Initiative exists — but not enough. Living with data myself, I understand its weight. A policy dashboard for decision-making keeps turning in my head. My PhD proposal is "National Decision Support System for Bangladeshi Policymakers from Anonymous Large Scale Mobile Phone Data". Machine learning is a large part. The topic works in three parts: (1) a National Decision Support System can be built, (2) for policymakers, (3) fed from one large data point. I limited it to a framework around mobile-phone data availability; with more data points it works at larger scale. All of it is possible — with artificial intelligence.
+I have served in government for nearly 30 years. The utilization of data is expanding within government circles, applied in select strategic areas, and a National Open Data Initiative has been inaugurated. Yet, that alone is not enough. Living and working with data daily, I intimately understand its vital importance. A strategic policy dashboard for high-level decision-making continuously turns in my mind. My PhD proposal centers on this exact mission: *"National Decision Support System for Bangladeshi Policymakers from Anonymous Large Scale Mobile Phone Data"*. Machine learning forms a substantial component here. The framework operates across three pillars: (1) building a National Decision Support System, (2) tailored for national policymakers, and (3) driven by large-scale data points. Because I am working on this independently, I scoped it into a concrete framework subject to the availability of anonymized mobile phone data. With a broader array of data inputs, it will function at an even larger scale. Everything is achievable — through artificial intelligence.
 
-## Small-scale intelligent machines first
+## Starting with Small-Scale Intelligent Machines
 
-Much of how we think has already been handed to machines. Whether an elevator keeps taking calls until a time, stops at our floor if calls stack above, or if overloaded above returns to external calls floor by floor — or with many elevators, which car by proximity and call load arrives at your floor soonest — is daily routine now.
+Much of how we humans reason has already been imparted to machines. Whether an elevator continues accepting calls up to a given time, whether it stops at our floor if calls are queued above, whether it bypasses external calls when overcrowded, or in a multi-elevator bank, which car will arrive at your floor in the shortest time based on proximity and load calculations — these are all routine everyday computations.
 
-## Software is eating the world
+## Software Is Eating the World
 
-People ask me why learn machine learning or deep learning. I say: this is the field changing the whole world. It is still exploring what conventional software cannot do. Around you, big companies are software companies — bKash, Pathao, Daraz, all of them. But machine learning and deep learning will eat conventional software companies.
+People often ask me: why should we learn machine learning or deep learning? My answer is simple: this is the defining field transforming the entire planet. This emerging discipline is continuously exploring what remains unattainable through conventional software. Look around you right now — the most prominent enterprises are software companies: bKash, Pathao, Daraz, and many others. Yet, machine learning and deep learning will fundamentally disrupt and assimilate traditional software companies.
 
-## "AI will eat software"
+## "AI Will Eat Software"
 
-Search: "software is eating the world, AI will eat software". Whatever challenge stands before you, this machine-learning exploration mode can help solve it — I see it around me. The exploration is largely intellectual: I keep meeting new problems whose only solution lives in machine learning.
+Do a quick search: *"Software is eating the world, AI will eat software"*. Whatever challenges stand before you, exploring problem spaces through machine learning allows you to solve virtually any category of problem — as I observe all around me. This exploration is deeply intellectual: I continually encounter novel problems whose only viable solution lies in machine learning.
 
-## We must grow our skillsets
+## We Must Elevate Our Skillsets
 
-Because it is a thinking machine, the intelligence is synthetic — hence our core topic is *artificial* intelligence. Teaching machines is still foggy ground. Hence these books, videos and conversations — as a series.
+Because thinking machines possess synthetic intelligence, our central dialogue revolves around *artificial* intelligence. However, the foundational concepts of teaching machines are still clouded in ambiguity for many. That is precisely the reason behind this series of books, videos, and discussions.
 
-I believe one thing: *if you build it, they will come*. With skilled people, the economic shift arrives here. Abundant skilled people are needed to build intelligent systems. Software now needs intelligence; that needs willpower and brains.
+I believe in a timeless truth: *"If you build it, they will come."* Once we cultivate skilled human capital, the economic transformation will inevitably take root here. We need a vast pool of skilled individuals to build intelligent systems. Software must now be endowed with intelligence, and that requires willpower, dedication, and intellect.
 {: .notice}

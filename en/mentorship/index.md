@@ -3,10 +3,10 @@ layout: article
 title: "Exclusive Data Analytics Mentorship for Everyone"
 date: 2022-01-11T13:57:25-04:00
 modified: 2022-01-01T16:21:57-04:00
-excerpt: "Data analytics mentorship — personal guidance to learn data science and analytics, project reviews and career support for non-programmers."
+alternate_bn: /mentorship/
 lang: en
 locale: en_US
-alternate_bn: /mentorship/
+excerpt: "Exclusive Data Analytics Mentorship — personalized guidance for learning data analytics, project reviews, and career coaching for non-programmers."
 tags: []
 image:
   feature:
@@ -17,55 +17,51 @@ share: false
 
 {% include toc.html %}
 
-This page describes the first mentorship batch (March–May 2022). New batches are announced on the Bangla site and social channels.
-{: .notice-info}
-
-## 32-hour (3-month) mentorship for non-programmers
+## 32-Hour (3-Month) Mentorship for Non-Programmers
 
 ![All books](https://raw.githubusercontent.com/aiwithr/aibook/main/assets/images/aibook2.jpg)
 <div class="badges">
-	<span class="badge">R programming</span>
-	<span class="badge info">Python programming</span>
-	<span class="badge warning">Data analytics</span>
-	<span class="badge danger">Business analytics</span>
-	<span class="badge success">On the data science path</span>
+	<span class="badge">R Programming</span>
+	<span class="badge info">Python Programming</span>
+	<span class="badge warning">Data Analytics</span>
+	<span class="badge danger">Business Analytics</span>
+	<span class="badge success">On the Road to Data Science</span>
 </div>
 
-A few decades ago every billion-dollar company was energy: British Petroleum, General Electric, Shell — oil ran the world. Now data runs the world. Whoever has the most data steers the planet. Google, Facebook, Amazon, Alibaba and Netflix sprint ahead on insight — even through COVID. Data did not run short while other businesses struggled.
+A few decades ago, the world's billion-dollar enterprises were energy and power conglomerates: British Petroleum, General Electric, Shell. Back then, oil powered the globe. Today, data runs the world. Whoever holds the most data steers the planet. Driven by actionable wisdom extracted from data, companies like Google, Facebook, Amazon, Alibaba, and Netflix dominate the global landscape — even throughout the COVID-19 pandemic. While conventional businesses struggled, data-driven enterprises experienced no shortage of fuel.
 
-Back to Bangladesh: many companies' management talk to me about data analysis. Our market is forming — slowly. Everyone wants knowledge from data.
+Returning to Bangladesh: leadership and management across many local companies consult with me regularly regarding data analysis. This signals that our domestic market is actively taking shape. It takes time, naturally; yet everyone is striving to extract actionable intelligence from data.
 
-## 95 mentees, Google Meet + Slack app
+## 95-Seat Mentorship: Google Meet + Slack
 
 <div class="badges">
 	<span class="badge info">Batch 1: 4 March 2022 – 7 May 2022</span>	
 </div>
 
-"Everyone" means non-programmers (CSE and non-CSE). One or two batches around the 25th; the first batch was 95 seats, targeting ~50 certifications in four months.
+Here, "everyone" and "for non-programmers" means applicants from all academic backgrounds (CSE and non-CSE alike) are encouraged to apply. The initial cohort begins with 95 participants — with the collective goal of enabling at least 50 global certifications within four months.
 
-My experience: women often lead in pattern analysis. Data worldwide shows women excelling as data analysts; my wife has been in banking 20 years — women understand the story inside data.
-{: .notice}
+In my experience, female learners often show distinctive strengths in pattern recognition and analytical synthesis. Global data indicates that women excel as data analysts worldwide. My wife has served in the banking sector for over twenty years; observing from close quarters, I have seen that women intuitively grasp the underlying narratives within data.
 
-## Training for this era, for a data-driven society
+## Training for This Era: A Data-Driven Society
 
 > Recipes tell you nothing. Learning techniques is the key.
 >
 > — Tom Colicchio
 
-I have faced 75+ trainings professionally and researched online LMS platforms for a decade. This moment is genuinely maddening.
+Over the course of my professional career, I have participated in over 75 specialized training programs. As part of continuous technological innovation, I have deeply researched online learning platforms (Learning Management Systems) over the past decade. What is taking place right now is truly remarkable.
 
-Most work ahead is data. Google talks of 6–12 month certifications replacing four-year data degrees for the new century; Google Trends shows a pandemic-shaped gap in people who understand data and decide with it.
+Looking ahead, the majority of future roles will revolve around data. Google projects that practical 6-to-12-month professional certifications will increasingly train new workforce talent for the 21st century in place of traditional four-year degrees. Google Trends indicates that the pandemic created a massive market deficit in professionals capable of understanding and making decisions from data.
 
-Auditing the courses below at full scale showed how much Google, Microsoft and IBM invested to close that knowledge gap — truly impressive coursework. Crucially, no special institutional background is needed to start. Neighbors — India, the Philippines, Eastern Europe — have young people with skills we do not. Our problem is not talent; it is the absence of a strong data community. Many never learn how many gems are online; some drift into TikTok and Facebook boredom instead.
+Over the past two years, auditing the courses below at full scale revealed the colossal investments made by Google, Microsoft, and IBM to bridge this knowledge gap. Inspecting their coursework and pedagogical materials left me deeply impressed. Crucially, beginning these programs requires no specialized institutional degree. What do students across neighboring countries like India, the Philippines, or Eastern Europe possess that our youth lack? Our primary handicap is simply the absence of a vibrant, supportive data community. Many never discover the wealth of educational gems freely scattered across the internet, drifting instead into the passive distractions of TikTok and social feeds.
 {: .notice}
 
-| Course | Link |
+| Certification | Platform Link |
 | :--- | :--- |
-| Google Data Analytics Professional Certificate | [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)  |
+| Google Data Analytics Professional Certificate | [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) |
 | IBM Data Analyst Professional Certificate | [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) |
 | Microsoft Certified: Data Analyst Associate | [Microsoft Certified: Data Analyst Associate](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/) |
 
-So what did I do? I built a Bangla data-analyst mentorship for non-programmers from that coursework plus my experience, focused on the Google certificate. A real analytics course takes 6–8 months at 15–20 hours a week; I compressed it to 3 months when I am in the driver's seat. A webinar on the idea:
+So, what is my mission here? By synthesizing those global curricula with my own practical industry experience, I designed a tailored Data Analyst Mentorship Program in Bangla for non-programmers, placing primary emphasis around the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics). Over the past two years, I realized that completing a rigorous data analytics program typically demands 6 to 8 months at 15 to 20 hours per week, particularly for non-programmers. However, when I am in the driver's seat guiding you directly, that timeframe can be compressed to 3 months. You can watch an introductory webinar outlining this framework below:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/UY-zgwR6K6A" frameborder="0"> </iframe>
 
@@ -73,215 +69,207 @@ So what did I do? I built a Bangla data-analyst mentorship for non-programmers f
 >
 > — Yuval Noah Harari
 
-In this overload age, the big job is priority — you cannot swallow everything; filter and balance. Without relevant skills the market calls you obsolete; the keyword today is staying relevant. This mentorship is about what to keep and what to drop.
+In this age of information overload, life's greatest challenge is setting clear priorities: since you cannot consume everything, you must filter out the noise and balance your focus. At the same time, without relevant skills, the market deems you obsolete. Today's imperative is staying relevant. This mentorship is designed around knowing what to prioritize and what to filter out.
 
-Great things happened in those two years: real movement on the Google certificate in Bangladesh. I wanted many to start alone; they did — then asked for help mid-way. Same with my own children: memorizing to pass exams was never the goal.
+Remarkable momentum has emerged over the past two years around the Google Data Analytics Professional Certificate in Bangladesh. This is precisely what I hoped for: enabling learners to get started independently. Many have begun, yet many reach out mid-journey seeking guidance. I observed this firsthand when guiding my own children through the program: memorizing test dumps without true comprehension was never the goal.
+
+Passing exams to collect a certificate is relatively easy; attaining genuine conceptual mastery requires experienced outside mentorship. To keep their coursework concise, Google embeds clever keywords and external references that can be challenging to decipher in isolation. While Google's curriculum is outstanding, fully digesting it benefits immensely from complementary context.
+
+Remember: you can complete the Google Data Analytics Certification entirely on your own without assistance. However, my mentorship provides global perspective and personalized hand-holding as you step onto this career path.
 {: .notice-info}
 
-Passing for the certificate is easy; real understanding needs outside help. Google uses clever links and keywords inside the course; without context they are hard. The coursework is excellent — it just needs a little more around it.
+## My Journey: Global Certifications
 
-You *can* do the Google certificate alone. This mentorship adds global perspective and hand-holding into this line of work.
-{: .notice-info}
+My journey with global certifications began in 1999. Before international exam testing centers were established in Bangladesh, candidates traveled to Singapore or India to sit for exams. I prepared relentlessly, taking mock exams and reviewing technical architectures in my head. When testing centers finally arrived in Bangladesh in 1999, I sat for eight certification exams in quick succession, funded entirely from my own salary savings.
 
-## My story: global certification
+Looking back, why did I pursue global certifications? Was it merely for a job? No. It was to validate my capabilities on a global scale. That early milestone provided an unshakeable confidence that nothing else could replicate. It clarified why choosing to stay in my country with a larger purpose outweighed corporate cubicles abroad. Touching people's lives locally became my calling. That confidence propelled me into leading national data-driven institutions, and I never looked back.
 
-My first global certification was 1999. Before exam centers existed in Bangladesh, some traveled to Singapore or India; others waited. I did not wait — I mock-tested on my own and finally sat eight exams in 1999, saving money from my job, everything already downloaded in my head.
+Many in our upcoming generation seek that same self-validation. Yet acquiring skills solely for immediate employment never lasts. Continuous skill development for work you genuinely care about alongside your current profession is noble. The sky is the limit.
 
-Looking back: not for a job — for validation. Where do I stand on a global scale? That confidence in 1999 gave me something nothing else could. I understood how foreign jobs push you to stay home with a bigger calling; touching people's lives beat a cubicle abroad. That insight took me into national data-driven institutions; I never looked back.
+My frustration lies here: people readily spend 5 to 10 lakh taka on university degrees (where institutions assume no responsibility for career placement), yet hesitate to invest in targeted practical skill development. Consequently, when graduates enter the competitive job market and discover their skills mismatched with industry demands, frustration ensues.
 
-Many of the new generation want that validation too. Learning only for a job never lasts. Skill for work you love beside your current job is not wrong. Sky is the limit.
+What is the way forward? What if you had an experienced mentor alongside you on that unfamiliar road?
 
-My pain is elsewhere: we spend 5–10 lakh taka on a university degree (with no placement duty) but resist paying for skills — so skills fall on our own lives; after the degree, market mismatch brings frustration.
+## What Does "Exclusive Mentorship" Mean?
 
-What is the way out? What if a mentor appeared on that unknown road?
-{: .notice}
+Every learner is unique. When you understand each individual's needs, delivery becomes seamless. I will get to know you personally and guide the entire cohort accordingly. Once you master data analytics, I will show you the crossroads leading to becoming a Data Scientist. That is the ultimate destination!
 
-## What does "exclusive" mentorship mean?
+### The Cadet College Form Master
 
-Everyone is different. Understanding needs separately makes delivery easy. I try to know you specifically, guide the whole class accordingly, and after analytics show you the crossroads of becoming a data scientist — the final destination!
+In the 7th grade, I entered Cadet College. Our form (section) comprised 25 cadets guided by a dedicated 'Form Master'. Even though he taught geometry, he stood accountable for why any of us struggled in chemistry or biology. He assumed responsibility when we acted up before college leadership. On Parents' Day, if parents could not travel, he stood in their place. When illness struck and a cadet was hospitalized, this fatherly mentor was right beside the duty master. Decades later, when meeting him as grown adults, his eyes still welled with warmth and affection. That is mentorship for life.
 
-### Cadet college form master
+### The Military Academy Platoon Commander
 
-In class seven I joined cadet college; our form (section) had 25 cadets and one dedicated form master. He owned everything for those 25 — covering chemistry excuses even though he taught geometry; proxying parents' day; sitting by the hospital when we were sick. Meeting him later, eyes full of affection. That is mentorship 'for life'.
+At the Military Academy, a Platoon Commander oversees a platoon of twenty cadets through three rigorous years. His committed involvement in transforming civilian youths into military officers is extraordinary — from dawn road runs to verifying evening journals before lights out, infusing leadership into every cadet. That too is mentorship for life.
 
-### Military academy platoon commander
+## Google Data Analytics Certification: Backstory
 
-A platoon commander of ~20 cadets over three years sees everything from dawn mile runs to diary checks before lights-out — committed involvement turning civilians into officers. Also mentorship 'for life'.
-{: .notice}
+After authoring five data science books, I asked myself: what is the most intuitive gateway for non-programmers to master data? I began writing a dedicated analytics book and produced nearly a hundred tutorials to demystify the discipline. Yet working with freely available content revealed an inherent challenge: specialized knowledge often loses disciplined engagement when distributed purely as freemium content. That sparked a new approach.
 
-## Google Data Analytics Certification: backstory
+Having utilized Coursera for years, I received early alert of Google's flagship analytics program while authoring my book. From that vantage point, I architected a three-month intensive analytics mentorship for non-programmers: teaching students from the ground up how to extract actionable insight from data. I believe this specialized expertise should not be confined to a privileged few globally.
 
-Writing 5+ data-science books made me ask: what is the easy way for non-programmers to understand data? I built an exclusive analytics book and nearly a hundred videos. Working with those free materials showed that specialized material loses applications when run freemium — that started a different train of thought.
+I teach in my own authentic style, aligned with an internationally recognized curriculum so students earn a world-class credential alongside practical mentorship. Whether it immediately secures international employment is secondary; validating your competencies against global standards is the primary objective.
 
-I have been a Coursera user for years. A year before writing the analytics book, a Google alert brought the certificate. From that perspective I designed a four-month analytics mentorship: ground-up, how a student learns to take insight from data — because why should this specialty stay limited to a few thousand people worldwide? I began hands-on with the analysis stage to smooth the pipeline.
+## Why 3 Months Instead of 6–8 Months?
 
-I teach my way, but a global certification curriculum done properly lets a student earn an international certificate beside the teaching. Whether it lands a US job is secondary; self-validation at global level is the point.
+Everyone is busy. Genuine learning must stem from your own intrinsic drive. My responsibility is bringing you to the crossroads and sparking enthusiasm so you can advance independently. The mentorship fuels that acceleration.
 
-## Why 3 months instead of 6–8?
+Review the curriculum and resources [here](https://www.coursera.org/professional-certificates/google-data-analytics).
 
-Everyone is busy; learning is yours, from your interest. My job is to bring you to a crossroads and create interest — the mentorship does the rest.
+My research indicates that the Google Data Analytics Certification typically requires approximately 174 hours to complete (see the diagrams below). While this can be streamlined, financial aid application processing timelines make completing it under three months impractical.
 
-Watch the curriculum and resources [here](https://www.coursera.org/professional-certificates/google-data-analytics).
+The certification spans eight distinct courses (including a comprehensive capstone project), each requiring roughly 20 hours of genuine study. Google's core instructional videos alone total 21 hours — averaging roughly 175 minutes of mandatory viewing per course.
 
-My research: the Google certificate typically takes ~174 hours. See the two figures below. It can be compressed, but the aid-application process makes under three months hard.
+My mission is to help you absorb and operationalize this complete body of knowledge through 32 hours of live mentorship. Let me be clear: I will not take quizzes or exams for you. I will challenge and push you throughout, but without serious personal dedication, certification remains out of reach. I seek committed learners ready to embrace the future. Prior background in data is unnecessary; with the right attitude, everything is achievable.
 
-Eight separate courses (one capstone) average ~20 hours each — for real learning, not just the certificate. Google's own videos total ~21 hours (~175 minutes per course, must-watch).
-
-I have to download all of it into your brain in 32 hours. I will not help you cheat practice or graded quizzes; I will push you the whole time. Without serious commitment, certification is hard. I want serious learners ready for a future. No data background needed if the attitude is right.
-{: .notice-info}
-
-## Critical thinking and our mindset
+## Critical Thinking and Mindset
 
 > The essence of the independent mind lies not in what it thinks, but in how it thinks.
 >
 > — Christopher Hitchens
 
-Analyst skills: relations among objects, finding patterns, finding questions inside data. Everyone has these regardless of education — my job is to sharpen them so you see problems through analyst eyes. Goal: 500 data analysts in one year.
+As a data analyst, the core skills you must cultivate include: (a) identifying relationships between entities, (b) detecting structural patterns, and (c) formulating analytical questions from raw data. In truth, every human possesses these innate cognitive abilities regardless of academic background. My role is simply to sharpen them so you learn to perceive problems through an analyst's lens. My goal is developing 500 capable data analysts in one year.
 
-## Why is industry teaching analytics?
+## Why Is Industry Leading Analytics Education?
 
-Whether we like it or not, industry skillsets are replacing the old degree. The trillion-dollar education industry vs the industry that hires started long ago. If industry interns a graduate into the system, why would it not teach directly? Why do Google and IBM build curricula? Why does Infosys run an academy?
+Whether we realize it or not, industry-validated skillsets are steadily supplementing traditional academic credentials. The tension between the trillion-dollar academic industry and the enterprises that hire graduates began long ago. If corporate enterprises must retrain graduates through extensive internal internships before they become productive, why shouldn't industry deliver training directly? Why did Google, IBM, and Microsoft engineer their own professional curricula? Why did Infosys establish its own corporate academy?
 
-If Google/IBM/Infosys build products, why teach a ten-year-old curriculum? They want what helps next year. Industry knows what it needs in this knowledge economy.
+Furthermore, tech leaders build the actual products; they have zero incentive to teach ten-year-old static curricula. They design education around the capabilities needed tomorrow. Industry knows exactly what this knowledge economy requires.
 
-From that perspective, Google + Coursera brought a strong entry-level analytics course; Google and 150+ US companies talk placement. Not a job promise from me — this course is the first crossroads of any data-science roadmap; getting on that road matters.
+From that vantage point, Google partnered with Coursera to produce an outstanding entry-level data analytics program, with over 150 leading employers considering graduates for recruitment pipelines. My focus is not commercial job placement: this program serves as the essential gateway to the broader data science roadmap. Getting onto this highway is what matters.
 
-I walked my two children (9th grade and college) through starting the certificate — from financial aid to journey. Google and Coursera built extraordinary content (thousands of study materials); it is concise, and against our education baseline many may burn some wood at the start. I take that responsibility.
+I guided my own two children through the Google certification — from financial aid applications to program completion. Google and Coursera created phenomenal content comprising thousands of study items; however, because it is highly concise and our domestic academic system features structural gaps, beginners initially face a learning curve. I assume the responsibility of bridging that gap.
 {: .notice-info}
 
-Again: eight courses' worth of ground-up data handling and business use cannot be understood any other way. Google and Coursera built this certification on decades of knowledge. I am impressed.
+## What I Will NOT Do
 
-#### What I will *not* do
+1. I will not provide answers for practice quizzes or graded exams. Instead, I teach the underlying concepts thoroughly in a blend of Bangla and English, ensuring you develop a 360-degree understanding capable of cracking future data analyst technical interviews.
 
-1. No direct help on practice or graded quizzes — but I teach class material thoroughly in Bangla/English mix so future analysts can crack interviews (360-degree view).
+2. I do not guarantee job placements. This is an international credential; I do not deploy industry connections for hiring favors — capability must stand on its own merit.
 
-2. No job guarantee — this is a global certification; I am not using industry connections right now; time will tell.
+3. I will not fill out financial aid applications on your behalf. I provide templates and guide you through composing compelling applications. Blindly copying templates hurts your progress; if an application is rejected, you lag thirty days behind the cohort.
 
-3. No financial-aid applications for you — I teach templates and how to apply. Blind copy-paste will hurt you; one rejection sets you 30 days behind the batch.
-
-4. This is fully doable alone online — highly self-disciplined people do not need this mentorship; strong data and English speakers will not need me in this series.
+4. Because this certification is fully accessible online independently, highly self-disciplined learners with strong data and English fluency do not require my mentorship.
 {: .notice-info}
 
-#### What I will do (as mentor)
+## What I WILL Do as Your Mentor
 
-1. If you already have a Coursera scholarship or paid, no new aid application needed. From-zero students: I hand-hold the application and answers — copy-paste strictly banned; rejection costs 30 days. Miss one application and you may lag, but I keep you in audit mode so you can take exams properly after the next application window.
+1. For participants who already hold Coursera subscriptions or scholarships, reapplying for financial aid is unnecessary. For those starting from scratch, I walk you through the financial aid application workflow step by step. Copy-pasting is strictly forbidden: a rejected aid request delays your cohort timeline by a month. In the event of an administrative delay, I keep you progressing in audit mode so you are prepared to sit exams the moment aid approves.
 
-2. A written commitment email from you: 32 hours with me. I do not want you to miss the certification. 50 certificates out of 95 seats would be wonderful. Earning the certificate by dumping without understanding is possible — but I will not let you leave without learning, because we get on the road to data science.
+2. I require a written email commitment confirming your dedication to the 32 live mentorship hours. Earning a certificate through brain dumps without comprehension is worthless; my commitment is ensuring you genuinely master the discipline to prepare for data science.
 
-3. I compress the 6-month content into 3 months of teaching — 15 days of aid per course, so ~50 certificates in three months is possible.
+3. I compress a 6-month journey into a structured 3-month roadmap, coordinating bi-weekly financial aid cycles to target 50 completed certifications across the cohort.
 
-4. Eight courses, ~20 hours each for real learning; ~21 hours of Google video (~175 minutes per course, must-watch) to absorb in 32 brain-hours. No quiz cheating; serious commitment only. Finish early and we discuss the best options among Microsoft, IBM and Google certifications.
+4. Absorbing 8 courses, ~20 hours of study each, and ~21 hours of Google video into 32 hours of live mentorship requires commitment. Complete early, and we will explore advanced topics from Microsoft and IBM tracks.
 
-5. After the Google certification I show the crossroads of becoming a data scientist — the final destination! See the [Roadmap](https://aiwithr.github.io/en/ds_roadmap/) here.
+5. Upon completing the Google Data Analytics Certification, I will guide you to the crossroads of Data Science — the ultimate destination! See our [Roadmap](https://aiwithr.github.io/en/ds_roadmap/).
 
-Understand these images *before* enrolling. Google certification unlocks global community, US-market context and a one-year "Big Interview" subscription — next-level extras.
+Understanding these roadmap diagrams before enrolling is mandatory. Achieving Google certification unlocks access to global alumni communities, US market hiring insights, and a one-year complimentary subscription to Big Interview.
 {: .notice-info}
 
-## Google Data Analytics Certification: summary
+## Google Data Analytics Certification: Summary
 
 <figure>
 	<a href="/images/google1.jpg"><img src="/images/google1.jpg"></a>
-	<figcaption>Google Data Analytics Certification: at a glance</figcaption>
+	<figcaption>Google Data Analytics Certification at a Glance</figcaption>
 </figure>
 
 <figure>
 	<a href="/images/google2.jpg"><img src="/images/google2.jpg"></a>
-	<figcaption>Google Data Analytics Certification: what is inside?</figcaption>
+	<figcaption>Inside the Google Data Analytics Curriculum</figcaption>
 </figure>
 
-## 3-month mentorship outline / timeline
+## 3-Month Mentorship Outline and Timeline
 
-Curriculum and resources [here](https://www.coursera.org/professional-certificates/google-data-analytics). Ten *must* classes, Fridays 10 am–12 pm: 10 × 2 = 20 hours; recordings before the next class. Saturdays 9–10 pm × 4 weeks × 3 months = 12 hours of teaching exchange — bootcamp style. 20 + 12 = 32 hours total.
+Review the curriculum on [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics). Ten mandatory core classes take place on Fridays from 10:00 AM to 12:00 PM (10 × 2 hours = 20 hours). Recordings are published prior to the subsequent session. Additionally, Saturday evening interactive review sessions run from 9:00 PM to 10:00 PM (1 hour × 4 weeks × 3 months = 12 hours) in a focused bootcamp format, totaling 32 live hours.
 {: .notice-info}
 
-### Class calendar: Friday–Saturday
+### Class Calendar: Friday & Saturday
 
-| Main class | Inside discussion |
+| Core Lecture Sessions | Focus |
 | :--- | :--- |
-| 10–12 am: 4, 11, 18, 25 March, 1, 8, 15, 22, 29 April, 6 May 2022  | 10 classes for 8 courses, 10 × 2 = 20 hours |
-| 9–10 pm: 5, 12, 19, 26 March, 2, 9, 16, 23, 30 April, 7 May 2022  | 12 sessions for 8 courses, 12 × 1 = 12 hours |
+| 10:00 AM – 12:00 PM: 4, 11, 18, 25 March; 1, 8, 15, 22, 29 April; 6 May 2022 | 10 lectures for 8 courses (10 × 2 = 20 hours) |
+| 9:00 PM – 10:00 PM: 5, 12, 19, 26 March; 2, 9, 16, 23, 30 April; 7 May 2022 | 12 review sessions for 8 courses (12 × 1 = 12 hours) |
 
-| Course content | Inside discussion |
+### Curriculum Modules and In-Depth Discussions
+
+| Course Module | Key Discussion Themes |
 | :--- | :--- |
-| Foundations: data, data, everywhere | Why are we afraid to decide? Why data? |
-| Deciding from data | Analytical thinking; roles and skillsets needed |
-| Ask questions to make data-driven decisions | Why ask? How to ask? |
-| Asking the right questions | Where questions and answers meet |
-| Live demo — what can data say? | Titanic project: who survives? |
-| Prepare data for exploration | Where are the gems inside data? |
-| Data in daily life | How data prevents bad decisions? |
-| Process data from dirty to clean | Data integrity |
-| Data life cycle | Analysis through the lifecycle |
-| Data toolbox | Spreadsheets, visualization, query languages |
-| Analyze data to answer questions | Aggregation; settling business questions |
-| What is the business problem? | Where is the solution; is math needed at the start? |
-| Project Titanic | Analyzing survival from data |
-| Decision intelligence | ML, statistics and analytics together |
-| Share data through visualization | How patterns teach the brain |
-| Exploratory data analysis | How does data speak by itself? |
-| Compelling narrative and data storytelling | Spreading insight via visualization |
-| Seeing patterns by eye | Iris dataset: which flower is which species? |
-| Data and your personality | Your inner call when deciding |
-| Unknown-unknowns quadrant | Three dimensions of analytics |
-| Data ecosystem | Create, manage, store, organize, analyze, share |
-| Data analysis with R + Python | R's fun story plus a pinch of Python |
-| Google Data Analytics capstone | Complete a case study |
-| Case studies, portfolio building | Analytics interview questions |
+| Foundations: Data, Data, Everywhere | Why do we hesitate to decide? Why data? |
+| Making Decisions from Data | Analytical thinking, requisite roles, and skillsets |
+| Ask Questions to Make Data-Driven Decisions | Why and how do we ask questions? |
+| Formulating the Right Questions | Where questions and answers converge |
+| Live Demonstration: What Does Data Tell Us? | Project Titanic: Who survives? |
+| Prepare Data for Exploration | Uncovering the hidden gems inside data |
+| Data in Everyday Life | How data prevents flawed decisions in daily operations |
+| Process Data from Dirty to Clean | Ensuring data integrity |
+| The Data Life Cycle | Analyzing workflows through the data lifecycle |
+| The Data Toolbox | Spreadsheets, visualization suites, query languages |
+| Analyze Data to Answer Questions | Aggregating data to resolve business questions |
+| Defining the Business Problem | Where solutions lie; is advanced math needed initially? |
+| Project Titanic Analysis | Predicting passenger survival from historical records |
+| Decision Intelligence | Bridging machine learning, statistics, and analytics |
+| Share Data Through the Art of Visualization | How visual patterns communicate to the human brain |
+| Exploratory Data Analysis (EDA) | Allowing data to speak for itself |
+| Compelling Narrative and Data Storytelling | Communicating insights through visualization |
+| Identifying Visual Patterns | The Iris dataset: classifying flower species |
+| Data and Personality | Trusting your analytical intuition |
+| The Unknown-Unknowns Quadrant | Three dimensions of data analytics |
+| The Data Ecosystem | Ingestion, storage, organization, analysis, and sharing |
+| Data Analysis with R + Python | R's intuitive workflows paired with Python |
+| Google Data Analytics Capstone | Executing an end-to-end case study |
+| Case Studies & Portfolio Development | Technical analytics interview preparation |
 
-## Prerequisite: at least university level
+## Prerequisite: University-Level Enrollment
 
-If you applied after HSC, mention it; we talk and I verify fit.
+Applicants who have completed HSC and wish to apply may do so by specifying their background. An evaluation interview will confirm eligibility.
 
-## Free training materials
+## Free Introductory Training Materials
 
-Test whether you can handle the course from two links — no fear needed if you start at the top of the playlist.
+To evaluate whether this curriculum suits you, explore the two links below. Start from the beginning of the playlist without hesitation:
 
-* Some free course content is on YouTube. [See the playlist](https://www.youtube.com/watch?v=K_XEnWAJO-U&list=PL5NPSn95n_L4Z5bpCOqHW_QU8nxgywGM2). Casual viewers can sample middle videos.
+* Free video lessons are available on [YouTube](https://www.youtube.com/watch?v=K_XEnWAJO-U&list=PL5NPSn95n_L4Z5bpCOqHW_QU8nxgywGM2).
+* Open online analytics text: [Data Analytics for Mortals](https://aiwithr.github.io/analyst/) (ongoing draft).
 
-* Online analytics book: [Data Analytics for Mortals](https://aiwithr.github.io/analyst/) — still being written.
+### Week 1 Preview
 
-### Week 1
-
-| Course content | Inside discussion |
+| Module | Discussion |
 | :--- | :--- |
-| Deciding from data | Analytical thinking; roles and skills |
-| The two jobs of data | Data scientist vs analyst; how data decides |
-| Data storytelling | How stories develop; where they connect |
-| Lessons from COVID-19 | Contact tracing, lockdown forecasts, spread |
-| Live demo — what can data say? | Titanic: who survives? |
-| Data toolbox | Spreadsheets, visualization, query languages |
-| Project Titanic | Survival analysis from data |
+| Deciding from Data | Analytical thinking, industry roles, and skills |
+| The Two Faces of Data | Data Scientist vs Data Analyst distinctions |
+| Data Storytelling | Developing narratives from data over time |
+| Lessons from COVID-19 | Contact tracing, epidemic forecasting, transmission |
+| Live Demonstration | Project Titanic: Who survives? |
+| The Data Toolbox | Spreadsheets, visualization, SQL basics |
+| Project Titanic | End-to-end survival analysis |
 
-### Week 2
+### Week 2 Preview
 
-| Course content | Inside discussion |
+| Module | Discussion |
 | :--- | :--- |
-| Business questions | A lifetime of hunting business-question answers |
-| Titanic business questions | Which data influences survival? |
-| Business intelligence | Data in business; where optimization fits |
-| Microsoft Excel | Case build |
-| Tableau | Case build |
-| Power BI | Case build |
+| Business Questions | Uncovering answers to core business dilemmas |
+| Titanic Business Context | Which factors influenced survival probabilities? |
+| Business Intelligence | Leveraging operational data for optimization |
+| Microsoft Excel | Case study build |
+| Tableau | Case study build |
+| Microsoft Power BI | Case study build |
 
-## Pricing: 12,000 BDT, 50% off — 6,000/-
+## Pricing: 12,000 BDT (50% Inaugural Waiver: 6,000 BDT)
 
-I fought two weeks over pricing. Years after fighting industry experts to give premium content free, I learned people do not prefer free content — no consistency, no accountability. Hence this new road. After the Google certification I show the crossroads of becoming a data scientist — the final destination!
+I deliberated for two weeks over pricing. Having previously advocated with industry peers to make premium technical knowledge entirely free, I recognized over time that completely free initiatives often suffer from low consistency and lack of accountability. Hence this structured path. After completing the Google certification, I will guide you toward Data Science — the ultimate destination!
 
-I asked everyone for pricing opinions and locked my three-month calendar. When I take money I must deliver rain-or-shine. Strategy aimed at 50+ certifications in three months; the 50% discount remembers long-time followers — planned for batch 1 only.
+I locked my three-month calendar to deliver rain-or-shine once tuition is accepted. An operational strategy was architected to help at least 50 participants achieve certification in three months. A 50% waiver is extended to long-time community members for Batch 1.
 
-## How to apply
+## Application Guidelines and Form
 
-- [x] 1. Answer in a few lines: "Why do you want this exclusive non-programmer data-analytics mentorship?" — why me as mentor, your short story, in the form below.
+- [x] 1. In a few concise sentences, answer: *"Why do you wish to join this exclusive data analytics mentorship for non-programmers?"* in the application form below, sharing why you seek me as your mentor.
+- [x] 2. Based on your submission, I will conduct an evaluation interview to ensure you are fully aware of the 3-month commitment. Once mutual alignment is confirmed, enrollment proceeds. Course fees are non-refundable.
+- [x] 3. Alongside technical analytics, significant emphasis is placed on soft skills, meta-learning, and community building.
+- [x] 4. Ongoing communication takes place via Slack. Live classes occur via Google Meet. Class attendance on a PC or laptop is mandatory.
 
-- [x] 2. Based on the application I talk with you about the three-month pressure; if our commitments match, payment starts. Fees are non-refundable.
-
-- [x] 3. Plenty of soft skills along the way: learning how to learn, skill-growth stories — and with your help we build a large data community.
-
-- [x] 4. Slack for ongoing communication. All classes on Google Meet. Classes *must* be attended on a PC.
-
-(Applications closed 20 February 2022; answers could be edited until then.)
+(Applications for this inaugural cohort closed on 20 February 2022.)
 {: .notice}
 
-[Application form](https://docs.google.com/forms/d/e/1FAIpQLSdgqs7XlHqH4hGO7CMHbKsVb0466r4wPaRZYdmjW_8g23p2Fg/viewform?usp=sf_link)
+[Access the Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdgqs7XlHqH4hGO7CMHbKsVb0466r4wPaRZYdmjW_8g23p2Fg/viewform?usp=sf_link)
 
-Thank you for being on this journey.
+Thank you for being part of this journey.
