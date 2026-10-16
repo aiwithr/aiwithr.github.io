@@ -6,7 +6,7 @@ modified: 2019-08-27T14:56:44-04:00
 alternate_bn: /about/
 lang: en
 locale: en_US
-excerpt: "Rakibul Hassan — AI/ML specialist, author of 11+ Bangla machine learning books, columnist for The Daily Star, TEDxRUET speaker, former BTRC Director, Director AI Business and Transformation at Link3 Technologies."
+excerpt: "Rakibul Hassan — AI/ML specialist, author of 11+ Bangla machine learning books, columnist for Prothom Alo, The Daily Star, and bdnews24.com, TEDxRUET speaker, former BTRC Director, Director AI Business and Transformation at Link3 Technologies."
 image:
   feature:
   teaser:
@@ -17,19 +17,21 @@ ads: false
 
 <img src="{{ site.url }}/images/rakibul-hassan.jpg" alt="Rakibul Hassan" width="240">
 
-**Rakibul Hassan** — Artificial Intelligence and Machine Learning specialist, author, and regular columnist for *The Daily Star*. He is the author of the first machine learning book in the Bangla language (author of more than 11 books, including the Rokomari bestseller *Hatekolome Machine Learning*, published by Adarsha and Tamralipi). He has also delivered a TEDx talk on "Proactive Public Services: Government Automation". Over his career, he served as Director at the Bangladesh Telecommunication Regulatory Commission (BTRC) and as former Project Director of the Integrated Lawful Interception System (ILIS). Currently, having served as Chief Technology Officer (CTO), he is working as Director of AI Business and Transformation at Link3 Technologies Limited.
+**Rakibul Hassan** — Artificial Intelligence and Machine Learning specialist, author, and regular columnist for leading national dailies and news outlets, including **Prothom Alo**, **The Daily Star**, and **bdnews24.com**. He is the author of the first machine learning book in the Bangla language (author of more than 11 books, including the Rokomari bestseller *Hatekolome Machine Learning*, published by Adarsha and Tamralipi). He has also delivered a TEDx talk on "Proactive Public Services: Government Automation". Over his career, he served as Director at the Bangladesh Telecommunication Regulatory Commission (BTRC) and as former Project Director of the Integrated Lawful Interception System (ILIS). Currently, having served as Chief Technology Officer (CTO), he is working as Director of AI Business and Transformation at Link3 Technologies Limited.
 
 Below are key facets of his work, initiatives, and platforms:
 
 - **Books:** Over [11 published titles (Publishers: Adarsha, Tamralipi — Rokomari Bestsellers)](https://www.rokomari.com/book/author/61248/rakibul-hassan) including the *Hatekolome Machine Learning* series, as well as the [Bangla Artificial Intelligence Package](https://www.boipokabd.com/books/bangla-kritrimo-buddhimotta-pjakejo).
-- **Columnist, The Daily Star:** [Opinion Columns and Essays at The Daily Star](https://bangla.thedailystar.net/author/%E0%A6%B0%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8) — analytical columns focusing on sovereign AI, public service automation, urban tech transformations, and national policy.
+- **Columnist, Prothom Alo:** [Opinion Columns and Essays at Prothom Alo]({{ site.url }}/print/#prothom-alo) — comprehensive catalog of 23+ analytical columns on AI governance, public service digitization, and national infrastructure. ([Prothom Alo Tag](https://www.prothomalo.com/author/%E0%A6%B0%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8))
+- **Columnist, The Daily Star:** [Opinion Columns at The Daily Star](https://bangla.thedailystar.net/author/%E0%A6%B0%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8) — strategic perspectives on sovereign AI, urban technological governance, FDI potential, and telecommunications reform.
+- **Columnist, bdnews24.com:** [Opinion Columns at bdnews24.com](https://bangla.bdnews24.com/author/rakibul-hassan) — analytical pieces on cognitive impacts of AI, enterprise adoption, domain knowledge, and the future of work.
 - **Medium Publications:** [Medium Essays (@raqueeb)](https://medium.com/@raqueeb/) — long-form essays and analyses on AI systems, data architectures, and technology strategy.
 - **Video Content:** Over 600 videos on the YouTube channel [YouTube @aiwithr](https://www.youtube.com/@aiwithr) under the banner "Building Intelligent Systems with Rakib". In addition, he creates Bangla AI and machine learning tutorials on his personal channel, [YouTube @raqueebhassan](https://www.youtube.com/@RaqueebHassan).
 - **Workshops:** ['Making Machines Work: The Kamla Workshop'](https://raqueeb.github.io/kamla_wksp/) — his widely acclaimed, hands-on masterclass on Artificial Intelligence (AI) and Machine Learning.
 - **TEDx:** [TEDxRUET Speaker Profile](https://www.tedxruet.org/speakers/rakibul-hasan).
 - **Media Features:** [Roar Media Feature Profile (2020) — "Machine Learning and a Rakibul Hassan"](https://archive.roar.media/bangla/main/science/machine-learning-and-rakibul-hassan).
 - **Social & Professional Profiles:** [LinkedIn](https://www.linkedin.com/in/raqueeb/), [GitHub](https://github.com/raqueeb), [Medium](https://medium.com/@raqueeb/), [Twitter/X](https://twitter.com/raqueeb), [Facebook](https://www.facebook.com/raqueeb), [WordPress](https://raqueeb.wordpress.com/), and [The Thinking School](https://www.facebook.com/profile.php?id=61576673663332).
-- **Print Media:** [Selected Essays and Column Archives](https://aiwithr.github.io/print/).
+- **Print Media Archive:** [Complete Newspaper Columns and Press Archive]({{ site.url }}/print/).
 
 ## Why Am I Writing So Many Books?
 

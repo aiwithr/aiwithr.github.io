@@ -4,7 +4,7 @@ title: "রকিবুল হাসান (Rakibul Hassan)"
 date: 2019-06-02T09:44:20-04:00
 modified: 2019-08-27T14:56:44-04:00
 alternate_en: /en/about/
-excerpt: "রকিবুল হাসান (Rakibul Hassan) — AI/ML বিশেষজ্ঞ, লেখক ও কলামিস্ট (দ্য ডেইলি স্টার)। ১১টির বেশি বইয়ের লেখক, TEDxRUET বক্তা, সাবেক ডিরেক্টর বিটিআরসি, Director AI Business and Transformation, Link3 Technologies।"
+excerpt: "রকিবুল হাসান (Rakibul Hassan) — AI/ML বিশেষজ্ঞ, লেখক ও জাতীয় দৈনিক প্রথম আলো, দ্য ডেইলি স্টার ও বিডিনিউজ২৪-এর কলামিস্ট। ১১টির বেশি বইয়ের লেখক, TEDxRUET বক্তা, সাবেক ডিরেক্টর বিটিআরসি, Director AI Business and Transformation, Link3 Technologies।"
 image:
   feature:
   teaser:
@@ -15,21 +15,23 @@ ads: false
 
 <img src="{{ site.url }}/images/rakibul-hassan.jpg" alt="রকিবুল হাসান (Rakibul Hassan)" width="240">
 
-**রকিবুল হাসান (Rakibul Hassan)** — কৃত্রিম বুদ্ধিমত্তা ও মেশিন লার্নিং বিশেষজ্ঞ, লেখক এবং জাতীয় দৈনিক 'দ্য ডেইলি স্টার'-এর নিয়মিত কলামিস্ট। তিনি বাংলা ভাষায় প্রথম মেশিন লার্নিং বইয়ের লেখক (রকমারি বেস্টসেলার 'হাতেকলমে মেশিন লার্নিং'সহ মোট ১১টির বেশি বইয়ের লেখক, যা প্রকাশ করেছে 'আদর্শ' ও 'তাম্রলিপি')। এছাড়া তিনি TEDx-এর আমন্ত্রিত বক্তা হিসেবে "Proactive Public Services: Government Automation" বিষয়ে বক্তব্য দিয়েছেন। কর্মজীবনে তিনি বাংলাদেশ টেলিযোগাযোগ নিয়ন্ত্রণ কমিশন (বিটিআরসি)-এর সাবেক পরিচালক এবং ইন্টিগ্রেটেড লফুল ইন্টারসেপশন সিস্টেম (আইএলআইএস)-এর প্রাক্তন প্রকল্প পরিচালক হিসেবে দায়িত্ব পালন করেছেন। পরবর্তীতে Link3 Technologies Limited-এর প্রধান প্রযুক্তি কর্মকর্তা (সিটিও) হিসেবে দায়িত্ব পালনের পর বর্তমানে প্রতিষ্ঠানটির Director AI Business and Transformation হিসেবে কর্মরত আছেন।
+**রকিবুল হাসান (Rakibul Hassan)** — কৃত্রিম বুদ্ধিমত্তা ও মেশিন লার্নিং বিশেষজ্ঞ, লেখক এবং দেশের শীর্ষস্থানীয় জাতীয় দৈনিক ও সংবাদমাধ্যম—**প্রথম আলো**, **দ্য ডেইলি স্টার** ও **বিডিনিউজ২৪**-এর নিয়মিত কলামিস্ট। তিনি বাংলা ভাষায় প্রথম মেশিন লার্নিং বইয়ের লেখক (রকমারি বেস্টসেলার 'হাতেকলমে মেশিন লার্নিং'সহ মোট ১১টির বেশি বইয়ের লেখক, যা প্রকাশ করেছে 'আদর্শ' ও 'তাম্রলিপি')। এছাড়া তিনি TEDx-এর আমন্ত্রিত বক্তা হিসেবে "Proactive Public Services: Government Automation" বিষয়ে বক্তব্য দিয়েছেন। কর্মজীবনে তিনি বাংলাদেশ টেলিযোগাযোগ নিয়ন্ত্রণ কমিশন (বিটিআরসি)-এর সাবেক পরিচালক এবং ইন্টিগ্রেটেড লফুল ইন্টারসেপশন সিস্টেম (আইএলআইএস)-এর প্রাক্তন প্রকল্প পরিচালক হিসেবে দায়িত্ব পালন করেছেন। পরবর্তীতে Link3 Technologies Limited-এর প্রধান প্রযুক্তি কর্মকর্তা (সিটিও) হিসেবে দায়িত্ব পালনের পর বর্তমানে প্রতিষ্ঠানটির Director AI Business and Transformation হিসেবে কর্মরত আছেন।
 
 নিচে তাঁর কাজের বিভিন্ন দিক ও প্ল্যাটফর্মগুলো তুলে ধরা হলো:
 
 - **বই:** 'হাতেকলমে মেশিন লার্নিং' সিরিজসহ [১১টির বেশি প্রকাশিত বই (প্রকাশক: আদর্শ, তাম্রলিপি — রকমারি বেস্টসেলার)](https://www.rokomari.com/book/author/61248/rakibul-hassan) এবং [বাংলায় কৃত্রিম বুদ্ধিমত্তা প্যাকেজ](https://www.boipokabd.com/books/bangla-kritrimo-buddhimotta-pjakejo)।
-- **কলামিস্ট, দ্য ডেইলি স্টার:** [দ্য ডেইলি স্টারে প্রকাশিত কলাম ও মতামত](https://bangla.thedailystar.net/author/%E0%A6%B0%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8) — সার্বভৌম এআই, নাগরিক সেবা, ঢাকার টেকসই প্রযুক্তি রূপান্তর ও নীতিনির্ধারণী বিষয়ে বিশ্লেষণমূলক কলাম।
+- **কলামিস্ট, প্রথম আলো:** [প্রথম আলোতে প্রকাশিত কলাম ও বিশ্লেষণসমূহ]({{ site.url }}/print/#prothom-alo) — এআই গভর্নেন্স, ডিজিটাল বৈষম্য, নাগরিক সেবা, সরকারের ব্যয় সংকোচন ও প্রযুক্তি রূপান্তর বিষয়ে প্রকাশিত মতামত। ([প্রথম আলো প্রোফাইল](https://www.prothomalo.com/author/%E0%A6%B0%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8))
+- **কলামিস্ট, দ্য ডেইলি স্টার:** [The Daily Star-এ প্রকাশিত কলামসমূহ](https://bangla.thedailystar.net/author/%E0%A6%B0%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8) — সার্বভৌম এআই, ঢাকার টেকসই প্রযুক্তি ব্যবস্থাপনা, এফডিআই ও টেলিযোগাযোগ নীতিমালা নিয়ে বিশ্লেষণমূলক মতামত।
+- **কলামিস্ট, বিডিনিউজ২৪:** [বিডিনিউজ২৪-এ প্রকাশিত মতামত ও কলাম](https://bangla.bdnews24.com/author/rakibul-hassan) — কৃত্রিম বুদ্ধিমত্তার মানবিক প্রভাব, চিন্তার স্বাধীনতা, বিজনেসে এআইয়ের প্রয়োগ ও মানবসম্পদের ভবিষ্যৎ নিয়ে কলাম।
 - **মিডিয়ামে লেখালেখি:** [Medium (@raqueeb)](https://medium.com/@raqueeb/) — কৃত্রিম বুদ্ধিমত্তা, ডেটা সায়েন্স, সিস্টেম ডিজাইন ও প্রযুক্তি ভাবনার সংকলন।
 - **ভিডিও কন্টেন্ট:** ইউটিউব চ্যানেল [YouTube @aiwithr](https://www.youtube.com/@aiwithr)-এ "Building Intelligent Systems with Rakib" শিরোনামে ৬০০টিরও বেশি ভিডিও। এছাড়া তাঁর ব্যক্তিগত চ্যানেল [YouTube @raqueebhassan](https://www.youtube.com/@RaqueebHassan)-এ বাংলায় এআই ও মেশিন লার্নিং টিউটোরিয়াল।
 - **ওয়ার্কশপ:** ['যন্ত্রকে কামলা খাটানোর ওয়ার্কশপ'](https://raqueeb.github.io/kamla_wksp/) — কৃত্রিম বুদ্ধিমত্তা (AI) ও মেশিন লার্নিং নিয়ে তাঁর অত্যন্ত জনপ্রিয় প্র্যাকটিক্যাল হ্যান্ডস-অন মাস্টারক্লাস।
 - **টেডএক্স:** [TEDxRUET স্পিকার পেজ](https://www.tedxruet.org/speakers/rakibul-hasan)।
 - **সংবাদ ও ফিচার:** [Roar Media প্রোফাইল (২০২০) — "মেশিন লার্নিং ও একজন রকিবুল হাসান"](https://archive.roar.media/bangla/main/science/machine-learning-and-rakibul-hassan)।
 - **সোশ্যাল ও প্রফেশনাল লিংক:** [LinkedIn](https://www.linkedin.com/in/raqueeb/), [GitHub](https://github.com/raqueeb), [Medium](https://medium.com/@raqueeb/), [Twitter/X](https://twitter.com/raqueeb), [Facebook](https://www.facebook.com/raqueeb), [WordPress](https://raqueeb.wordpress.com/) এবং [The Thinking School](https://www.facebook.com/profile.php?id=61576673663332)।
-- **প্রিন্ট মিডিয়া:** [প্রিন্ট মিডিয়াতে কিছু লেখা](https://aiwithr.github.io/print/)।
+- **প্রিন্ট মিডিয়া আর্কাইভ:** [সংবাদপত্রে প্রকাশিত কলাম ও লেখার পূর্ণাঙ্গ আর্কাইভ]({{ site.url }}/print/)।
 
-**In English:** Rakibul Hassan is a Bangladeshi AI/ML specialist, author, and columnist for *The Daily Star* — the first author of Bengali machine learning books (11+ titles, publishers Adarsha and Tamralipi, including the Rokomari bestseller "Hatekolome Machine Learning"), TEDxRUET speaker on government automation, former Director at BTRC, former Project Director of ILIS, and currently Director of AI Business and Transformation at Link3 Technologies, Dhaka.
+**In English:** Rakibul Hassan is a Bangladeshi AI/ML specialist, author, and regular columnist for leading national dailies including *Prothom Alo*, *The Daily Star*, and *bdnews24.com* — the first author of Bengali machine learning books (11+ titles, publishers Adarsha and Tamralipi, including the Rokomari bestseller "Hatekolome Machine Learning"), TEDxRUET speaker on government automation, former Director at BTRC, former Project Director of ILIS, and currently Director of AI Business and Transformation at Link3 Technologies, Dhaka.
 
 ## কেন এতো বই লিখছি আমি?
 
