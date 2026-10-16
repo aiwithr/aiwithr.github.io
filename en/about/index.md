@@ -27,6 +27,7 @@ Below are key facets of his work, initiatives, and platforms:
 - **Columnist, The Daily Star:** [Opinion Columns at The Daily Star](https://bangla.thedailystar.net/author/%E0%A6%B0%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8) — strategic perspectives on sovereign AI, urban technological governance, FDI potential, and telecommunications reform.
 - **Columnist, bdnews24.com:** [Opinion Columns at bdnews24.com](https://bangla.bdnews24.com/author/rakibul-hassan) — analytical pieces on cognitive impacts of AI, enterprise adoption, domain knowledge, and the future of work.
 - **Medium Publications:** [Medium Essays (@raqueeb)](https://medium.com/@raqueeb/) — long-form essays and analyses on AI systems, data architectures, and technology strategy.
+- **Personal Blog (WordPress):** [Personal Blog (raqueeb.wordpress.com)](https://raqueeb.wordpress.com/) — His passion for writing began in early childhood, effortlessly writing pages after pages. He ventured into digital media with the inception of the internet in Bangladesh, which formalised into regular writing through this WordPress blog in 2001.
 - **Video Content:** Over 600 videos on the YouTube channel [YouTube @aiwithr](https://www.youtube.com/@aiwithr) under the banner "Building Intelligent Systems with Rakib". In addition, he creates Bangla AI and machine learning tutorials on his personal channel, [YouTube @raqueebhassan](https://www.youtube.com/@RaqueebHassan).
 - **Workshops:** ['Making Machines Work: The Kamla Workshop'](https://raqueeb.github.io/kamla_wksp/) — his widely acclaimed, hands-on masterclass on Artificial Intelligence (AI) and Machine Learning.
 - **TEDx:** [TEDxRUET Speaker Profile](https://www.tedxruet.org/speakers/rakibul-hasan).
@@ -41,7 +42,7 @@ A major portion of my life has been spent plotting data — drawing actionable w
 Enlightened economies identified data as a 'strategic asset' long ago to maintain their competitive edge. A strategic asset is that vital 'soft power' required to attain true excellence in any endeavor. While we possess abundant raw data, our human capital has not been developed to systematically extract 'wisdom' or deep 'insights' from that data. This website is the foundational stepping stone toward bridging that gap. The elementary stage of engineering is learning how to get from point A to point B. My teaching philosophy is slightly different: I want you to lose your way along that road and discover point C instead. That is where my true fulfillment lies.
 {: .notice}
 
-You can learn more about me [here](https://raqueeb.wordpress.com/). Additional profiles are available on [LinkedIn](https://www.linkedin.com/in/raqueeb/) and [Facebook](https://www.facebook.com/raqueeb).
+My passion for writing began in early childhood, effortlessly writing pages after pages. With the advent of the internet in Bangladesh, I transitioned into digital media, which formalised through my [WordPress blog](https://raqueeb.wordpress.com/) starting in 2001. Additional profiles and updates are available on [LinkedIn](https://www.linkedin.com/in/raqueeb/) and [Facebook](https://www.facebook.com/raqueeb).
 
 {% include toc.html %}
 
