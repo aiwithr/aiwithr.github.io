@@ -116,7 +116,7 @@ Instructor-led class: 2 hours + Project work: 1 hour = 3 hours per session.
 ## Supporting Documentation and Books (Online)
 
 <figure>
-	<a href="../images/mlbook1.jpg"><img src="../images/mlbook1.jpg"></a>
+	<a href="{{ site.url }}/images/mlbook1.jpg"><img src="{{ site.url }}/images/mlbook1.jpg" alt="Hatekolome Machine Learning Book Cover"></a>
 	<figcaption>Any of the referenced editions</figcaption>
 </figure>
 
@@ -143,15 +143,15 @@ All links for 'Hatekolome Machine Learning' (First or Second Edition):
 
 ## Supporting Documentation Table of Contents
 <figure>
-	<a href="../images/toc1.png"><img src="../images/toc1.png"></a>
+	<a href="{{ site.url }}/images/toc1.png"><img src="{{ site.url }}/images/toc1.png" alt="Supporting Documentation Table of Contents Part 1"></a>
 	<figcaption>Book Table of Contents Part 1</figcaption>
 </figure>
 <figure>
-	<a href="../images/toc2.png"><img src="../images/toc2.png"></a>
+	<a href="{{ site.url }}/images/toc2.png"><img src="{{ site.url }}/images/toc2.png" alt="Supporting Documentation Table of Contents Part 2"></a>
 	<figcaption>Book Table of Contents Part 2</figcaption>
 </figure>
 <figure>
-  <a href="../images/toc3.png"><img src="../images/toc3.png"></a>
+  <a href="{{ site.url }}/images/toc3.png"><img src="{{ site.url }}/images/toc3.png" alt="Supporting Documentation Table of Contents Part 3"></a>
 	<figcaption>Book Table of Contents Part 3</figcaption>
 </figure>
 

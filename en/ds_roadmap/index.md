@@ -17,7 +17,7 @@ share: true
 
 {% include toc.html %}
 
-![All books](https://raw.githubusercontent.com/aiwithr/aibook/main/assets/images/aibook2.jpg)
+![All books by Rakibul Hassan]({{ site.url }}/images/aibook2.jpg)
 <div class="badges">
 	<span class="badge">Data Science</span>
 	<span class="badge info">Data Literacy</span>
@@ -80,7 +80,7 @@ Think of it as a conceptual mind map, where cultivating multi-level skills is ne
 How does one become a successful data scientist or analyst? At the very outset, completing a concise, small-scale end-to-end project (even with just a few lines of data) provides immense clarity, making everything downstream far simpler. Grasping the data pipeline is essential: unless you understand how data flows through a pipeline and undergoes transformation through sequential operations, mastering this discipline remains elusive. That is why two focused projects are recommended.
 
 <figure>
-	<a href="/images/pipeline.png"><img src="/images/pipeline.png"></a>
+	<a href="{{ site.url }}/images/pipeline.png"><img src="{{ site.url }}/images/pipeline.png" alt="Data Pipeline Step by Step Diagram"></a>
 	<figcaption>The Data Pipeline, Step by Step</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Ultimately, decisions must be driven by knowledge extracted from data. From that
 To grasp the overarching big picture of data science, Monica Rogati's "Data Science Hierarchy of Needs" is an essential conceptual model. Understanding this model embeds the entire roadmap firmly in your mind. Examine the diagram below. You should also search for variants of this diagram online to broaden your perspective. The diagrams are kept in English for technical clarity, but everyone should explore the analogy with Maslow's classic hierarchy of needs.
 
 <figure>
-	<a href="/images/need1.png"><img src="/images/need1.png"></a>
+	<a href="{{ site.url }}/images/need1.png"><img src="{{ site.url }}/images/need1.png" alt="Monica Rogati Data Science Hierarchy of Needs Diagram"></a>
 	<figcaption>Monica Rogati's Classic Hierarchy of Needs</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ To grasp the overarching big picture of data science, Monica Rogati's "Data Scie
 Examine the interconnected diagrams below. Every layer connects directly to the one above it.
 
 <figure>
-	<a href="/images/ds_needs.jpg"><img src="/images/ds_needs.jpg"></a>
+	<a href="{{ site.url }}/images/ds_needs.jpg"><img src="{{ site.url }}/images/ds_needs.jpg" alt="Data Science Hierarchy Operational Breakdown"></a>
 	<figcaption>Detailed View of the Data Science Hierarchy</figcaption>
 </figure>
 
@@ -145,7 +145,7 @@ A talented analyst identifies strategic company directions, uncovers emerging fe
 In specialized settings, Data Scientists collaborate with Research Scientists and Machine Learning Engineers to tackle challenging algorithmic problems, often supported by PhD-level specialists. However, organizational structure varies: at early-stage startups, a single data professional often executes tasks across all tiers, while tech giants deploy specialized roles. The overarching takeaway is simple: whenever reviewing job openings, always focus on the detailed job responsibilities to evaluate whether the role aligns with your skillset.
 
 <figure>
-	<a href="/images/need2.png"><img src="/images/need2.png"></a>
+	<a href="{{ site.url }}/images/need2.png"><img src="{{ site.url }}/images/need2.png" alt="Operational Roles Mapped to the Hierarchy"></a>
 	<figcaption>Operational Roles Mapped to the Hierarchy</figcaption>
 </figure>
 
@@ -265,7 +265,7 @@ We must build this community together.
 
 ### First 4 Bangla Books for Data Science / Analytics
 
-![First 4 Bangla Books for Data Science / Analytics](../images/teqt.jpg)
+![First 4 Bangla Books for Data Science and Analytics]({{ site.url }}/images/teqt.jpg)
 <div class="badges">
 	<span class="badge">R Programming</span>
 	<span class="badge info">Python Programming</span>

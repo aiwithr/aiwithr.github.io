@@ -20,7 +20,7 @@ share: true
 In 2010, on a massive government project, my hands-on journey on this path began with statistics: wholesale interconnection pricing for tens of millions of minutes of mobile and landline voice calls and SMS. Extensive documentation and rigorous training opened my eyes to the sheer power of data. Alongside this, ever since childhood I have been a firm believer in official documentation — what we have called RTFM ("Read The Fine Manual") since the newsgroup era. Back then, the GW-BASIC manual that came with my Commodore computer demonstrated just how extraordinary official technical documentation can be. That is why I spend hours reading the [scikit-learn](https://scikit-learn.org/) documentation. After all, who could write a better manual than the very people who created the product?
 {: .notice}
 
-![All books](../images/test4.jpg)
+![All technical books by Rakibul Hassan]({{ site.url }}/images/test4.jpg)
 
 <div class="badges">
 	<span class="badge">R Programming</span>
@@ -33,7 +33,7 @@ In 2010, on a massive government project, my hands-on journey on this path began
 
 Naturally, we want to design machines capable of thinking the way we do. We see this manifested in disease diagnosis, self-driving cars, airport management, long-haul flights, and beyond — meaning we want machines to stand beside us as collaborative partners, empowering us to make better decisions backed by data. That is the core motivation behind writing so many books.
 
-![Work with data](../images/aibook3.jpg)
+![Work with Data book cover]({{ site.url }}/images/aibook3.jpg)
 
 <div class="badges">
 	<span class="badge">R Programming</span>
@@ -48,7 +48,7 @@ Naturally, we want to design machines capable of thinking the way we do. We see 
 
 When beginning machine learning, here is the recommended sequence of books, from 1 to 4:
 
-![First four Bangla machine learning books](../images/teqt.jpg)
+![First four Bangla machine learning books series]({{ site.url }}/images/teqt.jpg)
 <div class="badges">
 	<span class="badge">R Programming</span>
 	<span class="badge info">Python Programming</span>
@@ -59,7 +59,7 @@ When beginning machine learning, here is the recommended sequence of books, from
 
 ## Natural Language Processing Book in Bangla
 
-![The only Bangla Natural Language Processing book](../images/nlpbook.jpg)
+![The only Bangla Natural Language Processing book]({{ site.url }}/images/nlpbook.jpg)
 <div class="badges">
 	<span class="badge info">Python Programming</span>
 	<span class="badge danger">Python Deep Learning</span>
@@ -90,7 +90,7 @@ To read the Bangla Natural Language Processing book effectively, having [**Hatek
 
 ## Deep Learning Book in Bangla
 
-![Bangla Deep Learning book](../images/dlbook.jpg)
+![Hatekolome Python Deep Learning book cover]({{ site.url }}/images/dlbook.jpg)
 <div class="badges">
 	<span class="badge info">Python Programming</span>
 	<span class="badge danger">Python Deep Learning</span>
@@ -99,7 +99,7 @@ To read the Bangla Natural Language Processing book effectively, having [**Hatek
 
 ## ISP and Network Automation Book
 
-![ISP and Network Automation book](../images/network-auto.jpg)
+![Network and ISP Automation book cover]({{ site.url }}/images/network-auto.jpg)
 <div class="badges">
 	<span class="badge info">ISP</span>
 	<span class="badge danger">Network Automation</span>
@@ -108,7 +108,7 @@ To read the Bangla Natural Language Processing book effectively, having [**Hatek
 
 ## Can a Country Be Run with Artificial Intelligence?
 
-![Kollani 2.0](../images/kolyani.jpg)
+![Kollani 2.0 novel cover]({{ site.url }}/images/kolyani.jpg)
 <div class="badges">
 	<span class="badge info">Novel</span>
 	<span class="badge danger">Artificial Intelligence</span>
@@ -137,7 +137,7 @@ To read the Bangla Natural Language Processing book effectively, having [**Hatek
 * [Web Interface](https://raqueeb.github.io/excel/)
 * [Rokomari Link: A Humanistic State through Artificial Intelligence](https://www.rokomari.com/book/215389/)
 
-![A Humanistic State through Artificial Intelligence](../images/aibook1.jpg)
+![A Humanistic State through Artificial Intelligence book cover]({{ site.url }}/images/aibook1.jpg)
 <div class="badges">
 	<span class="badge">Draft</span>
 	<span class="badge info">Policy-making</span>
@@ -189,13 +189,13 @@ My draft books will **always** remain free online (on Gitbook). You do not need 
 (Non-technical Books, For Everyone)
 8. ├── In Search of Excellence: Bangladesh; A Humanistic State through Artificial Intelligence
 ```
-![Books](../images/books.jpg)
+![Machine learning book series progression]({{ site.url }}/images/books.jpg)
 
 ## Books on Data Analytics
 
 You can begin with (1) the black book, or (2) the red book, and (3) the yellow book. A new book focusing exclusively on [Data Analytics](https://aiwithr.github.io/analyst/) is currently underway.
 
-![Books](../images/1-2-3.jpg)
+![Data analytics and machine learning book stack]({{ site.url }}/images/1-2-3.jpg)
 
 ## Print Media
 

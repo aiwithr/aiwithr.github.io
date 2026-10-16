@@ -19,7 +19,7 @@ share: false
 
 ## 32-Hour (3-Month) Mentorship for Non-Programmers
 
-![All books](https://raw.githubusercontent.com/aiwithr/aibook/main/assets/images/aibook2.jpg)
+![All books by Rakibul Hassan]({{ site.url }}/images/aibook2.jpg)
 <div class="badges">
 	<span class="badge">R Programming</span>
 	<span class="badge info">Python Programming</span>
@@ -170,12 +170,12 @@ Understanding these roadmap diagrams before enrolling is mandatory. Achieving Go
 ## Google Data Analytics Certification: Summary
 
 <figure>
-	<a href="/images/google1.jpg"><img src="/images/google1.jpg"></a>
+	<a href="{{ site.url }}/images/google1.jpg"><img src="{{ site.url }}/images/google1.jpg" alt="Google Data Analytics Certification at a Glance"></a>
 	<figcaption>Google Data Analytics Certification at a Glance</figcaption>
 </figure>
 
 <figure>
-	<a href="/images/google2.jpg"><img src="/images/google2.jpg"></a>
+	<a href="{{ site.url }}/images/google2.jpg"><img src="{{ site.url }}/images/google2.jpg" alt="Inside the Google Data Analytics Curriculum"></a>
 	<figcaption>Inside the Google Data Analytics Curriculum</figcaption>
 </figure>
 

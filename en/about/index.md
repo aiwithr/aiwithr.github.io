@@ -76,7 +76,7 @@ I am fifty. Connecting the dots in retrospect has taught me immense lessons. The
 ## The Diffusion of Knowledge
 
 <figure>
-	<a href="../images/kec.png"><img src="../images/kec.png"></a>
+	<a href="{{ site.url }}/images/kec.png"><img src="{{ site.url }}/images/kec.png" alt="Knowledge, Experience, Execution Diagram"></a>
 	<figcaption>Knowledge is abundant; when experience is applied, wisdom emerges. True progress follows its execution.</figcaption>
 </figure>
 

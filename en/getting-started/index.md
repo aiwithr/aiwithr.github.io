@@ -25,7 +25,7 @@ At the outset, let us assume we have no prior idea about this subject — starti
 Building an 'intelligent system' currently requires a few foundational components. The story of bridging humans and machines — how to transfer human-like 'thinking and reasoning' to machines — is told step by step in our introductory books, notebooks, and videos. Following that, separate content explores the interactions between hardware machines and software, starting with basic concepts somewhat akin to Arduino. Interestingly, the very first stepping stone of this journey is 'machine learning'. Here are answers to some initial questions.
 {: .notice}
 
-![All books](https://github.com/aiwithr/aibook/raw/main/assets/images/aibook2.jpg)
+![All books by Rakibul Hassan]({{ site.url }}/images/aibook2.jpg)
 
 <div class="badges">
 	<span class="badge">R Programming</span>
@@ -48,7 +48,7 @@ or,
 
 3. Machine learning does not involve the kind of rigid traditional programming that people imagine. What is there can easily be understood through common sense and basic logic. Furthermore, useful code snippets for various tasks are readily available on platforms like Stack Overflow. Once again: do not be afraid at all!
 
-![All machine learning books in Bangla](../images/teqt.jpg)
+![All machine learning books series]({{ site.url }}/images/teqt.jpg)
 
 The reading progression for starting machine learning: Books 1 through 4.
 
@@ -111,7 +111,7 @@ or,
 
 ## 10. Between the green-yellow, red, and white books — which one should I start with, and when is each appropriate?
 
-![Machine learning books only](../images/ml43.JPG)
+![Machine learning books stack]({{ site.url }}/images/ml43.JPG)
 
 1. [Black book = Out of print, was the 1st edition of the red book](https://www.rokomari.com/book/160337/) (not needed)
 2. [Red book = Hatekolome Machine Learning](https://www.rokomari.com/book/174186/), 2nd Edition (R and Python) *(no prior programming language knowledge required; everything you need to learn is inside the book)*
@@ -133,7 +133,7 @@ or,
 (Non-technical Books, For Everyone)
 8. ├── In Search of Excellence: Bangladesh; A Humanistic State through Artificial Intelligence
 ```
-![Books](../images/books.jpg)
+![Recommended reading progression for machine learning books]({{ site.url }}/images/books.jpg)
 
 The red book is designed for those who know nothing about machine learning and want to begin, have no programming background, yet want to understand machine learning intuitively. This book begins with the R programming environment, and solves the same project using Python as well.
 {: .notice--warning}
@@ -309,3 +309,52 @@ In contrast, my mission is applying existing global technologies effectively to 
 Answer: While I am passionate about machine learning, I must balance it during spare hours outside professional work and family commitments. Therefore, please review the answers on this page first. If needed, you can reach me via Messenger at [Rakibul Hassan](http://m.me/raqueeb) or call 01713095767 (5:00 PM – 6:00 PM).
 
 Thank you all.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I know nothing at all about machine learning — where do I begin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Machine learning is accessible to everyone regardless of academic background. Start by building intuition through simple, hands-on examples using everyday logic. Non-programmers can begin with the R environment or beginner-friendly Python notebooks, treating machine learning as a general analytical tool rather than rigid traditional coding."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to know advanced programming, statistics, and mathematics before starting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The most effective approach is top-down and hands-on: build models and observe results first, then acquire programming syntax, statistical concepts, and mathematics on demand as your projects demand deeper optimization."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which programming language should I learn first: R or Python?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For complete beginners with zero coding experience, R provides an immediate, intuitive environment with outstanding exploratory visualization capabilities. For those with programming exposure or looking to deploy production models, Python is the industry standard."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In what sequence should I read the machine learning books by Rakibul Hassan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with Hatekolome Machine Learning (2nd Edition, R and Python), followed by Python Machine Learning from Zero (Python only). Progress next to Hatekolome Python Deep Learning for neural networks, and Hatekolome Bangla Natural Language Processing for text and language processing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will learning data science and machine learning guarantee a job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you learn merely for a credential or certificate, jobs remain elusive. If you focus on solving practical real-world problems in your current domain and delivering tangible efficiency through data automation, opportunities will seek you out."
+      }
+    }
+  ]
+}
+</script>
