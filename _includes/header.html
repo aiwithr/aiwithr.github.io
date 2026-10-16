@@ -6,6 +6,27 @@
         {% include navigation.html %}
     </nav>
   </div><!-- /.inner-wrap -->
+
+  {% if page.lang == 'en' %}
+    {% assign switch_target = page.alternate_bn | default: '/' %}
+    {% assign switch_label_full = "বাংলা" %}
+    {% assign switch_label_short = "বাং" %}
+    {% assign switch_aria = "বাংলা সংস্করণে যান" %}
+  {% else %}
+    {% assign switch_target = page.alternate_en | default: '/en/' %}
+    {% assign switch_label_full = "English" %}
+    {% assign switch_label_short = "EN" %}
+    {% assign switch_aria = "Switch to English version" %}
+  {% endif %}
+  <a href="{{ site.url }}{{ switch_target }}" class="masthead-lang-btn" aria-label="{{ switch_aria }}">
+    <svg class="lang-globe-icon" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="2" y1="12" x2="22" y2="12"></line>
+      <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+    </svg>
+    <span class="lang-text lang-text-full">{{ switch_label_full }}</span>
+    <span class="lang-text lang-text-short">{{ switch_label_short }}</span>
+  </a>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-N9JZXN7KF9"></script>
 <script>

@@ -34,6 +34,114 @@
 	text-transform: uppercase;
 }
 
+/*
+   Masthead Language Switcher Capsule (Option 2)
+   ========================================================================== */
+
+.masthead-lang-btn {
+  position: fixed;
+  top: 32px;
+  right: 92px; // 20px gutter + 60px hamburger + 12px gap
+  z-index: 18;
+  display: -webkit-inline-flex;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 36px;
+  padding: 0 14px;
+  background: rgba(255, 255, 255, 0.94);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+  border: 1.5px solid rgba(0, 0, 0, 0.22);
+  border-radius: 9999px;
+  color: $black;
+  font-family: $alt-font;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  text-transform: uppercase;
+  line-height: 1;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  -webkit-transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  cursor: pointer;
+
+  .lang-globe-icon {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 6px;
+    width: 15px;
+    height: 15px;
+    stroke: $black;
+    -webkit-transition: transform 0.3s ease, stroke 0.25s ease;
+    transition: transform 0.3s ease, stroke 0.25s ease;
+  }
+
+  .lang-text-short {
+    display: none;
+  }
+
+  .lang-text-full {
+    display: inline;
+  }
+
+  &:hover,
+  &:focus {
+    background: $black;
+    color: $white;
+    border-color: $black;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.22);
+    transform: translateY(-1px);
+
+    .lang-globe-icon {
+      stroke: $white;
+      transform: rotate(20deg);
+    }
+  }
+
+  &:active {
+    transform: translateY(0) scale(0.97);
+  }
+
+  &.menu-open {
+    opacity: 0;
+    pointer-events: none;
+    transform: scale(0.9);
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .site-title {
+    max-width: calc(100% - 150px);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .masthead-lang-btn {
+    top: 33px;
+    right: 86px; // 20px + 60px + 6px
+    height: 34px;
+    padding: 0 9px;
+    font-size: 12px;
+
+    .lang-globe-icon {
+      margin-right: 4px;
+      width: 14px;
+      height: 14px;
+    }
+
+    .lang-text-full {
+      display: none;
+    }
+
+    .lang-text-short {
+      display: inline;
+    }
+  }
+}
+
 
 /*
    Menus

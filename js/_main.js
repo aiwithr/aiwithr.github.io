@@ -5,6 +5,7 @@ $(document).ready(function(){
     // $('#js-body').toggleClass('no-scroll');
     $('#js-menu, #js-menu-screen').toggleClass('is-visible');
     $('#js-menu-trigger').toggleClass('slide close');
+    $('.masthead-lang-btn').toggleClass('menu-open');
     // $('#masthead, #page-wrapper').toggleClass('slide');
     e.preventDefault();
   });
