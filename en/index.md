@@ -35,3 +35,13 @@ image:
 
 This site — **In Search of Intelligent Systems** — is a curated collection by Rakibul Hassan covering Artificial Intelligence, Data Science, and Data Analytics roadmaps in Bangla: bringing together (1) Artificial Intelligence, (2) Machine Learning books, and (3) hands-on tutorials and workshops.
 {: .notice}
+
+## Recommended Learning Pathways
+
+Explore the core sections of this platform to start your journey into intelligent systems:
+
+- **[Start with Machine Learning (FAQ)](https://aiwithr.github.io/en/getting-started/)**: In-depth answers to 30 foundational questions covering beginner tracks, recommended book progression, programming languages (Python vs. R), mathematics prerequisites, and career transitions.
+- **[Data Science & Analytics Roadmap](https://aiwithr.github.io/en/ds_roadmap/)**: A comprehensive guide navigating Monica Rogati's Data Science Hierarchy of Needs, role boundaries (Analyst vs. Engineer vs. Scientist), core Python data tasks, business intelligence tools, and capstone project milestones.
+- **[Books & Learning Resources](https://aiwithr.github.io/en/resources/)**: Over 11 published books by Rakibul Hassan, accompanied by open-source code repositories, free video lectures, and e-book downloads released under Creative Commons licenses.
+- **[Practical Courses & Titanic Project](https://aiwithr.github.io/en/courses/)**: Hands-on 4-week end-to-end curriculum working through exploratory data analysis, decision trees, and predictive modeling using real-world data.
+- **[Answers to Big Questions](https://aiwithr.github.io/en/articles/)**: Long-form essays on data career mindsets, GPU hardware configuration, artificial intelligence policy frameworks, and learning methodologies.

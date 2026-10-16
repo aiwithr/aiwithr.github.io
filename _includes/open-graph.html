@@ -71,8 +71,8 @@
 		"@context": "https://schema.org",
 		"@type": "WebSite",
 		"name": {{ brand | jsonify }},
-		"url": "{{ site.url }}/",
+		"url": "{% if page.lang == 'en' %}{{ site.url }}/en/{% else %}{{ site.url }}/{% endif %}",
 		"inLanguage": "{{ page.lang | default: 'bn' }}",
-		"description": {{ site.description | jsonify }}
+		"description": {% if page.lang == 'en' %}"Free learning resources for Machine Learning, Artificial Intelligence, and Data Science in Bangla by Rakibul Hassan — 11+ published books, tutorials, and workshops."{% else %}{{ site.description | jsonify }}{% endif %}
 	}
 	</script>

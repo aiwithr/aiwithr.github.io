@@ -75,7 +75,7 @@ ads: false
 ## জ্ঞানের ডিফিউশন
 
 <figure>
-	<a href="../images/kec.png"><img src="../images/kec.png"></a>
+	<a href="../images/kec.png"><img src="../images/kec.png" alt="নলেজ, এক্সপেরিয়েন্স ও এক্সিকিউশন ডায়াগ্রাম"></a>
 	
   <figcaption>জ্ঞান তো হলো অনেক, অভিজ্ঞতা কাজে লাগালে আসবে প্রজ্ঞা। সেটাকে প্রয়োগ করলেই উন্নতি।</figcaption>
 </figure>

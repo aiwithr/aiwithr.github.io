@@ -4,7 +4,7 @@ title: "কৃত্রিম বুদ্ধিমত্তা সিরিজ 
 date: 2020-06-02T09:44:20-04:00
 modified: 2020-06-27T14:56:44-04:00
 alternate_en: /en/courses/
-excerpt: "নতুন কোর্স, বেসিক মেশিন লার্নিং"
+excerpt: "বাংলায় বেসিক মেশিন লার্নিং ট্রেনিং প্রোগ্রাম — প্রজেক্ট টাইটানিক দিয়ে হাতেকলমে শেখা, ৪ সপ্তাহের ফ্রি কোর্স: ডেটা ভিজ্যুয়ালাইজেশন, ডিসিশন ট্রি ও প্রেডিকশন।"
 image:
   feature:
   teaser:
@@ -115,7 +115,7 @@ ads: false
 ## সহায়ক বই/ডকুমেন্টেশন (অনলাইন)
 
 <figure>
-	<a href="../images/mlbook1.jpg"><img src="../images/mlbook1.jpg"></a>
+	<a href="../images/mlbook1.jpg"><img src="../images/mlbook1.jpg" alt="হাতেকলমে মেশিন লার্নিং বইয়ের প্রচ্ছদ"></a>
 	<figcaption>ব্যবহৃত যেকোন একটা বই</figcaption>
 </figure>
 
@@ -147,15 +147,15 @@ ads: false
 
 ## সহায়ক বই/ডকুমেন্টেশন এর টেবিল অফ কনটেন্ট
 <figure>
-	<a href="../images/toc1.png"><img src="../images/toc1.png"></a>
+	<a href="../images/toc1.png"><img src="../images/toc1.png" alt="কোর্সের সহায়ক বইয়ের সূচিপত্র - পর্ব ১"></a>
 	<figcaption>বইয়ের টেবিল অফ কনটেন্ট ১</figcaption>
 </figure>
 <figure>
-	<a href="../images/toc2.png"><img src="../images/toc2.png"></a>
+	<a href="../images/toc2.png"><img src="../images/toc2.png" alt="কোর্সের সহায়ক বইয়ের সূচিপত্র - পর্ব ২"></a>
 	<figcaption>বইয়ের টেবিল অফ কনটেন্ট ২</figcaption>
 </figure>
 <figure>
-  <a href="../images/toc3.png"><img src="../images/toc3.png"></a>
+  <a href="../images/toc3.png"><img src="../images/toc3.png" alt="কোর্সের সহায়ক বইয়ের সূচিপত্র - পর্ব ৩"></a>
 	<figcaption>বইয়ের টেবিল অফ কনটেন্ট ৩</figcaption>
 </figure>
 ## সহায়ক ভিডিও (যদি ক্লাস বাদ পড়ে)

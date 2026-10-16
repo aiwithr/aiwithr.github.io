@@ -180,12 +180,12 @@ share: false
 ## গুগল ডাটা অ্যানালিটিক্স সার্টিফিকেশন: সামারি
 
 <figure>
-	<a href="/images/google1.jpg"><img src="/images/google1.jpg"></a>
+	<a href="/images/google1.jpg"><img src="/images/google1.jpg" alt="গুগল ডাটা অ্যানালিটিক্স প্রফেশনাল সার্টিফিকেট কারিকুলাম ও রূপরেখা"></a>
 	<figcaption>গুগল ডাটা অ্যানালিটিক্স সার্টিফিকেশন: এক নজরে</figcaption>
 </figure>
 
 <figure>
-	<a href="/images/google2.jpg"><img src="/images/google2.jpg"></a>
+	<a href="/images/google2.jpg"><img src="/images/google2.jpg" alt="গুগল ডাটা অ্যানালিটিক্স কোর্সের অভ্যন্তরীণ রূপরেখা"></a>
 	<figcaption>গুগল ডাটা অ্যানালিটিক্স সার্টিফিকেশন: কোথায় কী আছে?</figcaption>
 </figure>
 
