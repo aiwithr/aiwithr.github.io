@@ -83,6 +83,7 @@ share: true
 | রোড টু হাইটেক ইন্ডাস্ট্রি: নেটওয়ার্ক/আইএসপি অটোমেশন ১ম খন্ড | [রকমারি](https://www.rokomari.com/book/451978/network-ebong-isp-automation) | [অনলাইন বই](https://aiwithr.github.io/automation/) |
 | নেটওয়ার্ক/আইএসপি অটোমেশন: ১ মিলিয়ন কাস্টমারের নেটওয়ার্ক | [রকমারি](https://www.rokomari.com/book/451978/network-ebong-isp-automation) | [অনলাইন বই ৫০%](https://aiwithr.github.io/automation_nsot/) |
 | কল্যানী ২.০ | [রকমারি](https://www.rokomari.com/book/454827/kollani-2-0) | [তিনটা র‍্যান্ডম চ্যাপ্টার](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/kolyani_2.0_3ch.pdf) | 
+| এআই ওয়ার্কফ্লো ফর বিজনেস — এন্টারপ্রাইজ অটোমেশন | [অনলাইন বই](https://aiwithr.github.io/ai_llm/) | ওপেন-সোর্স লোকাল এসএলএম |
 | নয়টা বই একসাথে কেনার লিঙ্ক | [এখানে](https://www.rokomari.com/book/218840/) | [রকমারি](https://www.rokomari.com/book/218840/) |
 | নীলক্ষেত থেকে কেনার ব্যবস্থা | [প্রিন্ট বই, নীলক্ষেত, হক, মানিক লাইব্রেরি সহ অনেকে](https://www.facebook.com/%E0%A6%B9%E0%A6%95-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-996072720590097/)| [ফোন: ০১৭৩৫৭৪২৯০৮, ০১৮২০১৫৭১৮১](https://www.facebook.com/ManikLibraryOnline) |
 

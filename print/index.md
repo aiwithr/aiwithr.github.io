@@ -18,7 +18,7 @@ share: true
 <div class="toc-pills" style="margin: 1.5em 0; display: flex; flex-wrap: wrap; gap: 8px;">
   <a href="#prothom-alo" class="btn" style="text-decoration: none; padding: 6px 14px; border-radius: 20px; font-weight: 700;">📰 প্রথম আলো (২৩)</a>
   <a href="#daily-star" class="btn" style="text-decoration: none; padding: 6px 14px; border-radius: 20px; font-weight: 700;">⭐ দ্য ডেইলি স্টার (১৭)</a>
-  <a href="#bdnews24" class="btn" style="text-decoration: none; padding: 6px 14px; border-radius: 20px; font-weight: 700;">🌐 বিডিনিউজ২৪ (৪)</a>
+  <a href="#bdnews24" class="btn" style="text-decoration: none; padding: 6px 14px; border-radius: 20px; font-weight: 700;">🌐 বিডিনিউজ২৪ (৫)</a>
   <a href="#other-media" class="btn" style="text-decoration: none; padding: 6px 14px; border-radius: 20px; font-weight: 700;">📑 অন্যান্য ও কমেন্ট্রি</a>
 </div>
 
@@ -94,6 +94,7 @@ share: true
 | ০২ | [ডোমেইন নলেজই কী আমাদের বাঁচাবে?](https://bangla.bdnews24.com/opinion/e048b6c46206) | ডোমেইন দক্ষতা ও মানবসম্পদ |
 | ০৩ | [বিজনেসে এআই: ব্যর্থতার হার কেন বেশি?](https://bangla.bdnews24.com/opinion/49e8048a9e72) | বিজনেস এআই ও আরওআই |
 | ০৪ | [কৃত্রিম বুদ্ধিমত্তা কি মানুষকে নিয়ে খেলায় নেমেছে?](https://bangla.bdnews24.com/opinion/196e7aa4609e) | প্রযুক্তির সামাজিক প্রভাব |
+| ০৫ | [ভাইব কোডিং থেকে এজেন্টিক ইঞ্জিনিয়ারিং](https://bangla.bdnews24.com/opinion/sbvaapaze9) | ভাইব কোডিং ও এজেন্টিক ইঞ্জিনিয়ারিং |
 
 ---
 
