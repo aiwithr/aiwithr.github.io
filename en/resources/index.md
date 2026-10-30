@@ -83,9 +83,10 @@ To read the Bangla Natural Language Processing book effectively, having [**Hatek
 | Hatekolome Data Analytics and Data Visualization | [Rokomari](https://www.rokomari.com/book/288032/hatekolome-data-analytics-o-visualisation) | [Online Book](https://aiwithr.github.io/analyst/) |
 | Artificial Intelligence in Education | [Rokomari](https://www.rokomari.com/book/380494/) | [Online Book 50%](https://aiwithr.github.io/aibook/edu/personalized-ed/) |
 | Road to High-Tech Industry: Network/ISP Automation Vol. 1 | [Rokomari](https://www.rokomari.com/book/451978/network-ebong-isp-automation) | [Online Book](https://aiwithr.github.io/automation/) |
-| Network/ISP Automation: Networks of 1 Million Customers | [Rokomari](https://www.rokomari.com/book/451978/network-ebong-isp-automation) | [Online Book 50%](https://aiwithr.github.io/automation_nsot/) |
+| Network & ISP Automation: Network Source of Truth (NSoT) | [This book is available online](https://aiwithr.github.io/automation_nsot/) | Coming Soon |
 | Kollani 2.0 | [Rokomari](https://www.rokomari.com/book/454827/kollani-2-0) | [Three Random Chapters](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/kolyani_2.0_3ch.pdf) | 
 | AI Work Flow for Business — Enterprise Automation, Without the Cloud | [Online Book](https://aiwithr.github.io/ai_llm/) | [Project Summary](https://aiwithr.github.io/ai_llm/PROJECT_SUMMARY/) |
+| Forward Deployed Engineering (FDE) — Hands-on Field Manual | [This book is available online](https://aiwithr.github.io/fde_book/) | Coming Soon |
 | Link to Buy Nine Books Together | [Here](https://www.rokomari.com/book/218840/) | [Rokomari](https://www.rokomari.com/book/218840/) |
 | Buying from Neelkhet | [Print books at Neelkhet: Haq, Manik Library & others](https://www.facebook.com/%E0%A6%B9%E0%A6%95-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-996072720590097/) | [Phone: 01735742908, 01820157181](https://www.facebook.com/ManikLibraryOnline) |
 
