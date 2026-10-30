@@ -71,7 +71,7 @@ To read the Bangla Natural Language Processing book effectively, having [**Hatek
 
 ## All Online and Print Books at a Glance (With Links)
 
-| 7 Book Titles | Online Link | Print Book Link |
+| Book Title | Online Link | Print Book Link |
 | :--- | :--- | :--- |
 | Hatekolome Machine Learning (2nd Edition) | [Gitbook](https://rakibul-hassan.gitbook.io/mlbook-titanic/) | [Rokomari](https://rokomari.com/book/174186/) |
 | The Python Part Added in 2nd Edition | [Gitbook](https://rakibul-hassan.gitbook.io/mlbook-titanic/j_notebook/titanic-project-test) | [Rokomari](https://rokomari.com/book/174186/) |
@@ -80,15 +80,15 @@ To read the Bangla Natural Language Processing book effectively, having [**Hatek
 | Hatekolome Bangla Natural Language Processing | [Online Book](https://aiwithr.github.io/nlpbook/) | [Rokomari](https://www.rokomari.com/book/209335/) |
 | A Humanistic State through Artificial Intelligence (Online) | [Online](https://aiwithr.github.io/aibook/) | [Interface](https://raqueeb.github.io/excel/) |
 | In Search of Excellence: Bangladesh; A Humanistic State through AI | [Online Book](https://aiwithr.github.io/aibook/) | [Rokomari](https://www.rokomari.com/book/215389/) |
-| Hatekolome Data Analytics and Data Visualization | [Rokomari](https://www.rokomari.com/book/288032/hatekolome-data-analytics-o-visualisation) | [Online Book](https://aiwithr.github.io/analyst/) |
-| Artificial Intelligence in Education | [Rokomari](https://www.rokomari.com/book/380494/) | [Online Book 50%](https://aiwithr.github.io/aibook/edu/personalized-ed/) |
-| Road to High-Tech Industry: Network/ISP Automation Vol. 1 | [Rokomari](https://www.rokomari.com/book/451978/network-ebong-isp-automation) | [Online Book](https://aiwithr.github.io/automation/) |
+| Hatekolome Data Analytics and Data Visualization | [Online Book](https://aiwithr.github.io/analyst/) | [Rokomari](https://rokomari.com/book/288032/hatekolome-data-analytics-o-visualisation) |
+| Artificial Intelligence in Education | [Online Book 50%](https://aiwithr.github.io/aibook/edu/personalized-ed/) | [Rokomari](https://rokomari.com/book/380494/) |
+| Road to High-Tech Industry: Network/ISP Automation Vol. 1 | [Online Book](https://aiwithr.github.io/automation/) | [Rokomari](https://rokomari.com/book/451978/network-ebong-isp-automation) |
 | Network & ISP Automation: Network Source of Truth (NSoT) | [This book is available online](https://aiwithr.github.io/automation_nsot/) | Coming Soon |
-| Kollani 2.0 | [Rokomari](https://www.rokomari.com/book/454827/kollani-2-0) | [Three Random Chapters](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/kolyani_2.0_3ch.pdf) | 
+| Kollani 2.0 | [Three Random Chapters (PDF)](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/kolyani_2.0_3ch.pdf) | [Rokomari](https://rokomari.com/book/454827/kollani-2-0) |
 | AI Work Flow for Business — Enterprise Automation, Without the Cloud | [Online Book](https://aiwithr.github.io/ai_llm/) | [Project Summary](https://aiwithr.github.io/ai_llm/PROJECT_SUMMARY/) |
 | Forward Deployed Engineering (FDE) — Hands-on Field Manual | [This book is available online](https://aiwithr.github.io/fde_book/) | Coming Soon |
-| Link to Buy Nine Books Together | [Here](https://www.rokomari.com/book/218840/) | [Rokomari](https://www.rokomari.com/book/218840/) |
-| Buying from Neelkhet | [Print books at Neelkhet: Haq, Manik Library & others](https://www.facebook.com/%E0%A6%B9%E0%A6%95-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-996072720590097/) | [Phone: 01735742908, 01820157181](https://www.facebook.com/ManikLibraryOnline) |
+| Link to Buy Nine Books Together | — | [Rokomari Bundle](https://www.rokomari.com/book/218840/) |
+| Buying from Neelkhet | — | [Neelkhet: Haq & Manik Library](https://www.facebook.com/ManikLibraryOnline) |
 
 ## Deep Learning Book in Bangla
 

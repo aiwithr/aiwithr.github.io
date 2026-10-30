@@ -69,7 +69,7 @@ share: true
 
 ## এক নজরে সব অনলাইন/প্রিন্ট বই (লিংকসহ)
 
-| ০৭টি বইয়ের নাম | অনলাইন লিংক | প্রিন্ট বই লিংক |
+| বইয়ের নাম | অনলাইন লিংক | প্রিন্ট বই লিংক |
 | :--- | :--- | :--- | :--- |
 | হাতেকলমে মেশিন লার্নিং \(দ্বিতীয় সংস্করণ\) | [গিটবুক](https://rakibul-hassan.gitbook.io/mlbook-titanic/) | [রকমারি](https://rokomari.com/book/174186/) |
 | দ্বিতীয় সংস্করনে যুক্ত করা পাইথন অংশ | [গিটবুক](https://rakibul-hassan.gitbook.io/mlbook-titanic/j_notebook/titanic-project-test) | [রকমারি](https://rokomari.com/book/174186/) |
@@ -78,15 +78,15 @@ share: true
 | হাতেকলমে বাংলা ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং | [অনলাইন-বই](https://aiwithr.github.io/nlpbook/) | [রকমারি](https://www.rokomari.com/book/209335/) |
 | কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র (অনলাইন) | [অনলাইন](https://aiwithr.github.io/aibook/) | [ইন্টারফেস](https://raqueeb.github.io/excel/) |
 | উৎকর্ষের সন্ধানে: বাংলাদেশ; কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র | [অনলাইন-বই](https://aiwithr.github.io/aibook/) | [রকমারি](https://www.rokomari.com/book/215389/) |
-| হাতেকলমে ডেটা অ্যানালাইটিক্স এবং ডেটা ভিজ্যুয়ালাইজেশন | [রকমারি](https://www.rokomari.com/book/288032/hatekolome-data-analytics-o-visualisation) | [অনলাইন বই](https://aiwithr.github.io/analyst/) |
-| কৃত্রিম বুদ্ধিমত্তায় শিক্ষাব্যবস্থা | [রকমারি](https://www.rokomari.com/book/380494/) | [অনলাইন বই ৫০%](https://aiwithr.github.io/aibook/edu/personalized-ed/) |
-| রোড টু হাইটেক ইন্ডাস্ট্রি: নেটওয়ার্ক/আইএসপি অটোমেশন ১ম খন্ড | [রকমারি](https://www.rokomari.com/book/451978/network-ebong-isp-automation) | [অনলাইন বই](https://aiwithr.github.io/automation/) |
+| হাতেকলমে ডেটা অ্যানালাইটিক্স এবং ডেটা ভিজ্যুয়ালাইজেশন | [অনলাইন বই](https://aiwithr.github.io/analyst/) | [রকমারি](https://rokomari.com/book/288032/hatekolome-data-analytics-o-visualisation) |
+| কৃত্রিম বুদ্ধিমত্তায় শিক্ষাব্যবস্থা | [অনলাইন বই ৫০%](https://aiwithr.github.io/aibook/edu/personalized-ed/) | [রকমারি](https://www.rokomari.com/book/380494/) |
+| রোড টু হাইটেক ইন্ডাস্ট্রি: নেটওয়ার্ক/আইএসপি অটোমেশন ১ম খন্ড | [অনলাইন বই](https://aiwithr.github.io/automation/) | [রকমারি](https://www.rokomari.com/book/451978/network-ebong-isp-automation) |
 | নেটওয়ার্ক ও আইএসপি অটোমেশন: নেটওয়ার্ক সোর্স অব ট্রুথ (NSoT) | [এই বইটা অনলাইনে আছে](https://aiwithr.github.io/automation_nsot/) | আসবে |
-| কল্যানী ২.০ | [রকমারি](https://www.rokomari.com/book/454827/kollani-2-0) | [তিনটা র‍্যান্ডম চ্যাপ্টার](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/kolyani_2.0_3ch.pdf) | 
+| কল্যানী ২.০ | [তিনটা র‍্যান্ডম চ্যাপ্টার (পিডিএফ)](https://github.com/aiwithr/aiwithr.github.io/raw/master/open_books/kolyani_2.0_3ch.pdf) | [রকমারি](https://rokomari.com/book/454827/kollani-2-0) |
 | এআই ওয়ার্কফ্লো ফর বিজনেস — এন্টারপ্রাইজ অটোমেশন | [অনলাইন বই](https://aiwithr.github.io/ai_llm/) | [প্রজেক্ট সামারি](https://aiwithr.github.io/ai_llm/PROJECT_SUMMARY_bangla/) |
 | হাতেকলমে ফরওয়ার্ড ডেপ্লয়েড ইঞ্জিনিয়ারিং (FDE) | [এই বইটা অনলাইনে আছে](https://aiwithr.github.io/fde_book/) | আসবে |
-| নয়টা বই একসাথে কেনার লিঙ্ক | [এখানে](https://www.rokomari.com/book/218840/) | [রকমারি](https://www.rokomari.com/book/218840/) |
-| নীলক্ষেত থেকে কেনার ব্যবস্থা | [প্রিন্ট বই, নীলক্ষেত, হক, মানিক লাইব্রেরি সহ অনেকে](https://www.facebook.com/%E0%A6%B9%E0%A6%95-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-996072720590097/)| [ফোন: ০১৭৩৫৭৪২৯০৮, ০১৮২০১৫৭১৮১](https://www.facebook.com/ManikLibraryOnline) |
+| নয়টা বই একসাথে কেনার লিঙ্ক | — | [রকমারি বান্ডিল](https://www.rokomari.com/book/218840/) |
+| নীলক্ষেত থেকে কেনার ব্যবস্থা | — | [নীলক্ষেত: হক ও মানিক লাইব্রেরি](https://www.facebook.com/ManikLibraryOnline) |
 
 ## বাংলায় ডিপ লার্নিংয়ের বই
 
