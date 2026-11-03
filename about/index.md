@@ -1,14 +1,15 @@
 ---
 layout: article
-title: "রকিবুল হাসান (Rakibul Hassan)"
+title: "রকিবুল হাসান (Rakibul Hassan) — লেখক, কলামিস্ট ও এআই বিশেষজ্ঞ"
 date: 2019-06-02T09:44:20-04:00
 modified: 2019-08-27T14:56:44-04:00
 alternate_en: /en/about/
-excerpt: "রকিবুল হাসান (Rakibul Hassan) — AI/ML বিশেষজ্ঞ, লেখক ও জাতীয় দৈনিক প্রথম আলো, দ্য ডেইলি স্টার ও বিডিনিউজ২৪-এর কলামিস্ট। ১১টির বেশি বইয়ের লেখক, TEDxRUET বক্তা, সাবেক ডিরেক্টর বিটিআরসি, Director AI Business and Transformation, Link3 Technologies।"
+excerpt: "রকিবুল হাসান (Rakibul Hassan) — এআই বিশেষজ্ঞ, লেখক এবং প্রথম আলো, দ্য ডেইলি স্টার ও বিডিনিউজ২৪-এর নিয়মিত কলামিস্ট। ১১+ বইয়ের রচয়িতা ও TEDx বক্তা।"
+tags: ["রকিবুল হাসান", "Rakibul Hassan", "প্রথম আলো কলামিস্ট", "দ্য ডেইলি স্টার", "বিডিনিউজ২৪", "হাতেকলমে মেশিন লার্নিং", "এআই বিশেষজ্ঞ", "লেখক", "Link3 Technologies", "TEDxRUET"]
 image:
-  feature:
-  teaser:
-  thumb:
+  feature: rakibul-hassan.jpg
+  teaser: rakibul-hassan.jpg
+  thumb: rakibul-hassan.jpg
 share: false
 ads: false
 ---

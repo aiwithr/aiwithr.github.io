@@ -1,23 +1,24 @@
 ---
 layout: article
-title: "Rakibul Hassan — AI/ML Specialist, Author"
+title: "Rakibul Hassan — AI Specialist, Author & Columnist"
 date: 2019-06-02T09:44:20-04:00
 modified: 2019-08-27T14:56:44-04:00
 alternate_bn: /about/
 lang: en
 locale: en_US
-excerpt: "Rakibul Hassan — AI/ML specialist, author of 11+ Bangla machine learning books, columnist for Prothom Alo, The Daily Star, and bdnews24.com, TEDxRUET speaker, former BTRC Director, Director AI Business and Transformation at Link3 Technologies."
+excerpt: "Rakibul Hassan — AI/ML specialist, author of 11+ books, columnist for Prothom Alo, The Daily Star, and bdnews24.com, TEDx speaker, Director at Link3 Technologies."
+tags: ["Rakibul Hassan", "রকিবুল হাসান", "AI Specialist", "Author", "Columnist", "Prothom Alo", "The Daily Star", "bdnews24", "Machine Learning", "Link3 Technologies", "TEDxRUET"]
 image:
-  feature:
-  teaser:
-  thumb:
+  feature: rakibul-hassan.jpg
+  teaser: rakibul-hassan.jpg
+  thumb: rakibul-hassan.jpg
 share: false
 ads: false
 ---
 
 <img src="{{ site.url }}/images/rakibul-hassan.jpg" alt="Rakibul Hassan" width="240">
 
-**Rakibul Hassan** — Artificial Intelligence and Machine Learning specialist, author, and regular columnist for leading national dailies and news outlets, including **Prothom Alo**, **The Daily Star**, and **bdnews24.com**. He is the author of the first machine learning book in the Bangla language (author of more than 11 books, including the Rokomari bestseller *Hatekolome Machine Learning*, published by Adarsha and Tamralipi). He has also delivered a TEDx talk on "Proactive Public Services: Government Automation". Over his career, he served as Director at the Bangladesh Telecommunication Regulatory Commission (BTRC) and as former Project Director of the Integrated Lawful Interception System (ILIS). Currently, having served as Chief Technology Officer (CTO), he is working as Director of AI Business and Transformation at Link3 Technologies Limited.
+**Rakibul Hassan** — Artificial Intelligence and Machine Learning specialist, author, and regular columnist for leading national dailies and news outlets, including **Prothom Alo**, **The Daily Star**, and **bdnews24.com**. He is the author of the first machine learning book in the Bangla language (author of more than 11 books, including the Rokomari bestseller *Hatekolome Machine Learning*, published by Adarsha and Tamralipi). He has also delivered a TEDx talk on "Proactive Public Services: Government Automation". His career began in military telecommunications and spectrum management, including service as a UN peacekeeper in Côte d'Ivoire and DR Congo modernizing communication infrastructure. Leveraging that experience, he served for nearly seven years as Director at the Bangladesh Telecommunication Regulatory Commission (BTRC) and as Project Director of the Integrated Lawful Interception System (ILIS). In 2008 at BTRC, while developing wholesale call pricing models with ITU consultants, he recognized the foundational mechanics of modern data science and AI. Following his tenure as Chief Technology Officer (CTO) at Link3 Technologies Limited, he now leads as Director of AI Business and Transformation, viewing data as a core strategic asset to extract actionable intelligence.
 
 Below are key facets of his work, initiatives, and platforms:
 
