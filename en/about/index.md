@@ -9,8 +9,8 @@ locale: en_US
 excerpt: "Rakibul Hassan — AI/ML specialist, author of 11+ books, columnist for Prothom Alo, The Daily Star, and bdnews24.com, TEDx speaker, Director at Link3 Technologies."
 tags: ["Rakibul Hassan", "রকিবুল হাসান", "AI Specialist", "Author", "Columnist", "Prothom Alo", "The Daily Star", "bdnews24", "Machine Learning", "Link3 Technologies", "TEDxRUET"]
 image:
-  feature: rakibul-hassan.jpg
-  teaser: rakibul-hassan.jpg
+  feature:
+  teaser:
   thumb: rakibul-hassan.jpg
 share: false
 ads: false

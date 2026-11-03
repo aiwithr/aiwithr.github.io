@@ -7,8 +7,8 @@ alternate_en: /en/about/
 excerpt: "রকিবুল হাসান (Rakibul Hassan) — এআই বিশেষজ্ঞ, লেখক এবং প্রথম আলো, দ্য ডেইলি স্টার ও বিডিনিউজ২৪-এর নিয়মিত কলামিস্ট। ১১+ বইয়ের রচয়িতা ও TEDx বক্তা।"
 tags: ["রকিবুল হাসান", "Rakibul Hassan", "প্রথম আলো কলামিস্ট", "দ্য ডেইলি স্টার", "বিডিনিউজ২৪", "হাতেকলমে মেশিন লার্নিং", "এআই বিশেষজ্ঞ", "লেখক", "Link3 Technologies", "TEDxRUET"]
 image:
-  feature: rakibul-hassan.jpg
-  teaser: rakibul-hassan.jpg
+  feature:
+  teaser:
   thumb: rakibul-hassan.jpg
 share: false
 ads: false

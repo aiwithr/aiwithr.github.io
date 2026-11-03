@@ -12,7 +12,7 @@ layout: default
 			</div><!-- /.page-image -->
 		</div><!-- /.page-feature -->
 		{% else %}
-		<link itemprop="image" href="{{ site.url }}/images/{{ site.logo }}">
+		<link itemprop="image" href="{{ site.url }}/images/{% if page.image.thumb %}{{ page.image.thumb }}{% else %}{{ site.logo }}{% endif %}">
 		{% endif %}
 		{% include breadcrumbs.html %}
 		<div class="page-title">
