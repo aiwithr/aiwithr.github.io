@@ -2,7 +2,7 @@
 layout: article
 title: "সংবাদপত্রে প্রকাশিত কলাম ও মতামত"
 date: 2025-02-04T13:57:25-05:00
-modified: 2026-10-16T16:15:00+06:00
+modified: 2026-11-06T19:30:00+06:00
 excerpt: "জাতীয় ও আন্তর্জাতিক সংবাদমাধ্যমে রকিবুল হাসানের কলাম ও প্রবন্ধ — প্রথম আলো, দ্য ডেইলি স্টার, বিডিনিউজ২৪ সহ শীর্ষ প্রকাশনার সংকলন।"
 tags: []
 image:
@@ -18,7 +18,7 @@ share: true
 <div class="toc-pills" style="margin: 1.5em 0; display: flex; flex-wrap: wrap; gap: 8px;">
   <a href="#prothom-alo" class="btn" style="text-decoration: none; padding: 6px 14px; border-radius: 20px; font-weight: 700;">📰 প্রথম আলো (২৩)</a>
   <a href="#daily-star" class="btn" style="text-decoration: none; padding: 6px 14px; border-radius: 20px; font-weight: 700;">⭐ দ্য ডেইলি স্টার (১৭)</a>
-  <a href="#bdnews24" class="btn" style="text-decoration: none; padding: 6px 14px; border-radius: 20px; font-weight: 700;">🌐 বিডিনিউজ২৪ (৫)</a>
+  <a href="#bdnews24" class="btn" style="text-decoration: none; padding: 6px 14px; border-radius: 20px; font-weight: 700;">🌐 বিডিনিউজ২৪ (৬)</a>
   <a href="#other-media" class="btn" style="text-decoration: none; padding: 6px 14px; border-radius: 20px; font-weight: 700;">📑 অন্যান্য ও কমেন্ট্রি</a>
 </div>
 
@@ -95,6 +95,7 @@ share: true
 | ০৩ | [বিজনেসে এআই: ব্যর্থতার হার কেন বেশি?](https://bangla.bdnews24.com/opinion/49e8048a9e72) | বিজনেস এআই ও আরওআই |
 | ০৪ | [কৃত্রিম বুদ্ধিমত্তা কি মানুষকে নিয়ে খেলায় নেমেছে?](https://bangla.bdnews24.com/opinion/196e7aa4609e) | প্রযুক্তির সামাজিক প্রভাব |
 | ০৫ | [ভাইব কোডিং থেকে এজেন্টিক ইঞ্জিনিয়ারিং](https://bangla.bdnews24.com/opinion/sbvaapaze9) | ভাইব কোডিং ও এজেন্টিক ইঞ্জিনিয়ারিং |
+| ০৬ | [ল্যাবে কি ঘুমিয়ে আছে পূর্ণ শিক্ষিত রোবট?](https://bangla.bdnews24.com/opinion/tvfa661c4f) | রোবোটিক্স ও রিইনফোর্সমেন্ট লার্নিং |
 
 ---
 
