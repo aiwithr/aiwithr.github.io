@@ -40,12 +40,12 @@
   excerpt: "বাংলায় ডাটা সাইন্স/অ্যানালিটিক্স রোডম্যাপ"
   image: 400x250.gif
 
-- title: মেন্টরশীপ
-  url: /mentorship/
-  url_en: /en/mentorship/
-  title_en: "Mentorship"
-  excerpt_en: "Exclusive data-science mentorship for non-programmers"
-  excerpt: "ডেটা-সাইন্স নিয়ে নন-প্রোগ্রামারদের জন্য 'এক্সক্লুসিভ' মেন্টরশীপ"
+- title: প্রিন্ট মিডিয়া
+  url: /print/
+  url_en: /print/
+  title_en: "Print Media"
+  excerpt_en: "Columns and articles published in national print media"
+  excerpt: "সংবাদপত্রে প্রকাশিত কলাম ও মতামত"
   image: 400x250.gif
 
 - title: আমি কে?

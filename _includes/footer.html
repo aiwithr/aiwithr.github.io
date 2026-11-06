@@ -1,4 +1,5 @@
 <footer role="contentinfo" id="site-footer">
+	{% unless include.is_home or page.url == '/' or page.url == '/index.html' or page.url == '/en/' or page.url == '/en/index.html' or page.layout == 'home' %}
 	<nav role="navigation" class="menu bottom-menu">
 		<ul class="menu-item">
 		{% for link in site.data.footer %}
@@ -13,6 +14,7 @@
 		{% endfor %}
 		</ul>
 	</nav><!-- /.bottom-menu -->
+	{% endunless %}
 	{% if page.lang == 'en' %}{% assign brand = site.title_en %}{% else %}{% assign brand = site.title %}{% endif %}
 	<p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{% if page.lang == 'en' %}{{ site.url }}/en/{% else %}{{ site.url }}{% endif %}">{{ brand }}</a> powered by <a href="http://jekyllrb.com">Jekyll.</a></p>
 </footer>
