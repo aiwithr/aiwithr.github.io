@@ -1,17 +1,17 @@
 ---
 layout: article
-title: "Resources for Building Intelligent Systems in Bangla"
+title: "Books & AI Learning Resources by Rakibul Hassan"
 date: 2019-08-25T13:57:25-04:00
-modified: 2022-1-01T16:21:57-04:00
+modified: 2026-11-06T14:20:00+06:00
 alternate_bn: /resources/
 lang: en
 locale: en_US
-excerpt: "Resources for building intelligent systems in Bangla — Bangla AI books, Hatekolome Machine Learning series, GitHub repos, video playlists, and training material."
-tags: []
+excerpt: "Explore 12+ online and print books by Rakibul Hassan covering Machine Learning, Forward Deployed Engineering, Enterprise AI Workflows, NLP, and ISP Automation."
+tags: ["Rakibul Hassan Books", "Hatekolome Machine Learning", "Forward Deployed Engineering", "AI Work Flow for Business", "ISP Automation", "Bangla AI Books", "Data Analytics"]
 image:
   feature:
   teaser:
-  thumb:
+  thumb: test4.jpg
 share: true
 ---
 

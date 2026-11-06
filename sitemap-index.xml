@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://aiwithr.github.io/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://aiwithr.github.io/fde_book/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://aiwithr.github.io/ai_llm/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://aiwithr.github.io/automation_nsot/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://aiwithr.github.io/automation/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://aiwithr.github.io/aibook/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://aiwithr.github.io/analyst/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://aiwithr.github.io/nlpbook/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>

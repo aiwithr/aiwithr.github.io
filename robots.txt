@@ -1,5 +1,12 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://aiwithr.github.io/sitemap-index.xml
 Sitemap: https://aiwithr.github.io/sitemap.xml
 Sitemap: https://aiwithr.github.io/fde_book/sitemap.xml
+Sitemap: https://aiwithr.github.io/ai_llm/sitemap.xml
+Sitemap: https://aiwithr.github.io/automation_nsot/sitemap.xml
+Sitemap: https://aiwithr.github.io/automation/sitemap.xml
+Sitemap: https://aiwithr.github.io/aibook/sitemap.xml
+Sitemap: https://aiwithr.github.io/analyst/sitemap.xml
+Sitemap: https://aiwithr.github.io/nlpbook/sitemap.xml

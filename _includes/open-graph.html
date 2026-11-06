@@ -14,7 +14,7 @@
 	{% endif %}
 	<!-- Open Graph -->
 	<meta property="og:locale" content="{{ og_locale }}">
-	<meta property="og:type" content="article">
+	<meta property="og:type" content="{% if page.layout == 'home' %}website{% elsif page.url contains '/about/' %}profile{% else %}article{% endif %}">
 	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ brand }}{% endif %}">
 	<meta property="og:description" content="{{ og_desc }}">
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
@@ -24,6 +24,7 @@
 	{
 		"@context": "https://schema.org",
 		"@type": "Person",
+		"@id": "{{ site.url }}/#rakibul-hassan",
 		"name": "Rakibul Hassan",
 		"alternateName": ["রকিবুল হাসান", "Rakibul Hasan", "raqueeb"],
 		"jobTitle": "Director AI Business and Transformation",
@@ -32,11 +33,13 @@
 			"name": "Link3 Technologies Limited",
 			"url": "https://www.link3.net/"
 		},
-		"description": "First author of Bengali machine learning books (11+ titles including the হাতেকলমে মেশিন লার্নিং series, publishers Adarsha and Tamralipi), TEDxRUET speaker on government automation, former Director of BTRC, Director of AI Business and Transformation at Link3 Technologies, and YouTube educator (@aiwithr, 600+ videos).",
+		"description": "Bangladeshi AI/ML specialist, author of 12+ books in Bangla and English (including the হাতেকলমে মেশিন লার্নিং series, Forward Deployed Engineering, Network/ISP Automation, and AI Work Flow for Business), regular columnist for Prothom Alo, The Daily Star, and bdnews24.com, TEDxRUET speaker, former Director of BTRC, and Director of AI Business and Transformation at Link3 Technologies.",
 		"image": "{{ site.url }}/images/rakibul-hassan.jpg",
 		"url": "{{ site.url }}/",
+		"mainEntityOfPage": "{{ site.url }}/about/",
 		"sameAs": [
 			"https://www.linkedin.com/in/raqueeb/",
+			"https://github.com/aiwithr",
 			"https://github.com/raqueeb",
 			"https://twitter.com/raqueeb",
 			"https://www.facebook.com/raqueeb",
@@ -51,7 +54,7 @@
 			"https://www.facebook.com/profile.php?id=61576673663332",
 			"https://raqueeb.github.io/kamla_wksp/"
 		],
-		"knowsAbout": ["Machine Learning", "Artificial Intelligence", "Government Automation", "Telecommunications Policy", "Data Science", "Agentic AI", "Enterprise Automation"],
+		"knowsAbout": ["Machine Learning", "Artificial Intelligence", "Forward Deployed Engineering", "Enterprise Automation", "Network & ISP Automation", "Agentic AI", "Government Automation", "Telecommunications Policy", "Data Science", "Natural Language Processing"],
 		"subjectOf": {
 			"@type": "Article",
 			"headline": "মেশিন লার্নিং ও একজন রকিবুল হাসান",
@@ -59,11 +62,7 @@
 			"datePublished": "2020-01-02T00:00:00+06:00",
 			"inLanguage": "bn",
 			"image": "{{ site.url }}/images/rakibul-hassan.jpg",
-			"author": {
-				"@type": "Person",
-				"name": "Rakibul Hassan",
-				"url": "{{ site.url }}/"
-			},
+			"author": { "@id": "{{ site.url }}/#rakibul-hassan" },
 			"publisher": {
 				"@type": "Organization",
 				"name": "Roar Media"
@@ -75,9 +74,26 @@
 	{
 		"@context": "https://schema.org",
 		"@type": "WebSite",
+		"@id": "{{ site.url }}/#website",
 		"name": {{ brand | jsonify }},
 		"url": "{% if page.lang == 'en' %}{{ site.url }}/en/{% else %}{{ site.url }}/{% endif %}",
 		"inLanguage": "{{ page.lang | default: 'bn' }}",
-		"description": {% if page.lang == 'en' %}"Free learning resources for Machine Learning, Artificial Intelligence, and Data Science in Bangla by Rakibul Hassan — 11+ published books, tutorials, and workshops."{% else %}{{ site.description | jsonify }}{% endif %}
+		"author": { "@id": "{{ site.url }}/#rakibul-hassan" },
+		"publisher": { "@id": "{{ site.url }}/#rakibul-hassan" },
+		"description": {% if page.lang == 'en' %}"Free learning resources and online books for Machine Learning, Artificial Intelligence, Forward Deployed Engineering, Enterprise Automation, and Data Science by Rakibul Hassan."{% else %}{{ site.description | jsonify }}{% endif %}
 	}
 	</script>
+	{% if page.url == '/about/' or page.url == '/en/about/' %}
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "ProfilePage",
+		"url": "{{ page.url | replace:'index.html','' | prepend: site.url }}",
+		"inLanguage": "{{ page.lang | default: 'bn' }}",
+		"mainEntity": { "@id": "{{ site.url }}/#rakibul-hassan" }
+	}
+	</script>
+	{% endif %}
+	{% if page.url == '/' or page.url == '/en/' or page.url == '/resources/' or page.url == '/en/resources/' %}
+{% include books-schema.html %}
+	{% endif %}

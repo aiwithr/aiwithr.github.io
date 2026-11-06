@@ -36,6 +36,16 @@ image:
 This site — **In Search of Intelligent Systems** — is a curated collection by Rakibul Hassan covering Artificial Intelligence, Data Science, and Data Analytics roadmaps in Bangla: bringing together (1) Artificial Intelligence, (2) Machine Learning books, and (3) hands-on tutorials and workshops.
 {: .notice}
 
+## Featured Online Books by Rakibul Hassan
+
+Read Rakibul Hassan's open-access books on Artificial Intelligence, Machine Learning, Forward Deployed Engineering, and Enterprise Automation directly online:
+
+- **[Forward Deployed Engineering (FDE) — Hands-on Field Manual](https://aiwithr.github.io/fde_book/)**: Practical field guide to Palantir-style deployment, on-premise local AI, and self-healing production systems.
+- **[AI Work Flow for Business — Enterprise Automation, Without the Cloud](https://aiwithr.github.io/ai_llm/)**: Privacy-first enterprise AI orchestration using local open-source SLMs ([Project Summary](https://aiwithr.github.io/ai_llm/PROJECT_SUMMARY/)).
+- **[Network & ISP Automation: Network Source of Truth (NSoT)](https://aiwithr.github.io/automation_nsot/)** & **[Network/ISP Automation Vol. 1](https://aiwithr.github.io/automation/)**: Architecture and automation playbooks for million-subscriber ISP networks.
+- **[Hatekolome Data Analytics & Visualization](https://aiwithr.github.io/analyst/)** & **[Hatekolome Bangla Natural Language Processing](https://aiwithr.github.io/nlpbook/)**: Hands-on Python data analytics and Bangla NLP fundamentals.
+- **[A Humanistic State through Artificial Intelligence](https://aiwithr.github.io/aibook/)** & **[Hatekolome Machine Learning Series](https://rakibul-hassan.gitbook.io/mlbook-titanic/)**: Data-driven public policy and the pioneering Bangla machine learning book series.
+
 ## Recommended Learning Pathways
 
 Explore the core sections of this platform to start your journey into intelligent systems:
@@ -45,3 +55,4 @@ Explore the core sections of this platform to start your journey into intelligen
 - **[Books & Learning Resources](https://aiwithr.github.io/en/resources/)**: Over 11 published books by Rakibul Hassan, accompanied by open-source code repositories, free video lectures, and e-book downloads released under Creative Commons licenses.
 - **[Practical Courses & Titanic Project](https://aiwithr.github.io/en/courses/)**: Hands-on 4-week end-to-end curriculum working through exploratory data analysis, decision trees, and predictive modeling using real-world data.
 - **[Answers to Big Questions](https://aiwithr.github.io/en/articles/)**: Long-form essays on data career mindsets, GPU hardware configuration, artificial intelligence policy frameworks, and learning methodologies.
+- **[About Rakibul Hassan](https://aiwithr.github.io/en/about/)** & **[National Newspaper Columns Archive](https://aiwithr.github.io/print/)**: Career biography and 45+ opinion columns published in *Prothom Alo*, *The Daily Star*, and *bdnews24.com*.
