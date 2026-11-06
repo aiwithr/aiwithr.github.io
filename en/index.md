@@ -42,9 +42,11 @@ Read Rakibul Hassan's open-access books on Artificial Intelligence, Machine Lear
 
 - **[Forward Deployed Engineering (FDE) — Hands-on Field Manual](https://aiwithr.github.io/fde_book/)**: Practical field guide to Palantir-style deployment, on-premise local AI, and self-healing production systems.
 - **[AI Work Flow for Business — Enterprise Automation, Without the Cloud](https://aiwithr.github.io/ai_llm/)**: Privacy-first enterprise AI orchestration using local open-source SLMs ([Project Summary](https://aiwithr.github.io/ai_llm/PROJECT_SUMMARY/)).
+- **[Hatekolome Machine Learning (হাতেকলমে মেশিন লার্নিং)](https://rakibul-hassan.gitbook.io/mlbook-titanic/)**: The pioneering Bangla machine learning bestseller (followed in the series by [Python Machine Learning from Zero](https://raqueeb.gitbook.io/scikit-learn/) & [Hatekolome Python Deep Learning](https://rakibul-hassan.gitbook.io/deep-learning/)).
+- **[Artificial Intelligence in Education (কৃত্রিম বুদ্ধিমত্তায় শিক্ষাব্যবস্থা)](https://aiwithr.github.io/aibook/edu/personalized-ed/)**: Personalized and adaptive learning systems for modernizing education with AI.
+- **[A Humanistic State through Artificial Intelligence (কৃত্রিম বুদ্ধিমত্তায় মানবিক রাষ্ট্র)](https://aiwithr.github.io/aibook/)**: Data-driven public policy, healthcare, judiciary, and citizen-centric governance.
 - **[Network & ISP Automation: Network Source of Truth (NSoT)](https://aiwithr.github.io/automation_nsot/)** & **[Network/ISP Automation Vol. 1](https://aiwithr.github.io/automation/)**: Architecture and automation playbooks for million-subscriber ISP networks.
 - **[Hatekolome Data Analytics & Visualization](https://aiwithr.github.io/analyst/)** & **[Hatekolome Bangla Natural Language Processing](https://aiwithr.github.io/nlpbook/)**: Hands-on Python data analytics and Bangla NLP fundamentals.
-- **[A Humanistic State through Artificial Intelligence](https://aiwithr.github.io/aibook/)** & **[Hatekolome Machine Learning Series](https://rakibul-hassan.gitbook.io/mlbook-titanic/)**: Data-driven public policy and the pioneering Bangla machine learning book series.
 
 ## Recommended Learning Pathways
 
