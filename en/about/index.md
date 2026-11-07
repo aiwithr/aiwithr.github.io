@@ -2,7 +2,7 @@
 layout: article
 title: "Rakibul Hassan — AI Specialist, Author & Columnist"
 date: 2019-06-02T09:44:20-04:00
-modified: 2026-11-06T14:20:00+06:00
+modified: 2026-11-07T13:45:00+06:00
 alternate_bn: /about/
 lang: en
 locale: en_US
@@ -18,7 +18,7 @@ ads: false
 
 <img src="{{ site.url }}/images/rakibul-hassan.jpg" alt="Rakibul Hassan" width="240">
 
-**Rakibul Hassan** — Artificial Intelligence and Machine Learning specialist, author, and regular columnist for leading national dailies and news outlets, including **Prothom Alo**, **The Daily Star**, and **bdnews24.com**. He is the author of the first machine learning book in the Bangla language (author of more than 11 books, including the Rokomari bestseller *Hatekolome Machine Learning*, published by Adarsha and Tamralipi). He has also delivered a TEDx talk on "Proactive Public Services: Government Automation". His career began in military telecommunications and spectrum management, including service as a UN peacekeeper in Côte d'Ivoire and DR Congo modernizing communication infrastructure. Leveraging that experience, he served for nearly seven years as Director at the Bangladesh Telecommunication Regulatory Commission (BTRC) and as Project Director of the Integrated Lawful Interception System (ILIS). In 2008 at BTRC, while developing wholesale call pricing models with ITU consultants, he recognized the foundational mechanics of modern data science and AI. Following his tenure as Chief Technology Officer (CTO) at Link3 Technologies Limited, he now leads as Director of AI Business and Transformation, viewing data as a core strategic asset to extract actionable intelligence.
+**Rakibul Hassan** — Artificial Intelligence and Machine Learning specialist, author, and regular columnist for leading national dailies and news outlets, including **Prothom Alo**, **The Daily Star**, and **bdnews24.com**. He is the author of the first machine learning book in the Bangla language — *Hatekolome Machine Learning* has earned wide acclaim as the very first book on machine learning written in Bengali (bestseller on Rokomari, author of 11+ titles published by Adarsha and Tamralipi). He has also delivered a TEDx talk on "Proactive Public Services: Government Automation". His career began in military telecommunications and spectrum management, including service as a UN peacekeeper in Côte d'Ivoire and DR Congo modernizing communication infrastructure. Leveraging that experience, he served for nearly seven years as Director at the Bangladesh Telecommunication Regulatory Commission (BTRC) and as Project Director of the Integrated Lawful Interception System (ILIS). In 2008 at BTRC, while developing wholesale call pricing models with ITU consultants, he recognized the foundational mechanics of modern data science and AI. Following his tenure as Chief Technology Officer (CTO) at Link3 Technologies Limited, he now leads as Director of AI Business and Transformation, viewing data as a core strategic asset to extract actionable intelligence.
 
 Below are key facets of his work, initiatives, and platforms:
 
@@ -33,7 +33,7 @@ Below are key facets of his work, initiatives, and platforms:
 - **Video Content:** Over 600 videos on the YouTube channel [YouTube @aiwithr](https://www.youtube.com/@aiwithr) under the banner "Building Intelligent Systems with Rakib". In addition, he creates Bangla AI and machine learning tutorials on his personal channel, [YouTube @raqueebhassan](https://www.youtube.com/@RaqueebHassan).
 - **Workshops:** ['Making Machines Work: The Kamla Workshop'](https://raqueeb.github.io/kamla_wksp/) — his widely acclaimed, hands-on masterclass on Artificial Intelligence (AI) and Machine Learning.
 - **TEDx:** [TEDxRUET Speaker Profile](https://www.tedxruet.org/speakers/rakibul-hasan).
-- **Media Features:** [Roar Media Feature Profile (2020) — "Machine Learning and a Rakibul Hassan"](https://archive.roar.media/bangla/main/science/machine-learning-and-rakibul-hassan).
+- **Media Features:** [Roar Media Feature Profile (2020) — "Machine Learning and a Rakibul Hassan"](https://archive.roar.media/bangla/main/science/machine-learning-and-rakibul-hassan) and [Techshohor Feature — "The Book That Makes Machine Learning Easy to Learn"](https://techshohor.com/105654/%E0%A6%B8%E0%A6%B9%E0%A6%9C%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A8-%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%82-%E0%A6%B6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%AC/) (coverage of *Hatekolome Machine Learning* as the pioneering Bengali ML book).
 - **Social & Professional Profiles:** [LinkedIn](https://www.linkedin.com/in/raqueeb/), [GitHub](https://github.com/raqueeb), [Medium](https://medium.com/@raqueeb/), [Twitter/X](https://twitter.com/raqueeb), [Facebook](https://www.facebook.com/raqueeb), [WordPress](https://raqueeb.wordpress.com/), and [The Thinking School](https://www.facebook.com/profile.php?id=61576673663332).
 - **Print Media Archive:** [Complete Newspaper Columns and Press Archive]({{ site.url }}/print/).
 
