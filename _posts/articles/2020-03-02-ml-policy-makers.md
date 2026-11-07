@@ -94,18 +94,18 @@ date: 2020-03-02T09:44:20-04:00
 | :--- | :--- | :--- |
 | ১ম | [কৃত্রিম বুদ্ধিমত্তা জিনিসটা কি? (পিডিএফ)](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/concept-ai.pdf) | [আমরা কী চাইছি কৃত্রিম বুদ্ধিমত্তা থেকে?](https://aiwithr.github.io/aibook/) |
 | ২য় | [কেন দরকার কৃত্রিম বুদ্ধিমত্তা (এআই)?](https://aiwithr.github.io/aibook/start/why-ai/) | [‘কৃত্রিম বুদ্ধিমত্তা’র একটা ভালো ডেফিনেশন](https://aiwithr.github.io/aibook/start/definition/) |
-| ৩য় | [এআই, কোথায় আমরা? (পিডিএফ)](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/ai-where-are-we.pdf) | [মেশিন লার্নিং জিনিসটা কী?](https://rakibul-hassan.gitbook.io/mlbook-titanic/introduction/what-is-ml)|
-| ৪র্থ | [মেশিন লার্নিং এবং মানুষের শেখা](https://raqueeb.gitbook.io/scikit-learn/what-is-ml/what-is-ml) | [কেন দরকার মেশিন লার্নিং?](https://rakibul-hassan.gitbook.io/mlbook-titanic/introduction/why-needed) |
-| ৫ম | [টেক্সটবুকের মেশিন লার্নিং)](https://raqueeb.gitbook.io/scikit-learn/what-is-ml/textbook-definition) | [ডাটার কেন প্রয়োজন? ট্রেনিং এবং টেস্ট ডাটা](https://rakibul-hassan.gitbook.io/mlbook-titanic/introduction/why-data) |
+| ৩য় | [এআই, কোথায় আমরা? (পিডিএফ)](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/ai-where-are-we.pdf) | [মেশিন লার্নিং জিনিসটা কী?](https://aiwithr.github.io/mlbook-titanic/introduction/what-is-ml)|
+| ৪র্থ | [মেশিন লার্নিং এবং মানুষের শেখা](https://raqueeb.gitbook.io/scikit-learn/what-is-ml/what-is-ml) | [কেন দরকার মেশিন লার্নিং?](https://aiwithr.github.io/mlbook-titanic/introduction/why-needed) |
+| ৫ম | [টেক্সটবুকের মেশিন লার্নিং)](https://raqueeb.gitbook.io/scikit-learn/what-is-ml/textbook-definition) | [ডাটার কেন প্রয়োজন? ট্রেনিং এবং টেস্ট ডাটা](https://aiwithr.github.io/mlbook-titanic/introduction/why-data) |
 
 ## ২য় সপ্তাহ (কৃত্রিম বুদ্ধিমত্তা ফ্রেমওয়ার্ক, মেশিন লার্নিং)
 
 | দিন | বিষয় | কি শিখলাম? |
 | :--- | :--- | :--- |
-| ১ম | [মেশিন লার্নিং জিনিসটা কি? - আমরা কোথায় যাচ্ছি?](https://rakibul-hassan.gitbook.io/mlbook-titanic/introduction/what-is-ml) | [মেশিন লার্নিংয়ের ডেফিনেশন - কোথায় কী হচ্ছে? (পিডিএফ)](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/what-is-ml.pdf) |
+| ১ম | [মেশিন লার্নিং জিনিসটা কি? - আমরা কোথায় যাচ্ছি?](https://aiwithr.github.io/mlbook-titanic/introduction/what-is-ml) | [মেশিন লার্নিংয়ের ডেফিনেশন - কোথায় কী হচ্ছে? (পিডিএফ)](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/what-is-ml.pdf) |
 | ২য় | [কৃত্রিম বুদ্ধিমত্তার পেছনের ড্রাইভিং ফ্যাক্টরগুলো কী কী?)](https://aiwithr.github.io/aibook/start/driving-factors/) | [কৃত্রিম বুদ্ধিমত্তার দুটো 'অ্যাপ্রোচ'](https://aiwithr.github.io/aibook/start/two-approaches/)|
-| ৩য় | [মেশিন লার্নিং এর কিছু ভাগ](https://rakibul-hassan.gitbook.io/mlbook-titanic/introduction/why-ai) | [প্রজেক্ট টাইটানিক, কৃত্রিম বুদ্ধিমত্তা এবং মানবিক সম্পর্ক](https://rakibul-hassan.gitbook.io/mlbook-titanic/project-titanic/titanic-story) |
-| ৪র্থ | [কেন প্রজেক্ট" টাইটানিক "? ডাটা কোথায়?](https://rakibul-hassan.gitbook.io/mlbook-titanic/project-titanic/why-titanic) | [প্রজেক্ট টাইটানিক +  ‘ট্রেনিং’ আর ‘টেস্ট’ ডাটা সেট](https://rakibul-hassan.gitbook.io/mlbook-titanic/project-titanic/trg-test) |
+| ৩য় | [মেশিন লার্নিং এর কিছু ভাগ](https://aiwithr.github.io/mlbook-titanic/introduction/why-ai) | [প্রজেক্ট টাইটানিক, কৃত্রিম বুদ্ধিমত্তা এবং মানবিক সম্পর্ক](https://aiwithr.github.io/mlbook-titanic/project-titanic/titanic-story) |
+| ৪র্থ | [কেন প্রজেক্ট" টাইটানিক "? ডাটা কোথায়?](https://aiwithr.github.io/mlbook-titanic/project-titanic/why-titanic) | [প্রজেক্ট টাইটানিক +  ‘ট্রেনিং’ আর ‘টেস্ট’ ডাটা সেট](https://aiwithr.github.io/mlbook-titanic/project-titanic/trg-test) |
 | ৫ম | [ড্র্যাগ এন্ড ড্রপ এমএল আজ্য়ুর ষ্টুডিও কিট](https://gallery.azure.ai/Experiment/Titanic-Kaggle-Competition-1) | [প্রজেক্ট টাইটানিক +  আজ্য়ুর ষ্টুডিও কিট](https://studio.azureml.net/community/unpack?packageUri=https%3a%2f%2fstorage.azureml.net%2fdirectories%2f3c91d5311f144ff3a920c48678db517c%2fitems&communityUri=https%3a%2f%2fgallery.azure.ai%2fDetails%2ftitanic-kaggle-competition-1&entityId=Titanic-Kaggle-Competition-1) |
 
 ## ৩য় সপ্তাহ (অ্যালান তুরিং টেস্ট, 'এআই' বিভিন্ন ইন্ডাস্ট্রিতে)
@@ -158,8 +158,8 @@ date: 2020-03-02T09:44:20-04:00
 
 | বইয়ের নাম | অনলাইন লিংক | প্রিন্ট বই | ইউটিউব লিংক |
 | :--- | :--- | :--- | :--- |
-| হাতেকলমে মেশিন লার্নিং \(দ্বিতীয় সংস্করণ\) | [গিটবুক](https://rakibul-hassan.gitbook.io/mlbook-titanic/) | [রকমারি](https://rokomari.com/book/174186/) | [প্লেলিস্ট](http://bit.ly/ml-2nd) |
-| প্রথম সংস্করনে নেই যে পাইথন অংশ | [গিটবুক](https://rakibul-hassan.gitbook.io/mlbook-titanic/j_notebook/titanic-project-test) | [রকমারি](https://rokomari.com/book/174186/) | নেই |
+| হাতেকলমে মেশিন লার্নিং \(দ্বিতীয় সংস্করণ\) | [গিটবুক](https://aiwithr.github.io/mlbook-titanic/) | [রকমারি](https://rokomari.com/book/174186/) | [প্লেলিস্ট](http://bit.ly/ml-2nd) |
+| প্রথম সংস্করনে নেই যে পাইথন অংশ | [গিটবুক](https://aiwithr.github.io/mlbook-titanic/j_notebook/titanic-project-test) | [রকমারি](https://rokomari.com/book/174186/) | নেই |
 | 'শূন্য থেকে পাইথন মেশিন লার্নিং' \(দ্বিতীয় সংস্করণ\) | [গিটবুক](https://raqueeb.gitbook.io/scikit-learn/) | [রকমারি](https://www.rokomari.com/book/187277/) | [প্লেলিস্ট](http://bit.ly/ml-py2) |
 | হাতেকলমে পাইথন ডিপ লার্নিং | [গিটবুক](https://rakibul-hassan.gitbook.io/deep-learning/) | [রকমারি](https://www.rokomari.com/book/198757/) | [প্লেলিস্ট](https://www.youtube.com/playlist?list=PL5NPSn95n_L64yse4BRzRYFn5HTYw1Ewb) |
 | হাতেকলমে ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং | [গিটহাব](https://github.com/raqueeb/nlp_bangla) | প্রকাশিতব্য | [প্লেলিস্ট](https://www.youtube.com/playlist?list=PL5NPSn95n_L4sMoCygyX3cKkSOKdQA_BT) |

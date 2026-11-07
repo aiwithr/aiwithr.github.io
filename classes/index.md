@@ -128,8 +128,8 @@ share: false
 
 | বইয়ের নাম | অনলাইন লিংক | প্রিন্ট বই |
 | :--- | :--- | :--- | :--- |
-| হাতেকলমে মেশিন লার্নিং \(দ্বিতীয় সংস্করণ\) | [গিটবুক](https://rakibul-hassan.gitbook.io/mlbook-titanic/) | [রকমারি](https://rokomari.com/book/174186/) |
-| হাতেকলমে মেশিন লার্নিং \(প্রথম সংস্করণ\) | [গিটবুক](https://rakibul-hassan.gitbook.io/mlbook-titanic/) | [রকমারি](https://www.rokomari.com/book/160337/) |
+| হাতেকলমে মেশিন লার্নিং \(দ্বিতীয় সংস্করণ\) | [গিটবুক](https://aiwithr.github.io/mlbook-titanic/) | [রকমারি](https://rokomari.com/book/174186/) |
+| হাতেকলমে মেশিন লার্নিং \(প্রথম সংস্করণ\) | [গিটবুক](https://aiwithr.github.io/mlbook-titanic/) | [রকমারি](https://www.rokomari.com/book/160337/) |
 
 বিনামূল্যের গিটহাব এবং রআর-ষ্টুডিও ক্লাউড একাউন্ট
 

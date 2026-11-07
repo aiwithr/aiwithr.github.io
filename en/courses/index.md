@@ -79,34 +79,34 @@ Instructor-led class: 2 hours + Project work: 1 hour = 3 hours per session.
 
 | Day | Topic | What We Learned |
 | :--- | :--- | :--- |
-| Day 1 | [What is Machine Learning?](https://rakibul-hassan.gitbook.io/mlbook-titanic/introduction/what-is-ml) | [Difference Between Traditional Programming & ML](https://rakibul-hassan.gitbook.io/mlbook-titanic/introduction/why-data) |
-| Day 2 | [Kaggle Competitions](https://rakibul-hassan.gitbook.io/mlbook-titanic/kaggle/why-kaggle) | [Kaggle Kernels and Cloud-Hosted Scripts](https://rakibul-hassan.gitbook.io/mlbook-titanic/kaggle/why-kaggle) |
-| Day 3 | [Project Titanic](https://rakibul-hassan.gitbook.io/mlbook-titanic/project-titanic/titanic-story) | [Training and Test Datasets](https://rakibul-hassan.gitbook.io/mlbook-titanic/project-titanic/trg-test) |
+| Day 1 | [What is Machine Learning?](https://aiwithr.github.io/mlbook-titanic/introduction/what-is-ml) | [Difference Between Traditional Programming & ML](https://aiwithr.github.io/mlbook-titanic/introduction/why-data) |
+| Day 2 | [Kaggle Competitions](https://aiwithr.github.io/mlbook-titanic/kaggle/why-kaggle) | [Kaggle Kernels and Cloud-Hosted Scripts](https://aiwithr.github.io/mlbook-titanic/kaggle/why-kaggle) |
+| Day 3 | [Project Titanic](https://aiwithr.github.io/mlbook-titanic/project-titanic/titanic-story) | [Training and Test Datasets](https://aiwithr.github.io/mlbook-titanic/project-titanic/trg-test) |
 
 ## Week 2 ("R" Programming Environment)
 
 | Day | Topic | What We Learned |
 | :--- | :--- | :--- |
-| Day 1 | ["R" Programming Environment](https://rakibul-hassan.gitbook.io/mlbook-titanic/r-environment/r-r-studio) | [Working with "R" + RStudio](https://rakibul-hassan.gitbook.io/mlbook-titanic/r-environment/r-studio-installation) |
-| Day 2 | [Project GitHub Scripts](https://rakibul-hassan.gitbook.io/mlbook-titanic/r-environment/github-script) | [Project Titanic + RStudio](https://rakibul-hassan.gitbook.io/mlbook-titanic/r-environment/r-commands) |
-| Day 3 | [Project Titanic + RStudio Cloud (Web)](https://rakibul-hassan.gitbook.io/mlbook-titanic/r-environment/r-commands) | [Titanic Dataset on Kaggle](https://rakibul-hassan.gitbook.io/mlbook-titanic/r-environment/r-commands) |
+| Day 1 | ["R" Programming Environment](https://aiwithr.github.io/mlbook-titanic/r-environment/r-r-studio) | [Working with "R" + RStudio](https://aiwithr.github.io/mlbook-titanic/r-environment/r-studio-installation) |
+| Day 2 | [Project GitHub Scripts](https://aiwithr.github.io/mlbook-titanic/r-environment/github-script) | [Project Titanic + RStudio](https://aiwithr.github.io/mlbook-titanic/r-environment/r-commands) |
+| Day 3 | [Project Titanic + RStudio Cloud (Web)](https://aiwithr.github.io/mlbook-titanic/r-environment/r-commands) | [Titanic Dataset on Kaggle](https://aiwithr.github.io/mlbook-titanic/r-environment/r-commands) |
 
 ## Week 3 (Prediction, Data Visualization)
 
 | Day | Topic | What We Learned |
 | :--- | :--- | :--- |
-| Day 1 | [First Prediction: Did Everyone Perish?](https://rakibul-hassan.gitbook.io/mlbook-titanic/prediction/1stprediction) | [Exploratory Data Analysis, Kaggle Submission](https://rakibul-hassan.gitbook.io/mlbook-titanic/prediction/1stprediction) |
-| Day 2 | [Data Visualization: The Story of Plots](https://rakibul-hassan.gitbook.io/mlbook-titanic/prediction/data-munging) | [What Insights Did Visualization Reveal?](https://rakibul-hassan.gitbook.io/mlbook-titanic/prediction/data-munging) |
-| Day 3 | [Second Prediction: Female vs Male?](https://rakibul-hassan.gitbook.io/mlbook-titanic/prediction/2ndprediction) | [Women and Children First](https://rakibul-hassan.gitbook.io/mlbook-titanic/prediction/2ndprediction) |
+| Day 1 | [First Prediction: Did Everyone Perish?](https://aiwithr.github.io/mlbook-titanic/prediction/1stprediction) | [Exploratory Data Analysis, Kaggle Submission](https://aiwithr.github.io/mlbook-titanic/prediction/1stprediction) |
+| Day 2 | [Data Visualization: The Story of Plots](https://aiwithr.github.io/mlbook-titanic/prediction/data-munging) | [What Insights Did Visualization Reveal?](https://aiwithr.github.io/mlbook-titanic/prediction/data-munging) |
+| Day 3 | [Second Prediction: Female vs Male?](https://aiwithr.github.io/mlbook-titanic/prediction/2ndprediction) | [Women and Children First](https://aiwithr.github.io/mlbook-titanic/prediction/2ndprediction) |
 
 ## Week 4 (Decision Trees, Feature Engineering)
 
 | Day | Topic | What We Learned |
 | :--- | :--- | :--- |
-| Day 1 | [Correlation Between Mortality and Ticket Fare](https://rakibul-hassan.gitbook.io/mlbook-titanic/prediction/3rdprediction) | [Third Prediction: The `aggregate` Command](https://rakibul-hassan.gitbook.io/mlbook-titanic/prediction/3rdprediction) |
-| Day 2 | [Decision Trees: Fourth Prediction](https://rakibul-hassan.gitbook.io/mlbook-titanic/prediction/decision-tree) | [`rpart` and Predictive Elements](https://rakibul-hassan.gitbook.io/mlbook-titanic/prediction/4thprediction) |
-| Day 3 | [Data Pre-processing and Feature Engineering](https://rakibul-hassan.gitbook.io/mlbook-titanic/prediction/5thprediction) | [Data Cleaning and Transformation](https://rakibul-hassan.gitbook.io/mlbook-titanic/prediction/6th-prediction) |
-| Day 4 | [Seventh Prediction (Random Forest)](https://rakibul-hassan.gitbook.io/mlbook-titanic/prediction/7th-prediction) | [Machine Learning and Our Future](https://rakibul-hassan.gitbook.io/mlbook-titanic/whats-in-future/in-future) |
+| Day 1 | [Correlation Between Mortality and Ticket Fare](https://aiwithr.github.io/mlbook-titanic/prediction/3rdprediction) | [Third Prediction: The `aggregate` Command](https://aiwithr.github.io/mlbook-titanic/prediction/3rdprediction) |
+| Day 2 | [Decision Trees: Fourth Prediction](https://aiwithr.github.io/mlbook-titanic/prediction/decision-tree) | [`rpart` and Predictive Elements](https://aiwithr.github.io/mlbook-titanic/prediction/4thprediction) |
+| Day 3 | [Data Pre-processing and Feature Engineering](https://aiwithr.github.io/mlbook-titanic/prediction/5thprediction) | [Data Cleaning and Transformation](https://aiwithr.github.io/mlbook-titanic/prediction/6th-prediction) |
+| Day 4 | [Seventh Prediction (Random Forest)](https://aiwithr.github.io/mlbook-titanic/prediction/7th-prediction) | [Machine Learning and Our Future](https://aiwithr.github.io/mlbook-titanic/whats-in-future/in-future) |
 
 ## Online Access: GitHub and RStudio Cloud
 
@@ -125,7 +125,7 @@ All links for 'Hatekolome Machine Learning' (First or Second Edition):
 
 | Medium | Link |
 | :--- | :--- |
-| [Online Link](https://rakibul-hassan.gitbook.io/mlbook-titanic/) | [Gitbook — Complete Online Book](https://rakibul-hassan.gitbook.io/mlbook-titanic/) |
+| [Online Link](https://aiwithr.github.io/mlbook-titanic/) | [Gitbook — Complete Online Book](https://aiwithr.github.io/mlbook-titanic/) |
 | [Print Book: Rokomari](https://rokomari.com/book/174186/) | [Rokomari.com](https://rokomari.com/book/174186/) |
 | [Print Book: Adarsha](https://adarsha.com.bd/shop/hatekolome-machine-learning/) | [Adarsha Prakashani](https://adarsha.com.bd/shop/hatekolome-machine-learning/) |
 | [Print Book: Neelkhet](https://www.facebook.com/%E0%A6%B9%E0%A6%95-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-996072720590097/) | [Haq, Manik Library and others: 01735742908, 01820157181](https://www.facebook.com/ManikLibraryOnline) |
@@ -134,7 +134,7 @@ All links for 'Hatekolome Machine Learning' (First or Second Edition):
 
 ## Mobile-Friendly Links (Books)
 
-1. [Online Link: Complete Book Online](https://rakibul-hassan.gitbook.io/mlbook-titanic/)
+1. [Online Link: Complete Book Online](https://aiwithr.github.io/mlbook-titanic/)
 2. [Print Book: Rokomari](https://rokomari.com/book/174186/)
 3. [Print Book: Adarsha](https://adarsha.com.bd/shop/hatekolome-machine-learning/)
 4. [Print Book: Neelkhet]()

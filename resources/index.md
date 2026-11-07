@@ -71,8 +71,8 @@ share: true
 
 | বইয়ের নাম | অনলাইন লিংক | প্রিন্ট বই লিংক |
 | :--- | :--- | :--- | :--- |
-| হাতেকলমে মেশিন লার্নিং \(দ্বিতীয় সংস্করণ\) | [গিটবুক](https://rakibul-hassan.gitbook.io/mlbook-titanic/) | [রকমারি](https://rokomari.com/book/174186/) |
-| দ্বিতীয় সংস্করনে যুক্ত করা পাইথন অংশ | [গিটবুক](https://rakibul-hassan.gitbook.io/mlbook-titanic/j_notebook/titanic-project-test) | [রকমারি](https://rokomari.com/book/174186/) |
+| হাতেকলমে মেশিন লার্নিং \(দ্বিতীয় সংস্করণ\) | [গিটবুক](https://aiwithr.github.io/mlbook-titanic/) | [রকমারি](https://rokomari.com/book/174186/) |
+| দ্বিতীয় সংস্করনে যুক্ত করা পাইথন অংশ | [গিটবুক](https://aiwithr.github.io/mlbook-titanic/j_notebook/titanic-project-test) | [রকমারি](https://rokomari.com/book/174186/) |
 | 'শূন্য থেকে পাইথন মেশিন লার্নিং' \(দ্বিতীয় সংস্করণ\) | [গিটবুক](https://raqueeb.gitbook.io/scikit-learn/) | [রকমারি](https://www.rokomari.com/book/187277/) |
 | হাতেকলমে পাইথন ডিপ লার্নিং | [গিটবুক](https://rakibul-hassan.gitbook.io/deep-learning/) | [রকমারি](https://www.rokomari.com/book/198757/) |
 | হাতেকলমে বাংলা ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং | [অনলাইন-বই](https://aiwithr.github.io/nlpbook/) | [রকমারি](https://www.rokomari.com/book/209335/) |
@@ -165,8 +165,8 @@ share: true
 
 | বইয়ের নাম | টেবিল অফ কনটেন্ট/মূল বই |
 | :--- | :--- |
-| [প্রথম গিটবুক, হাতেকলমে মেশিন লার্নিং](https://raqueeb.gitbooks.io/mlbook-titanic/content/) | [সূচী](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/ai-where-are-we.pdf) |
-| [দ্বিতীয় গিটবুক, টাইটানিক -পাইথন অংশ](https://rakibul-hassan.gitbook.io/mlbook-titanic/j_notebook/titanic-project-test) | [সূচী](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/ai-where-are-we.pdf) |
+| [প্রথম গিটবুক, হাতেকলমে মেশিন লার্নিং](https://aiwithr.github.io/mlbook-titanic/) | [সূচী](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/ai-where-are-we.pdf) |
+| [দ্বিতীয় গিটবুক, টাইটানিক -পাইথন অংশ](https://aiwithr.github.io/mlbook-titanic/j_notebook/titanic-project-test) | [সূচী](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/ai-where-are-we.pdf) |
 | [তৃতীয় গিটবুক, শুন্য থেকে পাইথন মেশিন লার্নিং](https://raqueeb.gitbook.io/scikit-learn/) | [সূচী](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/what-is-ml.pdf) |
 | [চতুর্থ গিটবুক, পাইথন ডিপ লার্নিং](https://www.rokomari.com/book/198757/) | [সূচী](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/concept-ai.pdf) |
 | [পঞ্চম অনলাইন বুক, ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং](https://aiwithr.github.io/nlpbook/) | [সূচী](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/nlp-bangla.pdf) |

@@ -67,8 +67,8 @@ Four books for hands-on learning. The reading progression for starting machine l
 
 | Book Title | Online Link | Print Book |
 | :--- | :--- | :--- |
-| Hatekolome Machine Learning (2nd Edition) | [Gitbook](https://rakibul-hassan.gitbook.io/mlbook-titanic/) | [Rokomari](https://rokomari.com/book/174186/) |
-| The Python Part Added in 2nd Edition | [Gitbook](https://rakibul-hassan.gitbook.io/mlbook-titanic/j_notebook/titanic-project-test) | [Rokomari](https://rokomari.com/book/174186/) |
+| Hatekolome Machine Learning (2nd Edition) | [Gitbook](https://aiwithr.github.io/mlbook-titanic/) | [Rokomari](https://rokomari.com/book/174186/) |
+| The Python Part Added in 2nd Edition | [Gitbook](https://aiwithr.github.io/mlbook-titanic/j_notebook/titanic-project-test) | [Rokomari](https://rokomari.com/book/174186/) |
 | 'Python Machine Learning from Zero' (2nd Edition) | [Gitbook](https://raqueeb.gitbook.io/scikit-learn/) | [Rokomari](https://www.rokomari.com/book/187277/) |
 | Hatekolome Python Deep Learning | [Gitbook](https://rakibul-hassan.gitbook.io/deep-learning/) | [Rokomari](https://www.rokomari.com/book/198757/) |
 | Hatekolome Bangla Natural Language Processing | [Online Book](https://aiwithr.github.io/nlpbook/) | [Rokomari](https://www.rokomari.com/book/209335/) |
@@ -80,7 +80,7 @@ Four books for hands-on learning. The reading progression for starting machine l
 
 ## 4. Why should I read 'Hatekolome Machine Learning' (Second Edition)?
 
-For starting machine learning, books are the best medium. These books are written in a hands-on 'step-by-step' style. No prior programming experience is required to begin any of them. Link to Book 1: [Here](https://rokomari.com/book/174186/) (the second edition is sufficient). If you do not wish to buy the book, you can read the complete first edition online for free. Link: [Here](https://raqueeb.gitbooks.io/mlbook-titanic/content/). The accompanying video series for this book is available as a YouTube playlist [here](http://bit.ly/ml-2nd).
+For starting machine learning, books are the best medium. These books are written in a hands-on 'step-by-step' style. No prior programming experience is required to begin any of them. Link to Book 1: [Here](https://rokomari.com/book/174186/) (the second edition is sufficient). If you do not wish to buy the book, you can read the complete first edition online for free. Link: [Here](https://aiwithr.github.io/mlbook-titanic/). The accompanying video series for this book is available as a YouTube playlist [here](http://bit.ly/ml-2nd).
 
 The first edition was built entirely in the 'R programming' environment. It has been replaced by the second edition, which added Python. Those who purchased the first edition do not need to buy the second edition. Those who have the second edition do not need the first edition.
 {: .notice-info}
@@ -196,7 +196,7 @@ Hit the road. Once you learn to navigate by getting lost, nobody will be able to
 
 ## 14. Which environment makes it easiest to learn machine learning?
 
-Answer: Did you know that machine learning can even be learned using Microsoft Excel? Today, machine learning work takes place across several global environments. The "R" programming environment emerged from statistical computing — meaning "R" was built specifically around data. If you ask me, learning machine learning with "R" is far easier, especially at the beginning. It makes gaining intuition into the data much simpler. Alongside it, Python is universally used in machine learning. At the start, it is best not to fret over the programming environment. Learning becomes straightforward once you understand the philosophy behind machine learning. Link: [Why R makes learning easy](https://raqueeb.gitbooks.io/mlbook-titanic/content/kaggle/why-r.html).
+Answer: Did you know that machine learning can even be learned using Microsoft Excel? Today, machine learning work takes place across several global environments. The "R" programming environment emerged from statistical computing — meaning "R" was built specifically around data. If you ask me, learning machine learning with "R" is far easier, especially at the beginning. It makes gaining intuition into the data much simpler. Alongside it, Python is universally used in machine learning. At the start, it is best not to fret over the programming environment. Learning becomes straightforward once you understand the philosophy behind machine learning. Link: [Why R makes learning easy](https://aiwithr.github.io/mlbook-titanic/kaggle/why-r/).
 
 ## 15. Which is better to start with: "R" or "Python"?
 

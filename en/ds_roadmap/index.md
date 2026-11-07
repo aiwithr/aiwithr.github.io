@@ -156,7 +156,7 @@ Once you grasp the concept of pipelines, completing one or two concise, real-wor
 | Project | Book Link |
 | :--- | :--- |
 | Iris Species Classification Project | [Python Machine Learning from Zero](https://raqueeb.gitbook.io/scikit-learn/) |
-| Project Titanic Survival Prediction | [Hatekolome Machine Learning](https://rakibul-hassan.gitbook.io/mlbook-titanic/) |
+| Project Titanic Survival Prediction | [Hatekolome Machine Learning](https://aiwithr.github.io/mlbook-titanic/) |
 
 Because humans learn exceptionally well through visual demonstrations, the following walkthrough video offers valuable intuition. Replicating this hands-on will solidify your understanding:
 

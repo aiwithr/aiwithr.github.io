@@ -73,8 +73,8 @@ To read the Bangla Natural Language Processing book effectively, having [**Hatek
 
 | Book Title | Online Link | Print Book Link |
 | :--- | :--- | :--- |
-| Hatekolome Machine Learning (2nd Edition) | [Gitbook](https://rakibul-hassan.gitbook.io/mlbook-titanic/) | [Rokomari](https://rokomari.com/book/174186/) |
-| The Python Part Added in 2nd Edition | [Gitbook](https://rakibul-hassan.gitbook.io/mlbook-titanic/j_notebook/titanic-project-test) | [Rokomari](https://rokomari.com/book/174186/) |
+| Hatekolome Machine Learning (2nd Edition) | [Gitbook](https://aiwithr.github.io/mlbook-titanic/) | [Rokomari](https://rokomari.com/book/174186/) |
+| The Python Part Added in 2nd Edition | [Gitbook](https://aiwithr.github.io/mlbook-titanic/j_notebook/titanic-project-test) | [Rokomari](https://rokomari.com/book/174186/) |
 | 'Python Machine Learning from Zero' (2nd Edition) | [Gitbook](https://raqueeb.gitbook.io/scikit-learn/) | [Rokomari](https://www.rokomari.com/book/187277/) |
 | Hatekolome Python Deep Learning | [Gitbook](https://rakibul-hassan.gitbook.io/deep-learning/) | [Rokomari](https://www.rokomari.com/book/198757/) |
 | Hatekolome Bangla Natural Language Processing | [Online Book](https://aiwithr.github.io/nlpbook/) | [Rokomari](https://www.rokomari.com/book/209335/) |
@@ -167,8 +167,8 @@ My draft books will **always** remain free online (on Gitbook). You do not need 
 
 | Book Title | Table of Contents / Full Book |
 | :--- | :--- |
-| [1st Gitbook: Hatekolome Machine Learning](https://raqueeb.gitbooks.io/mlbook-titanic/content/) | [Table of Contents](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/ai-where-are-we.pdf) |
-| [2nd Gitbook: Titanic — Python Part](https://rakibul-hassan.gitbook.io/mlbook-titanic/j_notebook/titanic-project-test) | [Table of Contents](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/ai-where-are-we.pdf) |
+| [1st Gitbook: Hatekolome Machine Learning](https://aiwithr.github.io/mlbook-titanic/) | [Table of Contents](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/ai-where-are-we.pdf) |
+| [2nd Gitbook: Titanic — Python Part](https://aiwithr.github.io/mlbook-titanic/j_notebook/titanic-project-test) | [Table of Contents](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/ai-where-are-we.pdf) |
 | [3rd Gitbook: Python Machine Learning from Zero](https://raqueeb.gitbook.io/scikit-learn/) | [Table of Contents](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/what-is-ml.pdf) |
 | [4th Gitbook: Python Deep Learning](https://www.rokomari.com/book/198757/) | [Table of Contents](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/concept-ai.pdf) |
 | [5th Online Book: Natural Language Processing](https://aiwithr.github.io/nlpbook/) | [Table of Contents](https://github.com/aiwithr/aiwithr.github.io/raw/master/ai-policy-makers/nlp-bangla.pdf) |

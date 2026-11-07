@@ -124,7 +124,7 @@ date: 2020-05-29T22:08:14-05:00
 
 এবং কোথায়?
 
-চোখ রাখুন [এখানে](https://rakibul-hassan.gitbook.io/mlbook-titanic/)।
+চোখ রাখুন [এখানে](https://aiwithr.github.io/mlbook-titanic/)।
 
 ## বাংলায় ডিপ লার্নিংয়ের একমাত্র বই
 

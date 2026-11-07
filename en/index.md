@@ -42,7 +42,7 @@ Read Rakibul Hassan's open-access books on Artificial Intelligence, Machine Lear
 
 - **[Forward Deployed Engineering (FDE) — Hands-on Field Manual](https://aiwithr.github.io/fde_book/)**: Practical field guide to Palantir-style deployment, on-premise local AI, and self-healing production systems.
 - **[AI Work Flow for Business — Enterprise Automation, Without the Cloud](https://aiwithr.github.io/ai_llm/)**: Privacy-first enterprise AI orchestration using local open-source SLMs ([Project Summary](https://aiwithr.github.io/ai_llm/PROJECT_SUMMARY/)).
-- **[Hatekolome Machine Learning (হাতেকলমে মেশিন লার্নিং)](https://rakibul-hassan.gitbook.io/mlbook-titanic/)**: The pioneering Bangla machine learning bestseller.
+- **[Hatekolome Machine Learning (হাতেকলমে মেশিন লার্নিং)](https://aiwithr.github.io/mlbook-titanic/)**: The pioneering Bangla machine learning bestseller.
 - **[Python Machine Learning from Zero (শূন্য থেকে পাইথন মেশিন লার্নিং)](https://raqueeb.gitbook.io/scikit-learn/)**: Hands-on machine learning modeling with scikit-learn and real-world datasets.
 - **[Hatekolome Python Deep Learning (হাতেকলমে পাইথন ডিপ লার্নিং)](https://rakibul-hassan.gitbook.io/deep-learning/)**: Deep neural networks and practical applications in Python.
 - **[Artificial Intelligence in Education (কৃত্রিম বুদ্ধিমত্তায় শিক্ষাব্যবস্থা)](https://aiwithr.github.io/aibook/edu/personalized-ed/)**: Personalized and adaptive learning systems for modernizing education with AI.
